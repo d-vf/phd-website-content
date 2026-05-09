@@ -1,1 +1,22 @@
+# Breve Introdução
+O Programa Doutoral em Engenharia e Gestão corporiza uma opção estratégica do IST no sentido da educação em estudos superiores avançados de estudantes capazes de dominar uma variedade de conhecimentos em Métodos Científicos em Gestão (Management Science) , envolvendo um conjunto alargado de temas e abordagens aplicáveis a problemas de decisão e análise ao nível da gestão empresarial, das políticas públicas e da interacção entre tecnologia, economia e sociedade.
+
+# Historial
+O desenvolvimento tecnológico gerou uma crescente convergência entre os sectores secundário, terciário, e mesmo o primário, ao nível do uso de tecnologias de aplicação horizontal ou transversal. Os engenheiros com uma formação avançada capaz de aliar conhecimentos tecnológicos, métodos científicos de gestão, e factores organizacionais, tendem a desempenhar um papel cada vez mais importante no desenvolvimento empresarial ao nível da indústria e serviços na sociedade.
+Justifica-se, assim esta formação científica de 3º ciclo no IST em "Engenharia e Gestão".
+ 
+# Objectivos
+O 3º ciclo de estudos do IST conducente ao grau de Doutor em Engenharia e Gestão tem como objectivo principal habilitar os seus estudantes para o desempenho de actividades de investigação científica independente, de qualidade internacionalmente reconhecida em Métodos Científicos de Gestão, nos contextos universitário, da administração pública e do sector empresarial.
+
+# Destinatários
+O Programa Doutoral em Engenharia e Gestão destina-se a detentores de um grau de Licenciatura (Pré-Bolonha) ou Mestrado (Bolonha) em qualquer ramo da Engenharia, Economia, Gestão e Ciências Sociais.
+Saídas Profissionais
+Os detentores do grau de Doutor em Engenharia e Gestão poderão exercer a sua actividade primordialmente em Instituições de Ensino Superior, Laboratórios de Investigação, Empresas e Órgãos Governamentais e da Administração Pública.
+
+# Regime de Funcionamento
+O Programa Doutoral em Engenharia e Gestão é composto pelo curso de doutoramento, que é um conjunto de unidades curriculares (UC's) obrigatórias e de opção a realizar pelos estudantes do programa; e pela elaboração de uma dissertação de investigação original. As UC's com estudantes estrangeiros decorrem em língua inglesa.
+
+# Propinas
+Anualmente o Conselho Directivo do IST estabelece as propinas para os diversos programas de ensino no IST. Essa informação encontra-se disponível no Regulamento de Propinas de Doutoramento do IST.
+Publicações Oficiais
 
