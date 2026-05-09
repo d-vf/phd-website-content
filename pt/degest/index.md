@@ -14,10 +14,24 @@ O Programa Doutoral em Engenharia e Gestão destina-se a detentores de um grau d
 # Saídas Profissionais
 Os detentores do grau de Doutor em Engenharia e Gestão poderão exercer a sua actividade primordialmente em Instituições de Ensino Superior, Laboratórios de Investigação, Empresas e Órgãos Governamentais e da Administração Pública.
 
+## Indicadores e/ou Colocações
+
 # Regime de Funcionamento
 O Programa Doutoral em Engenharia e Gestão é composto pelo curso de doutoramento, que é um conjunto de unidades curriculares (UC's) obrigatórias e de opção a realizar pelos estudantes do programa; e pela elaboração de uma dissertação de investigação original. As UC's com estudantes estrangeiros decorrem em língua inglesa.
 
 # Propinas
 Anualmente o Conselho Directivo do IST estabelece as propinas para os diversos programas de ensino no IST. Essa informação encontra-se disponível no Regulamento de Propinas de Doutoramento do IST.
 Publicações Oficiais
+
+## Eventos e dissiminação
+
+## Ligações úteis
+
+- [Áreas de investigação](areas-de-investigacao.md)
+- [Candidaturas](candidaturas.md)
+- [Estrutura do programa](estrutura.md)
+- [Dissertações](dissertacoes.md)
+- [Regulamentos e publicações oficiais](regulamentos.md)
+- [Coordenação](coordenacao.md)
+- [Contactos](contactos.md)
 
