@@ -10,7 +10,8 @@ O 3º ciclo de estudos do IST conducente ao grau de Doutor em Engenharia e Gest�
 
 # Destinatários
 O Programa Doutoral em Engenharia e Gestão destina-se a detentores de um grau de Licenciatura (Pré-Bolonha) ou Mestrado (Bolonha) em qualquer ramo da Engenharia, Economia, Gestão e Ciências Sociais.
-Saídas Profissionais
+
+# Saídas Profissionais
 Os detentores do grau de Doutor em Engenharia e Gestão poderão exercer a sua actividade primordialmente em Instituições de Ensino Superior, Laboratórios de Investigação, Empresas e Órgãos Governamentais e da Administração Pública.
 
 # Regime de Funcionamento
