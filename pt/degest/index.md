@@ -23,8 +23,6 @@ O Programa Doutoral em Engenharia e Gestão é composto pelo curso de doutoramen
 Anualmente o Conselho Directivo do IST estabelece as propinas para os diversos programas de ensino no IST. Essa informação encontra-se disponível no Regulamento de Propinas de Doutoramento do IST.
 Publicações Oficiais
 
-## Eventos e dissiminação
-
 ## Ligações úteis
 
 - [Áreas de investigação](areas-de-investigacao.md)
