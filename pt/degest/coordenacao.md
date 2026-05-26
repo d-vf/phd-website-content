@@ -18,9 +18,33 @@ Fontes:
 
 A estrutura científica do programa articula a coordenação do ciclo de estudos, os orientadores científicos, a Comissão de Acompanhamento de Tese e os órgãos científicos competentes do Instituto Superior Técnico.
 
-A documentação A3ES mais recente identifica **Francisco Miguel Garcia Gonçalves de Lima** como docente responsável pela coordenação da implementação do ciclo de estudos.
 
-A composição operacional da estrutura científica deve ser confirmada nas fontes institucionais mais recentes do Técnico, uma vez que a informação anteriormente publicada no Fénix pode estar desatualizada.
+Rui Miguel Nobre Loureiro Baptista
+
+Professor Catedrático do Departamento de Engenharia e Gestão
+
+Instituto Superior Técnico
+
+
+Ana Paula Ferreira Dias Barbosa Póvoa
+
+Professora Catedrática do Departamento de Engenharia e Gestão
+
+Instituto Superior Técnico
+
+  
+José Rui de Matos Figueira
+
+Professor Catedrático do Departamento de Engenharia e Gestão
+
+Instituto Superior Técnico
+
+
+Mónica Duarte Correia de Oliveira
+
+Professora Catedrática do Departamento de Engenharia e Gestão
+
+Instituto Superior Técnico
 
 ## Funções de acompanhamento científico
 
