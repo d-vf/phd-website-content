@@ -1,8 +1,3 @@
-# Requisitos
-# Processo
-# Bolsas
-# Concursos abertos
-
 # Candidaturas
 
 As candidaturas ao Programa Doutoral em Engenharia e Gestão são submetidas online, através das plataformas indicadas pelo Técnico e pela Área de Pós-Graduação. As candidaturas são aceites em permanência, mas apenas são avaliadas nos períodos definidos para apreciação.
@@ -79,3 +74,5 @@ Para enquadramento científico, orientação e temas de investigação, consulta
 
 - [Comissão Científica](coordenacao.md)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
+
+# Concursos abertos
