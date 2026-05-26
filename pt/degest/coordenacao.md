@@ -12,7 +12,7 @@ Fontes:
 
 - [Técnico — Coordenadores de curso para o biénio 2025–2026](https://tecnico.ulisboa.pt/pt/noticias/campus-e-comunidade/coordenadores-de-curso-tomam-posse-para-o-bienio-2025-2026/)
 - [Diário da República — Despacho n.º 2995/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2995-2026-1068900261)
-- [Página pessoal no Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist12749)
+
 
 ## Comissão Científica / estrutura científica do programa
 
