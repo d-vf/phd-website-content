@@ -1,18 +1,3 @@
-
-# Description
-
-# Research centres
-
-CEGIST - Centro de Estudos de Gestão
-do Instituto Superior Técnico 
-
-https://cegist.tecnico.ulisboa.pt/
-
-Centro de Estudos em Inovação Tecnologia e Políticas de Desenvolvimento (IN+)
-https://in3.dem.ist.utl.pt/
-
-# External Agreements
-
 # Áreas de investigação
 
 O Programa Doutoral em Engenharia e Gestão enquadra investigação avançada em Métodos Científicos de Gestão (*Management Science*) e em problemas de decisão, análise, organização e gestão em contextos tecnológicos, empresariais, públicos e sociais.
@@ -100,7 +85,6 @@ Lista indicativa de docentes associados ao Programa Doutoral em Engenharia e Ges
 
 A definição de novos tópicos de tese deve considerar os ramos de investigação activos, os interesses dos docentes e as dissertações já concluídas no programa. As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cadeias de abastecimento de sangue, serviços sociais domiciliários, saúde digital, optimização multi-objectivo, veículos autónomos partilhados, resiliência em cadeias de abastecimento, serviços médicos de emergência, foresight, políticas públicas, infraestruturas, florestas, energia, sustentabilidade, empreendedorismo, gestão municipal, avaliação multicritério, sistemas de informação, logística inversa, redes hospitalares e desempenho de serviços urbanos.
 
-- [Teses concluídas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/teses)
 - [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
 
 ## Ligação a docentes, projectos e actividades científicas
@@ -109,7 +93,6 @@ A página deve funcionar como ponto de entrada para informação existente, evit
 
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
 - [Corpo docente do DeGest no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/corpo-docente)
-- [Comissão Científica do DeGest no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/comissao-cientifica)
 - [CEGIST — Projects](https://cegist.tecnico.ulisboa.pt/projects)
 - [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 - [IN+ — News](https://in3.dem.ist.utl.pt/news/)
