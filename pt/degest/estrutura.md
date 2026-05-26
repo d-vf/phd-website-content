@@ -1,92 +1,3 @@
-# Organização
-# Componente Curricular
-# Comissão de Acompanhamento Tese (CAT)
-# Progresso nas Atividades de Investigação
-# Escrita da Tese
-# Defesa da Tese
-
-
-# Specializations 
-
-Operations, Logistics and Supply Chain Management
-
-Operations Research and Business Analytics
-
-Decision and Risk Analysis 
-
-Strategy, Innovation and Entrepreneurship
-
-Health Engineering and Management
-
-Sustainability Engineering and Management
-
-Doctoral School
-https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/
-
-# Estrutura curricular
-
-O Programa Doutoral em Engenharia e Gestão é composto por uma componente curricular de doutoramento e pela elaboração de uma tese de investigação original.
-
-A informação oficial e actualizada sobre o plano curricular deve ser consultada no Fénix.
-
-- [Currículo no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/curriculo)
-- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/plano-curricular)
-- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/paginas-de-disciplinas)
-
-## Organização geral
-
-A componente curricular actualmente publicada no Fénix corresponde ao plano DEAEGest2025 e inclui 30 ECTS. Esta componente integra:
-
-- bloco de especialização;
-- bloco de competências transversais;
-- bloco de opções livres;
-- unidades curriculares de apoio ao desenvolvimento científico, ensino, investigação ou estágios, quando aplicável e aprovado.
-
-A componente de investigação conduz à preparação, desenvolvimento, escrita e defesa de uma tese de doutoramento original.
-
-## Bloco de especialização
-
-O bloco de especialização inclui unidades curriculares em áreas fundamentais da Engenharia e Gestão. Entre as unidades publicadas no Fénix incluem-se:
-
-- Estratégia e Gestão da Inovação;
-- Modelos e Aplicações em Operações, Logística e Gestão de Cadeias de Abastecimento;
-- Optimização e Aplicações;
-- Seminário Avançado em Sistemas de Informação;
-- Tópicos em Engenharia e Gestão I;
-- Tópicos em Engenharia e Gestão II;
-- Economia e Estratégia: Teoria e Aplicações;
-- Empreendedorismo: Teoria e Modelos;
-- Investigação em Sistemas e Serviços de Saúde;
-- Métodos Econométricos;
-- Modelos e Aplicações em Análise de Decisão.
-
-A selecção de unidades curriculares deve ser feita em articulação com a coordenação e com o percurso científico do estudante.
-
-## Competências transversais
-
-O plano inclui formação em competências transversais de 3.º ciclo. Estas unidades podem ser frequentadas através da oferta da Escola Doutoral do Técnico, de acordo com as regras do programa e a oferta disponível em cada ano lectivo.
-
-- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-
-## Opções livres, estágios e formação complementar
-
-O plano curricular publicado inclui opções livres e unidades associadas a actividades como apoio ao ensino, estágios de investigação no estrangeiro e estágios não académicos, mediante aprovação da coordenação quando aplicável.
-
-Fontes úteis:
-
-- [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-
-## Acompanhamento da tese
-
-O desenvolvimento da tese deve seguir as regras gerais dos doutoramentos do Técnico e as normas específicas aplicáveis ao programa. O percurso envolve definição de orientação, plano de investigação, acompanhamento científico, progresso nas actividades de investigação, escrita da tese e defesa pública.
-
-Consultar:
-
-- [Regulamentos dos programas doutorais](regulamentos.md)
-- [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-
-
 # Estrutura curricular
 
 O Programa Doutoral em Engenharia e Gestão é composto por uma componente curricular de doutoramento e pela elaboração de uma tese de investigação original.
@@ -99,13 +10,17 @@ A estrutura global corresponde a **240 ECTS**, organizados em:
 | Tese de Doutoramento em Engenharia e Gestão | 210 ECTS |
 | **Total** | **240 ECTS** |
 
-A informação oficial e atualizada sobre o plano curricular deve ser consultada no Fénix e nas fontes institucionais aplicáveis.
+A informação oficial e atualizada sobre o plano curricular deve ser consultada no Fénix, na DGES e nos registos oficiais de acreditação e publicação.
+
+## Fontes oficiais
 
 - [Currículo no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/curriculo)
 - [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/plano-curricular)
 - [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/paginas-de-disciplinas)
-- [DGES — Engenharia e Gestão, Doutoramento](https://www.dges.gov.pt/simges/public/www/cursos/13986)
-- [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
+- [DGES — Engenharia e Gestão, Doutoramento, registo R/A-Ef 2141/2011/AL02](https://www.dges.gov.pt/simges/public/www/cursos/13986)
+- [A3ES — Processo ACEF/1920/0306877/ALT_001, acreditado em 20-03-2025](https://si.a3es.pt/sia3es/page?processID=25769&stage=ConsultaPublicaProcesso)
+- [A3ES — Processo ACEF/1920/0306877, Guião para a auto-avaliação](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306877_dout_eng_gestao.pdf)
+- [Diário da República — Despacho n.º 12290/2015, alteração do Doutoramento em Engenharia e Gestão](https://diariodarepublica.pt/dr/detalhe/despacho/12290-2015-70880834)
 
 # Organização
 
@@ -120,7 +35,9 @@ A componente de investigação conduz à definição, desenvolvimento, escrita e
 
 # Componente curricular
 
-A componente curricular corresponde a **30 ECTS** e é composta por três blocos:
+A componente curricular corresponde ao **Tronco Comum**, com **30 ECTS**.
+
+Segundo a estrutura curricular registada na DGES, os 30 ECTS distribuem-se do seguinte modo:
 
 | Bloco | Créditos |
 |---|---:|
@@ -129,13 +46,29 @@ A componente curricular corresponde a **30 ECTS** e é composta por três blocos
 | Bloco de Opções Livres | 0 a 12 ECTS |
 | **Total** | **30 ECTS** |
 
-O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST/ULisboa.
+O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST/Escolas da Universidade de Lisboa.
 
-## Bloco de Especialização
+O programa prevê um Tronco Comum e diferentes especialidades associadas à tese de doutoramento.
+
+| Percurso / Especialidade | Designação em inglês | Créditos associados à tese |
+|---|---|---:|
+| Percurso Livre | Free Path | 210 ECTS |
+| Operações, Logística e Gestão de Cadeias de Abastecimento | Operations, Logistics and Supply Chain Management | 210 ECTS |
+| Investigação Operacional e Analítica Empresarial | Operations Research and Business Analytics | 210 ECTS |
+| Análise de Decisão e Risco | Decision and Risk Analysis | 210 ECTS |
+| Estratégia, Inovação e Empreendedorismo | Strategy, Innovation and Entrepreneurship | 210 ECTS |
+| Engenharia e Gestão da Saúde | Health Engineering and Management | 210 ECTS |
+| Sustentabilidade em Engenharia e Gestão | Sustainability in Engineering and Management | 210 ECTS |
+
+A especialidade de cada estudante é definida pelo conteúdo científico e tecnológico desenvolvido na unidade curricular **Tese de Doutoramento em Engenharia e Gestão**, mediante parecer dos orientadores, do coordenador e da comissão científica do programa.
+
+O **Percurso Livre** corresponde a um percurso sem especialidade. Neste caso, o estudante realiza as unidades curriculares do Tronco Comum e a unidade curricular **Tese de Doutoramento em Engenharia e Gestão** para obtenção do grau.
 
 O Bloco de Especialização permite ao estudante aprofundar formação avançada em áreas fundamentais da Engenharia e Gestão.
 
-As unidades curriculares publicadas no plano curricular incluem, entre outras:
+## Bloco de Especialização
+
+Entre as unidades curriculares publicadas no plano curricular incluem-se:
 
 - Optimização e Aplicações;
 - Modelos e Aplicações em Operações, Logística e Gestão de Cadeias de Abastecimento;
@@ -184,24 +117,6 @@ Fontes úteis:
 
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-
-# Specializations
-
-O programa prevê as seguintes especialidades potenciais:
-
-| Especialidade | Designação em inglês | Créditos associados à tese |
-|---|---|---:|
-| Operações, Logística e Gestão de Cadeias de Abastecimento | Operations, Logistics and Supply Chain Management | 210 ECTS |
-| Investigação Operacional e Analítica Empresarial | Operations Research and Business Analytics | 210 ECTS |
-| Análise de Decisão e Risco | Decision and Risk Analysis | 210 ECTS |
-| Estratégia, Inovação e Empreendedorismo | Strategy, Innovation and Entrepreneurship | 210 ECTS |
-| Engenharia e Gestão da Saúde | Health Engineering and Management | 210 ECTS |
-| Sustentabilidade em Engenharia e Gestão | Sustainability Engineering and Management | 210 ECTS |
-| Percurso Livre | Free Path | 210 ECTS |
-
-A especialidade de cada estudante é definida pelo conteúdo científico e tecnológico desenvolvido na unidade curricular **Tese de Doutoramento em Engenharia e Gestão**, mediante parecer dos orientadores, do coordenador e da comissão científica do programa.
-
-O **Percurso Livre** corresponde a um percurso sem especialidade. Neste caso, o estudante realiza as unidades curriculares do Tronco Comum e a unidade curricular **Tese de Doutoramento em Engenharia e Gestão** para obtenção do grau.
 
 # Doctoral School
 
@@ -258,5 +173,22 @@ A entrega, apreciação, constituição do júri, marcação da prova pública e
 
 - [Regulamentos](regulamentos.md)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
+
+# Publicações oficiais e acreditação
+
+A informação institucional atualmente disponível articula diferentes fontes:
+
+| Fonte | Conteúdo |
+|---|---|
+| Fénix | Página institucional do programa, currículo, plano curricular, páginas de disciplinas, coordenação e publicações oficiais. |
+| DGES | Registo oficial do ciclo de estudos, estrutura curricular, plano de estudos, especialidades, créditos e acreditação. |
+| A3ES | Processo de acreditação do ciclo de estudos. |
+| Diário da República | Publicação oficial de alterações anteriores ao ciclo de estudos. |
+
+## Registos principais
+
+- **DGES:** Registo **R/A-Ef 2141/2011/AL02**, associado à estrutura curricular e ao plano de estudos atualmente apresentados na DGES.
+- **A3ES:** Processo **ACEF/1920/0306877/ALT_001**, com decisão de acreditação publicada em **20-03-2025**.
+- **Diário da República:** Despacho n.º **12290/2015**, de 2 de novembro, relativo à alteração do Doutoramento em Engenharia e Gestão, registada pela DGES com o n.º **R/A-Ef 2141/2011/AL01**.
 
 
