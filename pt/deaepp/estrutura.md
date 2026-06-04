@@ -1,126 +1,129 @@
 # Estrutura curricular
 
-O Programa Doutoral em Engenharia e Gestão é composto por uma componente curricular de doutoramento e pela elaboração de uma tese de investigação original.
+O Programa Doutoral em Engenharia e Políticas Públicas (DEAEPP) é composto por uma componente curricular de doutoramento e pela elaboração de uma tese de investigação original.
 
-A estrutura global corresponde a **240 ECTS**, organizados em:
+A estrutura global corresponde a **240 ECTS**, com duração normal de **4 anos / 8 semestres**, organizados em:
 
 | Componente | Créditos |
 |---|---:|
-| Componente curricular / Tronco Comum | 30 ECTS |
-| Tese de Doutoramento em Engenharia e Gestão | 210 ECTS |
+| Curso de Doutoramento (componente curricular) | 30 ECTS |
+| Tese de Doutoramento em Engenharia e Políticas Públicas | 210 ECTS |
 | **Total** | **240 ECTS** |
+
+A área científica predominante do ciclo de estudos é **Engenharia e Gestão**.
 
 A informação oficial e atualizada sobre o plano curricular deve ser consultada no Fénix, na DGES e nos registos oficiais de acreditação e publicação.
 
+## Estrutura curricular por área científica
+
+Segundo a estrutura curricular registada na DGES e publicada no Despacho n.º 6462/2021, os 240 ECTS distribuem-se pelas seguintes áreas científicas:
+
+| Área científica | Sigla | Obrigatórios | Opcionais |
+|---|---|---:|---:|
+| Engenharia e Gestão de Organizações | EGO | 12 ECTS | — |
+| Engenharia e Gestão de Sistemas | EGS | 6 ECTS | — |
+| Áreas Científicas de Engenharia e Gestão (Tese) | ACEG | 210 ECTS | — |
+| Opções — Todas as áreas científicas do IST | OL | — | 12 ECTS |
+| **Subtotal** | | **228 ECTS** | **12 ECTS** |
+| **Total** | | **240 ECTS** | |
+
+O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST.
+
 ## Fontes oficiais
 
-- [Currículo no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/curriculo)
-- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/plano-curricular)
-- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/paginas-de-disciplinas)
-- [DGES — Engenharia e Gestão, Doutoramento, registo R/A-Ef 2141/2011/AL02](https://www.dges.gov.pt/simges/public/www/cursos/13986)
-- [A3ES — Processo ACEF/1920/0306877/ALT_001, acreditado em 20-03-2025](https://si.a3es.pt/sia3es/page?processID=25769&stage=ConsultaPublicaProcesso)
-- [A3ES — Processo ACEF/1920/0306877, Guião para a auto-avaliação](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306877_dout_eng_gestao.pdf)
-- [Diário da República — Despacho n.º 12290/2015, alteração do Doutoramento em Engenharia e Gestão](https://diariodarepublica.pt/dr/detalhe/despacho/12290-2015-70880834)
+- [Currículo no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/curriculo)
+- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/plano-curricular)
+- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/paginas-de-disciplinas)
+- [Diário da República — Despacho n.º 6462/2021, alteração do Doutoramento em Engenharia e Políticas Públicas](https://files.dre.pt/2s/2021/07/126000000/0008100083.pdf)
+- [A3ES — resultados de acreditação do ciclo de estudos](https://a3es.pt/pt/resultados-acreditacao/engenharia-e-politicas-publicas-4)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
 
 # Organização
 
 O programa organiza-se em duas componentes principais:
 
-1. **Componente curricular**, correspondente ao Tronco Comum, com **30 ECTS**.
-2. **Componente de investigação**, correspondente à unidade curricular **Tese de Doutoramento em Engenharia e Gestão**, com **210 ECTS**.
+1. **Componente curricular**, correspondente ao Curso de Doutoramento, com **30 ECTS**.
+2. **Componente de investigação**, correspondente à unidade curricular **Tese de Doutoramento em Engenharia e Políticas Públicas**, com **210 ECTS**.
 
-A componente curricular permite ao estudante consolidar formação avançada em Engenharia e Gestão, selecionar unidades curriculares alinhadas com o seu percurso científico e completar formação transversal relevante para o desenvolvimento do doutoramento.
+A componente curricular permite ao estudante consolidar formação avançada na interface entre engenharia, tecnologia e políticas públicas, selecionar unidades curriculares alinhadas com o seu percurso científico e completar formação transversal relevante para o desenvolvimento do doutoramento.
 
 A componente de investigação conduz à definição, desenvolvimento, escrita e defesa pública de uma tese original.
 
+## Regime de funcionamento
+
+O DEAEPP foi desenvolvido em parceria com o departamento de Engineering and Public Policy da Carnegie Mellon University (Pittsburgh, EUA) e integra o programa **CMU-Portugal**.
+
+O programa funciona em dois formatos:
+
+1. **Grau dual IST/CMU** — em parceria com a Carnegie Mellon University, em que os estudantes passam parte do percurso na CMU para obtenção do duplo grau;
+2. **Percurso integral no IST** — programa integralmente lecionado no Instituto Superior Técnico.
+
+No caso do grau dual, os candidatos devem ser admitidos pelas duas instituições e, tipicamente, apresentar resultados recentes dos exames GRE e TOEFL, candidatando-se diretamente ao programa EPP na CMU. A classificação final dos candidatos ao programa dual é determinada por uma Comissão de Seleção Conjunta.
+
+## Coordenação
+
+A coordenação do ciclo de estudos é assegurada pela equipa de coordenação do programa. A informação atualizada sobre a coordenação deve ser consultada na página oficial do curso no Fénix.
+
+- [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
+- [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+
 # Componente curricular
 
-A componente curricular corresponde ao **Tronco Comum**, com **30 ECTS**.
+A componente curricular corresponde ao **Curso de Doutoramento**, com **30 ECTS**.
 
-Segundo a estrutura curricular registada na DGES, os 30 ECTS distribuem-se do seguinte modo:
+Segundo o plano de estudos publicado no Despacho n.º 6462/2021, os 30 ECTS distribuem-se por três áreas científicas:
 
-| Bloco | Créditos |
-|---|---:|
-| Bloco de Especialização | 12 a 24 ECTS |
-| Bloco de Competências Transversais | 6 ECTS |
-| Bloco de Opções Livres | 0 a 12 ECTS |
-| **Total** | **30 ECTS** |
-
-O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST/Escolas da Universidade de Lisboa.
-
-O programa prevê um Tronco Comum e diferentes especialidades associadas à tese de doutoramento.
-
-| Percurso / Especialidade | Designação em inglês | Créditos associados à tese |
+| Área científica | Sigla | Créditos |
 |---|---|---:|
-| Percurso Livre | Free Path | 210 ECTS |
-| Operações, Logística e Gestão de Cadeias de Abastecimento | Operations, Logistics and Supply Chain Management | 210 ECTS |
-| Investigação Operacional e Analítica Empresarial | Operations Research and Business Analytics | 210 ECTS |
-| Análise de Decisão e Risco | Decision and Risk Analysis | 210 ECTS |
-| Estratégia, Inovação e Empreendedorismo | Strategy, Innovation and Entrepreneurship | 210 ECTS |
-| Engenharia e Gestão da Saúde | Health Engineering and Management | 210 ECTS |
-| Sustentabilidade em Engenharia e Gestão | Sustainability in Engineering and Management | 210 ECTS |
+| Engenharia e Gestão de Organizações | EGO | 12 ECTS |
+| Engenharia e Gestão de Sistemas | EGS | 6 ECTS |
+| Opções — Todas as áreas científicas do IST | OL | 12 ECTS |
+| **Total** | | **30 ECTS** |
 
-A especialidade de cada estudante é definida pelo conteúdo científico e tecnológico desenvolvido na unidade curricular **Tese de Doutoramento em Engenharia e Gestão**, mediante parecer dos orientadores, do coordenador e da comissão científica do programa.
+A componente curricular concentra-se no **1.º ano** do ciclo de estudos. A componente de investigação (**Tese**) decorre ao longo dos quatro anos.
 
-O **Percurso Livre** corresponde a um percurso sem especialidade. Neste caso, o estudante realiza as unidades curriculares do Tronco Comum e a unidade curricular **Tese de Doutoramento em Engenharia e Gestão** para obtenção do grau.
+## Plano de estudos
 
-O Bloco de Especialização permite ao estudante aprofundar formação avançada em áreas fundamentais da Engenharia e Gestão.
+| Unidade curricular | Área científica | Ano / Semestre | Créditos |
+|---|---|---|---:|
+| Teoria, Prática e Análise de Políticas Públicas | EGO | 1.º ano, 1.º semestre | 6 ECTS |
+| Opção Livre | OL | 1.º ano, 1.º semestre | 6 ECTS |
+| Modelos e Aplicações em Análise de Decisão | EGS | 1.º ano, 2.º semestre | 6 ECTS |
+| Métodos Quantitativos de Investigação | EGO | 1.º ano, 2.º semestre | 6 ECTS |
+| Opção Livre | OL | 1.º ano, 1.º ou 2.º semestre | 6 ECTS |
+| Tese | ACEG | 1.º ano (anual) | 30 ECTS |
+| Tese | ACEG | 2.º ano (anual) | 60 ECTS |
+| Tese | ACEG | 3.º ano (anual) | 60 ECTS |
+| Tese | ACEG | 4.º ano (anual) | 60 ECTS |
 
-## Bloco de Especialização
+## Unidades curriculares obrigatórias
 
-Entre as unidades curriculares publicadas no plano curricular incluem-se:
+A componente curricular inclui as seguintes unidades curriculares obrigatórias:
 
-- Optimização e Aplicações;
-- Modelos e Aplicações em Operações, Logística e Gestão de Cadeias de Abastecimento;
-- Sustentabilidade em Engenharia e Gestão;
-- Modelos e Aplicações em Análise de Decisão;
-- Economia e Estratégia: Teoria e Aplicações;
-- Empreendedorismo: Teoria e Modelos;
-- Métodos Econométricos;
-- Tópicos em Engenharia e Gestão I;
-- Estratégia e Gestão da Inovação;
-- Tópicos em Engenharia e Gestão II;
-- Analítica Empresarial e Simulação;
-- Seminário Avançado em Sistemas de Informação;
-- Investigação em Sistemas e Serviços de Saúde;
-- Opcional de Especialização I;
-- Opcional de Especialização II.
-
-A seleção das unidades curriculares deve ser feita em articulação com a coordenação do programa e com o percurso científico do estudante.
-
-## Bloco de Competências Transversais
-
-O Bloco de Competências Transversais corresponde a **6 ECTS**.
-
-Estas unidades curriculares podem incluir formação em competências relevantes para o desenvolvimento do doutoramento, tais como escrita científica, comunicação de ciência, metodologias de investigação, gestão de projetos científicos, ética, liderança, empreendedorismo e outras competências transversais.
-
-A oferta disponível deve ser consultada anualmente através da Técnico Doctoral School.
-
-- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
+- **Teoria, Prática e Análise de Políticas Públicas** (EGO, 6 ECTS) — introdução à tomada de decisão em contexto de políticas públicas, falhas de mercado e intervenção pública, paradigmas e quadros conceptuais para a análise de políticas, e abordagens de engenharia e gestão para a decisão pública;
+- **Métodos Quantitativos de Investigação** (EGO, 6 ECTS) — formação em métodos quantitativos de suporte à investigação;
+- **Modelos e Aplicações em Análise de Decisão** (EGS, 6 ECTS) — modelos e métodos de análise de decisão e respetivas aplicações.
 
 ## Bloco de Opções Livres
 
-O Bloco de Opções Livres pode corresponder a **0 a 12 ECTS**, de acordo com o percurso aprovado.
+O Bloco de Opções Livres corresponde a **12 ECTS**, realizados através de duas unidades curriculares opcionais de **6 ECTS** cada.
 
-Pode incluir unidades curriculares opcionais, estágios, apoio ao ensino ou outras atividades formativas previstas no plano curricular, quando aplicável e mediante aprovação.
+As opções livres podem ser escolhidas de entre **todas as áreas científicas do IST**, permitindo ao estudante completar formação alinhada com o seu percurso científico e com o tema da tese. O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST.
 
-Entre as opções publicadas no plano curricular incluem-se:
+A seleção das unidades curriculares deve ser feita em articulação com a coordenação do programa e com o percurso científico do estudante.
 
-- Opcional I;
-- Opcional II;
-- Estágio não Académico I;
-- Estágio de Investigação no Estrangeiro;
-- Apoio ao Ensino I;
-- Apoio ao Ensino II.
+## Fontes úteis
 
-Fontes úteis:
-
-- [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
+- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/plano-curricular)
+- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/paginas-de-disciplinas)
+- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
 
 # Doctoral School
 
 A Técnico Doctoral School reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
+
+Estas iniciativas estão disponíveis para os estudantes do Programa Doutoral em Engenharia e Políticas Públicas, complementando a formação avançada e o desenvolvimento da tese.
 
 - [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
 - [Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
@@ -134,6 +137,8 @@ A Comissão de Acompanhamento de Tese acompanha o desenvolvimento científico do
 
 A CAT tem como função apoiar o acompanhamento regular do plano de investigação, a avaliação da evolução dos trabalhos e a identificação de eventuais necessidades de ajustamento científico, metodológico ou institucional.
 
+No caso dos estudantes em regime de grau dual IST/CMU, o acompanhamento articula-se também com a orientação e os procedimentos previstos na Carnegie Mellon University, no âmbito do programa CMU-Portugal.
+
 A composição, funcionamento e momentos formais de acompanhamento devem ser confirmados nos regulamentos aplicáveis aos programas doutorais do Técnico e nas normas específicas do programa.
 
 - [Regulamentos](regulamentos.md)
@@ -141,7 +146,7 @@ A composição, funcionamento e momentos formais de acompanhamento devem ser con
 
 # Progresso nas Atividades de Investigação
 
-O progresso nas atividades de investigação corresponde ao desenvolvimento contínuo do trabalho científico que conduz à tese.
+O progresso nas atividades de investigação corresponde ao desenvolvimento contínuo do trabalho científico que conduz à tese, na interface entre engenharia, tecnologia e políticas públicas.
 
 Esta fase inclui, em geral:
 
@@ -150,7 +155,7 @@ Esta fase inclui, em geral:
 - formulação das questões de investigação;
 - desenvolvimento metodológico;
 - recolha, tratamento ou produção de dados, quando aplicável;
-- desenvolvimento de modelos, métodos, análises ou estudos empíricos;
+- desenvolvimento de modelos, métodos, análises ou estudos empíricos para suporte à decisão e ao desenho de políticas públicas;
 - produção de resultados científicos;
 - apresentação e discussão de resultados em seminários, conferências ou outros contextos científicos;
 - preparação de publicações científicas, quando aplicável.
@@ -161,18 +166,19 @@ O acompanhamento do progresso deve ser feito em articulação com a orientação
 
 A escrita da tese corresponde à sistematização do trabalho de investigação desenvolvido durante o doutoramento.
 
-A tese deve apresentar uma contribuição científica original na área de Engenharia e Gestão e demonstrar capacidade de investigação autónoma, domínio metodológico e enquadramento crítico do problema estudado.
+A tese deve apresentar uma contribuição científica original na área de Engenharia e Políticas Públicas — tipicamente no desenho, análise e avaliação de políticas públicas em domínios onde a tecnologia é um fator determinante — e demonstrar capacidade de investigação autónoma, domínio metodológico e enquadramento crítico do problema estudado.
 
-A estrutura concreta da tese deve ser definida com a orientação científica e de acordo com as normas aplicáveis do Técnico.
+A estrutura concreta da tese deve ser definida com a orientação científica e de acordo com as normas aplicáveis do Técnico. No caso dos estudantes em regime de grau dual IST/CMU, devem ainda ser observadas as normas aplicáveis na Carnegie Mellon University.
 
 # Defesa da Tese
 
 A defesa da tese corresponde ao ato público de apreciação e discussão do trabalho de investigação desenvolvido.
 
-A entrega, apreciação, constituição do júri, marcação da prova pública e demais procedimentos devem seguir os regulamentos aplicáveis aos doutoramentos do Técnico e as normas da Área de Pós-Graduação.
+A entrega, apreciação, constituição do júri, marcação da prova pública e demais procedimentos devem seguir os regulamentos aplicáveis aos doutoramentos do Técnico e as normas da Área de Pós-Graduação. No caso dos estudantes em regime de grau dual IST/CMU, aplicam-se igualmente os procedimentos previstos no âmbito da parceria com a Carnegie Mellon University.
 
 - [Regulamentos](regulamentos.md)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
+- [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
 
 # Publicações oficiais e acreditação
 
@@ -181,13 +187,33 @@ A informação institucional atualmente disponível articula diferentes fontes:
 | Fonte | Conteúdo |
 |---|---|
 | Fénix | Página institucional do programa, currículo, plano curricular, páginas de disciplinas, coordenação e publicações oficiais. |
-| DGES | Registo oficial do ciclo de estudos, estrutura curricular, plano de estudos, especialidades, créditos e acreditação. |
+| DGES | Registo oficial do ciclo de estudos, estrutura curricular, plano de estudos, créditos e acreditação. |
 | A3ES | Processo de acreditação do ciclo de estudos. |
-| Diário da República | Publicação oficial de alterações anteriores ao ciclo de estudos. |
+| Diário da República | Publicação oficial da criação e das alterações ao ciclo de estudos. |
 
 ## Registos principais
 
-- **DGES:** Registo **R/A-Ef 2141/2011/AL02**, associado à estrutura curricular e ao plano de estudos atualmente apresentados na DGES.
-- **A3ES:** Processo **ACEF/1920/0306877/ALT_001**, com decisão de acreditação publicada em **20-03-2025**.
-- **Diário da República:** Despacho n.º **12290/2015**, de 2 de novembro, relativo à alteração do Doutoramento em Engenharia e Gestão, registada pela DGES com o n.º **R/A-Ef 2141/2011/AL01**.
+- **DGES:** Registo inicial **R/A-Ef 2142/2011** (registo de criação **R/B-Cr-242/2008**), com a alteração registada com o n.º **R/A-Ef 2142/2011/AL01**, em 19 de fevereiro de 2021, em vigor a partir do ano letivo 2021/2022.
+- **A3ES:** Processo **ACEF/1920/0306902**, acreditado por **6 anos a partir de 31-07-2020** (decisão do Conselho de Administração de 21-08-2020). Encontra-se em curso o processo de avaliação/acreditação **ACEF/2526/0306902**.
+- **Diário da República:**
+  - Despacho n.º **6462/2021**, de 1 de julho (DR n.º 126, 2.ª série), relativo à alteração do Doutoramento em Engenharia e Políticas Públicas (R/A-Ef 2142/2011/AL01);
+  - Despacho n.º **21347/2009**, de 22 de setembro (DR n.º 184, 2.ª série), alteração do ciclo de estudos;
+  - Despacho n.º **23266/2008**, de 12 de setembro (DR n.º 177, 2.ª série), criação do ciclo de estudos.
 
+## Histórico de acreditação A3ES
+
+| Data | Processo | Decisão |
+|---|---|---|
+| 14-09-2020 | ACEF/1920/0306902 | Acreditado por 6 anos, a partir de 31-07-2020 |
+| 18-05-2015 | ACEF/1314/0306902 | Acreditado por 6 anos |
+| 12-12-2011 | CEF/0910/06902 | Acreditado preliminarmente |
+| (em curso) | ACEF/2526/0306902 | Submissão de pedido de avaliação/acreditação |
+
+## Fontes oficiais
+
+- [Diário da República — Despacho n.º 6462/2021](https://files.dre.pt/2s/2021/07/126000000/0008100083.pdf)
+- [Diário da República — Despacho n.º 21347/2009](https://files.dre.pt/2s/2009/09/184000000/3860438605.pdf)
+- [Diário da República — Despacho n.º 23266/2008](https://files.dre.pt/2s/2008/09/177000000/3923239233.pdf)
+- [A3ES — resultados de acreditação (Engenharia e Políticas Públicas)](https://a3es.pt/pt/resultados-acreditacao/engenharia-e-politicas-publicas-4)
+- [A3ES — Guião para a auto-avaliação (ACEF/1920/0306902)](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306902_dout_eng_-politicas-publicas.pdf)
+- [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
