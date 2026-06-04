@@ -1,37 +1,44 @@
 # Áreas de investigação
 
-O Programa Doutoral em Engenharia e Gestão enquadra investigação avançada em Métodos Científicos de Gestão (*Management Science*) e em problemas de decisão, análise, organização e gestão em contextos tecnológicos, empresariais, públicos e sociais.
+O Programa Doutoral em Engenharia e Políticas Públicas (DEAEPP) enquadra investigação avançada na interface entre engenharia, tecnologia e políticas públicas, com foco no desenho, análise e avaliação de políticas em domínios onde a tecnologia é um fator determinante, e no suporte à decisão em problemas complexos, não estruturados e de grande dimensão.
+
+O programa foi desenvolvido em parceria com o departamento de Engineering and Public Policy da Carnegie Mellon University e integra o programa **CMU-Portugal**. A área científica predominante do ciclo de estudos é **Engenharia e Gestão**.
 
 A investigação associada ao programa deve ser lida em três níveis complementares:
 
 1. as áreas científico-disciplinares do Departamento de Engenharia e Gestão;
-2. os centros e ramos de investigação que enquadram a actividade científica dos docentes;
+2. as unidades de investigação que enquadram a actividade científica dos docentes;
 3. os tópicos concretos de orientação, investigação e ensino avançado associados ao corpo docente do programa.
 
 ## Áreas científico-disciplinares do Departamento
 
-O Departamento de Engenharia e Gestão organiza-se em duas áreas científico-disciplinares:
+O Programa Doutoral em Engenharia e Políticas Públicas é enquadrado pelo Departamento de Engenharia e Gestão, que se organiza em duas áreas científico-disciplinares:
 
-- **Engenharia e Gestão de Sistemas**;
-- **Engenharia e Gestão de Organizações**.
+- **Engenharia e Gestão de Sistemas** (EGS);
+- **Engenharia e Gestão de Organizações** (EGO).
 
-Estas áreas cobrem problemas de estratégia, planeamento, decisão, operações, logística, economia, inovação, sustentabilidade, organização e análise de sistemas complexos.
+No EPP, estas áreas estão refletidas na própria componente curricular — que inclui unidades curriculares de EGO (Teoria, Prática e Análise de Políticas Públicas; Métodos Quantitativos de Investigação) e de EGS (Modelos e Aplicações em Análise de Decisão) — e cobrem problemas de decisão, análise de políticas, economia, inovação, energia, sustentabilidade, sistemas de informação e análise de sistemas complexos com relevância para as políticas públicas.
 
-## Centros e ramos de investigação associados
+## Unidades de investigação associadas
 
-Grande parte da investigação científica do DEG desenvolve-se enquadrada pelo **CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico** e pelo **IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento**.
+Segundo o processo de acreditação do ciclo de estudos, a actividade científica dos docentes do EPP desenvolve-se enquadrada por três unidades de investigação:
+
+| Unidade de investigação | Classificação FCT | N.º de docentes do EPP |
+|---|---|---:|
+| **CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico** | Excelente | 4 |
+| **LARSyS — Laboratory of Robotics and Engineering Systems** | Excelente | 4 |
+| **INESC INOV — Instituto de Engenharia de Sistemas e Computadores Inovação** | Muito Bom | 1 |
 
 ### CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico
 
-O CEGIST organiza a sua actividade em ramos de investigação que cobrem métodos de decisão, investigação operacional, logística, sustentabilidade, estratégia, empreendedorismo e inovação.
+O CEGIST organiza a sua actividade em ramos de investigação que cobrem métodos de decisão, investigação operacional, estratégia, empreendedorismo, inovação e sustentabilidade. No contexto do EPP são particularmente relevantes os ramos ligados à ciência da decisão e à estratégia, empreendedorismo e inovação.
 
 | Ramo de investigação | Foco científico |
 |---|---|
-| **DECISING — DECISion science and management engineerING** | Métodos, modelos e ferramentas de apoio à decisão em contextos com múltiplos actores, múltiplos objectivos, incerteza, avaliação, priorização, afectação de recursos, risco, projecto, política e escolha estratégica. |
-| **MOSAIC — systems modelling and Methods of Operations reSearch And analytICs** | Modelação de sistemas, investigação operacional, optimização mono-objectivo e multi-objectivo, programação matemática, algoritmos, ferramentas analíticas e aplicações a problemas complexos de engenharia e gestão. |
-| **OpLog — Operations, Logistics and Supply Chain Management** | Gestão de operações, logística, cadeias de abastecimento, planeamento estratégico, táctico e operacional, apoio à decisão em indústria, serviços, saúde, energia, transportes, retalho, resíduos e serviços sociais. |
-| **SUSTAINS — SUSTainable solutions and Assessment for cIrcular ecoNomy Systems** | Sustentabilidade, economia circular, avaliação económica, ambiental e social, análise de ciclo de vida, cadeias de abastecimento sustentáveis e ferramentas de apoio à implementação e monitorização da sustentabilidade. |
+| **DECISING — DECISion science and management engineerING** | Métodos, modelos e ferramentas de apoio à decisão em contextos com múltiplos actores, múltiplos objectivos, incerteza, avaliação, priorização, afectação de recursos, risco, política e escolha estratégica. |
 | **SEI — Strategy, Entrepreneurship and Innovation** | Estratégia, empreendedorismo, inovação, dinâmica industrial, mercados de trabalho, desenvolvimento económico e regional, capital humano, mudança tecnológica e avaliação de políticas de ciência, indústria e ensino superior. |
+| **MOSAIC — systems modelling and Methods of Operations reSearch And analytICs** | Modelação de sistemas, investigação operacional, optimização e ferramentas analíticas aplicadas a problemas complexos de engenharia e gestão. |
+| **SUSTAINS — SUSTainable solutions and Assessment for cIrcular ecoNomy Systems** | Sustentabilidade, economia circular, avaliação económica, ambiental e social, e ferramentas de apoio à implementação e monitorização da sustentabilidade. |
 
 Ligações úteis:
 
@@ -41,59 +48,74 @@ Ligações úteis:
 - [CEGIST — PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses)
 - [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 
-### IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento
+### LARSyS — Laboratory of Robotics and Engineering Systems
 
-O IN+ é um centro interdisciplinar de investigação em inovação, tecnologia e políticas de desenvolvimento. No contexto do DEG e do DeGest, a ligação ao IN+ é particularmente relevante em temas que cruzam gestão da tecnologia, política de inovação, sustentabilidade, transição energética, sistemas urbanos, indústria, conhecimento e desenvolvimento económico.
+O LARSyS é um Laboratório Associado dedicado à investigação em sistemas de engenharia complexos e socio-técnicos, reunindo quatro unidades (ISR-Lisboa, **IN+**, ITI e MARETEC). No contexto do EPP, a ligação mais relevante é através do **IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento**, em temas que cruzam gestão da tecnologia, política de inovação, sistemas energéticos, sustentabilidade, mobilidade e descarbonização.
 
-O centro organiza actividade em torno de laboratórios e áreas como:
-
-| Área / laboratório | Enquadramento possível no DeGest |
+| Área / unidade | Enquadramento possível no EPP |
 |---|---|
-| **Technology Management and Policy** | Gestão da tecnologia, política de inovação, política científica e tecnológica, avaliação de políticas e processos de mudança tecnológica. |
-| **Industrial Ecology and Sustainability** | Sustentabilidade, economia circular, metabolismo industrial, avaliação ambiental, transição energética e descarbonização. |
-| **Thermofluids, Combustion and Energy Systems** | Energia, sistemas tecnológicos, inovação em sistemas energéticos e ligação entre desenvolvimento tecnológico, indústria e políticas públicas. |
+| **Technology Management and Policy (IN+)** | Gestão da tecnologia, política de inovação, política científica e tecnológica, avaliação de políticas e processos de mudança tecnológica. |
+| **Energy Systems (IN+)** | Planeamento e gestão de sistemas energéticos, transição energética, energia e clima, e a ligação entre tecnologia, indústria e políticas públicas. |
+| **Industrial Ecology and Sustainability (IN+)** | Sustentabilidade, economia circular, avaliação ambiental e descarbonização. |
 
 Ligações úteis:
 
+- [LARSyS](https://larsys.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/)
 - [IN+ — Team](https://in3.dem.ist.utl.pt/team/)
 - [IN+ — Activities](https://in3.dem.ist.utl.pt/activities/)
 - [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
 
+### INESC INOV — Instituto de Engenharia de Sistemas e Computadores Inovação
+
+O INOV é um Centro de Tecnologia e Inovação dedicado à investigação aplicada e à transferência de tecnologia no domínio das TICE, com áreas como inteligência artificial, ciência de dados, cibersegurança, sensorização e IoT, sistemas ciberfísicos e transformação digital. No contexto do EPP, a ligação é relevante em temas de sistemas de informação, governação de TI e transformação digital aplicados a contextos organizacionais e de políticas públicas.
+
+Ligações úteis:
+
+- [INOV](https://www.inov.pt/)
+- [INESC](https://inesc.pt/)
+
 ## Docentes e interesses de investigação
 
-Lista indicativa de docentes associados ao Programa Doutoral em Engenharia e Gestão, com áreas de interesse, síntese curricular e perfis públicos. A informação deve ser validada antes da publicação final, sobretudo quando algum perfil externo não está publicamente identificado.
+Lista indicativa de docentes associados ao Programa Doutoral em Engenharia e Políticas Públicas, com áreas de interesse, síntese curricular e perfis públicos. A informação deve ser validada antes da publicação final, sobretudo quando algum perfil externo não está publicamente identificado.
 
 | Docente | Área/interesses de investigação | Síntese CV | Perfis públicos |
 |---|---|---|---|
-| Miguel Torres Preto | Empreendedorismo; mudança tecnológica; empresas multinacionais; estratégia; inovação. | Professor Associado no Departamento de Engenharia e Gestão, associado à área de Engenharia e Gestão de Organizações e à unidade de investigação IN+. Desenvolve trabalho em empreendedorismo, mudança tecnológica e internacionalização. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist45281)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/a3f68067b217493797d78e793ffece1e2b4d7759ba7adedfca96f876e5d3b031)<br>[ORCID](https://orcid.org/0000-0001-9174-538X)<br>Google Scholar: a confirmar |
-| José Rui de Matos Figueira | Análise multicritério de decisão; investigação operacional; optimização; métodos ELECTRE; DEA; apoio à decisão. | Professor Catedrático no Departamento de Engenharia e Gestão. A sua investigação centra-se em análise multicritério, investigação operacional e optimização, com contributos reconhecidos em Multiple Criteria Decision Analysis. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist14525)<br>[CEGIST](https://cegist.tecnico.ulisboa.pt/user/858)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/e3a7d13619071483483dc8f17b03ce9c1251696ac956a797b56fc7ee8e6f0fb1)<br>[Google Scholar](https://scholar.google.pt/citations?user=O1kSM3MAAAAJ&hl=en)<br>[ORCID](https://orcid.org/0000-0001-9822-1167) |
-| Mónica Duarte Correia de Oliveira | Gestão de sistemas de saúde; financiamento, planeamento, equidade e eficiência em saúde; análise de decisão e risco. | Professora Catedrática no Departamento de Engenharia e Gestão e investigadora do CEGIST. Trabalha em sistemas de saúde, análise de decisão, políticas de saúde e avaliação de desempenho. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist14410)<br>[Página pessoal](http://web.ist.utl.pt/monica.oliveira/)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/1578e798739730e359601c1bb5fbab2d9eea5286a417b4b22ad576c31faee106)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=nfCApX0AAAAJ)<br>[ORCID](https://orcid.org/0000-0003-4053-9214) |
-| Ana Isabel Cerqueira de Sousa Gouveia Carvalho | Economia circular; avaliação de ciclo de vida; avaliação social de ciclo de vida; cadeias de abastecimento sustentáveis; avaliação de impactes ambientais e sociais. | Professora Associada no Departamento de Engenharia e Gestão e investigadora principal da área SUSTAINS no CEGIST. Desenvolve investigação em sustentabilidade, economia circular e gestão sustentável de operações e cadeias de abastecimento. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist149893)<br>[CEGIST](https://cegist.tecnico.ulisboa.pt/user/838)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/031db01692bf21bcf2c96d1ba8232e44cb5b6d21d185927f92e5bd47b7b232f0)<br>[Google Scholar](http://scholar.google.pt/citations?user=am0FdvcAAAAJ)<br>[ORCID](https://orcid.org/0000-0001-7848-7574) |
-| Hugo Miguel Fragoso de Castro Silva | Economia da mudança tecnológica; capital humano; automação; competências; dinâmica empresarial e mercado de trabalho. | Professor Auxiliar no Departamento de Engenharia e Gestão e investigador do CEGIST. É doutorado em Engenharia e Gestão pelo Técnico, com investigação centrada na relação entre tecnologia, empresas, emprego e capital humano. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist152309)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/dda19fec2996138f3da97288d5ed9782690299fc43a88c2311c1f27346176d57)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=ajLqD8kAAAAJ)<br>[ORCID](https://orcid.org/0000-0001-6406-7624) |
-| Paulo Jorge Nicola | Epidemiologia; saúde pública; investigação clínica; sistemas e políticas de saúde; avaliação em saúde. | Médico e docente na Faculdade de Medicina da Universidade de Lisboa, com colaboração docente no Departamento de Engenharia e Gestão do Técnico em temas de sistemas e políticas de saúde. | Fénix: a confirmar / acesso público restrito<br>[FMUL](https://www.medicina.ulisboa.pt/bio/pnicola)<br>[Ciência Vitae](https://www.cienciavitae.pt/portal/pt/EC13-192D-69C8)<br>[ORCID](https://orcid.org/0000-0003-0175-8457)<br>Google Scholar: a confirmar<br>Técnico Scholar: a confirmar |
-| Rui Baptista | Empreendedorismo; dinâmica industrial; desenvolvimento regional; pequenas empresas e mercado de trabalho; desenvolvimento económico e emprego. | Professor Catedrático no Departamento de Engenharia e Gestão e investigador do CEGIST. Desenvolve investigação em empreendedorismo, inovação, dinâmica empresarial, emprego e desenvolvimento regional. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist14021)<br>[CEGIST](https://cegist.tecnico.ulisboa.pt/user/870)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/82e276838ce82b847f3296d8e75ea6bf1d94932bbe334d4cc737aa4700794ee8)<br>[Google Scholar](https://scholar.google.pt/citations?user=MXusCj0AAAAJ&hl=en)<br>[ORCID](https://orcid.org/0000-0003-3346-4103) |
-| Tânia Rute Xavier de Matos Pinto-Varela | Engenharia de sistemas de processo; desenho, planeamento e escalonamento; optimização inteira mista; integração de processos; desenho e planeamento de redes de cadeias de abastecimento; critérios económicos e ambientais. | Professora Associada no Departamento de Engenharia e Gestão, na área de Engenharia e Gestão de Sistemas. A sua investigação centra-se em modelos de optimização e planeamento aplicados a sistemas produtivos, logísticos e de cadeia de abastecimento. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist25305)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist25305)<br>[ORCID](https://orcid.org/0000-0002-4605-7083)<br>Google Scholar: a confirmar |
-| Eduardo Polena Pacheco Araújo Costa | Economia da saúde; política de saúde; mercado farmacêutico; financiamento de sistemas de saúde; microeconomia aplicada; regulação e concorrência. | Professor Auxiliar em Economia no Departamento de Engenharia e Gestão e investigador do CEGIST. É doutorado em Economia pela Nova SBE, com experiência de investigação em economia da saúde e políticas públicas de saúde. | [Página pessoal](https://sites.google.com/view/costaeduardo)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist429943)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=S7BtiOkAAAAJ)<br>[Ciência Vitae](https://www.cienciavitae.pt/portal/en/D71E-9CD9-72C3)<br>[ORCID](https://orcid.org/0000-0002-4347-6338) |
-| Inês Isabel Carrilho Nunes | Inovação; pobreza energética; desigualdade de rendimento; econometria; transição energética; política ambiental. | Professora Auxiliar em Economia no Instituto Superior Técnico e investigadora do CEGIST. É doutorada em Economia, com investigação sobre transição energética limpa e justa, eco-inovação, pobreza energética e política ambiental. | [Página pessoal](https://sites.google.com/view/ines-carrilho-nunes)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist423260)<br>[Google Scholar](https://scholar.google.com/citations?user=wqiPFIYAAAAJ)<br>[Ciência Vitae](https://www.cienciavitae.pt/portal/EE16-C848-6656)<br>[ORCID](https://orcid.org/0000-0002-2228-6164) |
-| Ana Paula Ferreira Dias Barbosa Póvoa | Gestão de cadeias de abastecimento; gestão de operações; logística; engenharia de sistemas; optimização de redes e planeamento. | Professora Catedrática no Departamento de Engenharia e Gestão e investigadora do CEGIST. Trabalha em gestão de operações, logística, optimização e desenho de cadeias de abastecimento. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist13662)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist13662)<br>[Google Scholar](https://scholar.google.com/citations?user=FVZiG-0AAAAJ&hl=en)<br>[ORCID](https://orcid.org/0000-0001-6594-9653) |
-| Susana Isabel Carvalho Relvas | Pipeline scheduling; oil supply chain management; supply chain management; logística; gestão de inventário; risco, incerteza e resiliência em cadeias de abastecimento; programação linear inteira mista; gestão de armazéns. | Professora Associada no Departamento de Engenharia e Gestão e investigadora do CEGIST. Desenvolve investigação em logística, cadeias de abastecimento, planeamento operacional, inventário e optimização. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist46455)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist46455)<br>[Google Scholar](https://scholar.google.com/citations?user=nHm-ONoAAAAJ&hl=pt-PT)<br>[ORCID](https://orcid.org/0000-0003-3043-6086) |
-| Tânia Rodrigues Pereira Ramos | Logística e gestão de cadeias de abastecimento; routing; logística inversa; gestão de resíduos; investigação operacional aplicada. | Professora Associada no Departamento de Engenharia e Gestão e Presidente do CEGIST. A sua investigação foca-se na modelação e resolução de problemas reais de planeamento logístico, routing, sustentabilidade, logística inversa e sistemas de gestão de resíduos. | [Fénix](https://fenix.tecnico.ulisboa.pt/tania-ramos)<br>[Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist46496)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=o_K2wuwAAAAJ)<br>[ORCID](https://orcid.org/0000-0002-2321-2431) |
-
+| Rui Baptista *(coordenação)* | Empreendedorismo; dinâmica industrial; inovação; análise de políticas; desenvolvimento regional; mercado de trabalho. | Professor Catedrático no Departamento de Engenharia e Gestão e investigador do CEGIST; doutorado em Engenharia de Sistemas (Universidade de Londres, 1997). Coordena o ciclo de estudos. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist14021)<br>[CEGIST](https://cegist.tecnico.ulisboa.pt/user/870)<br>[Google Scholar](https://scholar.google.pt/citations?user=MXusCj0AAAAJ&hl=en)<br>[ORCID](https://orcid.org/0000-0003-3346-4103)<br>CienciaVitae: 471E-D57B-5596 |
+| Mónica Duarte Correia de Oliveira | Análise de decisão e risco; sistemas e políticas de saúde; medição de valor em saúde; investigação operacional. | Professora Catedrática no Departamento de Engenharia e Gestão e investigadora do CEGIST; doutorada em Operational Research (Universidade de Londres, 2003). | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist14410)<br>[Página pessoal](http://web.ist.utl.pt/monica.oliveira/)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=nfCApX0AAAAJ)<br>[ORCID](https://orcid.org/0000-0003-4053-9214)<br>CienciaVitae: 5419-FA56-A76D |
+| Joana Serra da Luz Mendonça | Gestão da inovação; política de ciência e tecnologia; design thinking; energia (eólica offshore); regulação adaptativa; políticas públicas. | Professora Catedrática no Departamento de Engenharia e Gestão, integrada no LARSyS; doutorada em Engenharia e Gestão Industrial (Universidade de Lisboa, 2009). | [ORCID](https://orcid.org/0000-0003-4151-7391)<br>Fénix: a confirmar<br>Técnico Scholar / Google Scholar: a confirmar |
+| Miguel Leitão Bignolas Mira da Silva | Sistemas de informação; governação e gestão de TI; transformação digital; gestão de projetos de SI. | Professor Catedrático no Departamento de Engenharia e Gestão, investigador do INESC INOV; doutorado em Engenharia Informática (Universidade de Glasgow, 1997). | [ORCID](https://orcid.org/0000-0002-0489-4465)<br>CienciaVitae: EC14-8F46-B9CE<br>Fénix / Google Scholar: a confirmar |
+| Carlos Augusto Santos Silva | Sistemas energéticos; planeamento energético; energia solar térmica; engenharia, decisão e políticas públicas; descarbonização. | Professor Associado no Departamento de Engenharia e Gestão, integrado no LARSyS/IN+; doutorado em Engenharia Mecânica (IST, 2005). | [ORCID](https://orcid.org/0000-0002-7532-3993)<br>CienciaVitae: C815-AAC2-2B36<br>Fénix / Google Scholar: a confirmar |
+| Francisco Miguel Garcia Gonçalves de Lima | Economia; microeconomia; econometria; mercado de trabalho; métodos quantitativos de investigação. | Professor Associado no Departamento de Engenharia e Gestão e investigador do CEGIST; doutorado em Economia (Universidade Nova de Lisboa, 2001) e agregado em Engenharia e Gestão (IST, 2025). | [ORCID](https://orcid.org/0000-0001-6854-5910)<br>CienciaVitae: 7F15-9BC3-08C4<br>Fénix / Google Scholar: a confirmar |
+| Patrícia De Carvalho Baptista | Sistemas energéticos; energia e sustentabilidade; energia e clima; mobilidade sustentável; ecologia industrial. | Professora Auxiliar no Departamento de Engenharia e Gestão, integrada no LARSyS/IN+; doutorada em Engenharia Mecânica (IST, 2011). | [ORCID](https://orcid.org/0000-0003-1559-9151)<br>CienciaVitae: 0D18-21FF-BD67<br>Fénix / Google Scholar: a confirmar |
+| Hugo Miguel Fragoso de Castro Silva | Economia da mudança tecnológica; capital humano; automação; competências; dinâmica empresarial e mercado de trabalho. | Professor Auxiliar no Departamento de Engenharia e Gestão, integrado no LARSyS; doutorado em Engenharia e Gestão (IST, 2017). | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist152309)<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=ajLqD8kAAAAJ)<br>[ORCID](https://orcid.org/0000-0001-6406-7624)<br>CienciaVitae: 1611-93AE-93A3 |
+| António Sérgio Constantino Folgado Ribeiro | Econometria; microeconomia; métodos quantitativos de investigação. | Professor Auxiliar no Departamento de Engenharia e Gestão e investigador do CEGIST; doutorado em Economia e Gestão (Universidade de Lisboa, 2015). | [ORCID](https://orcid.org/0000-0002-8894-2742)<br>CienciaVitae: 1E13-C5BF-42F1<br>Fénix / Google Scholar: a confirmar |
 
 ## Tópicos de tese e dissertações anteriores
 
-A definição de novos tópicos de tese deve considerar os ramos de investigação activos, os interesses dos docentes e as dissertações já concluídas no programa. As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cadeias de abastecimento de sangue, serviços sociais domiciliários, saúde digital, optimização multi-objectivo, veículos autónomos partilhados, resiliência em cadeias de abastecimento, serviços médicos de emergência, foresight, políticas públicas, infraestruturas, florestas, energia, sustentabilidade, empreendedorismo, gestão municipal, avaliação multicritério, sistemas de informação, logística inversa, redes hospitalares e desempenho de serviços urbanos.
+A definição de novos tópicos de tese deve considerar as unidades de investigação activas, os interesses dos docentes e as dissertações já concluídas no programa. As teses recentes do EPP cobrem, entre outros temas:
 
+- demografia da força de trabalho, transições para o empreendedorismo e desempenho de startups;
+- o papel da cultura na difusão de tecnologia (comunicações móveis);
+- políticas de ciência e sociedade, participação pública na ciência e investigação e inovação responsáveis (RRI);
+- perspetivas de implantação de energia eólica offshore;
+- variedades de protecionismo nacional (entrada de empresas, regulação adaptativa e diferenças tecnológicas em choques globais);
+- eletrificação rural sustentável baseada em energia em países em desenvolvimento.
+
+Estes temas refletem a articulação entre tecnologia, economia, ambiente e decisão pública que caracteriza o programa, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
+
+- [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
 - [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
 
 ## Ligação a docentes, projectos e actividades científicas
 
 A página deve funcionar como ponto de entrada para informação existente, evitando duplicação de conteúdos mantidos noutros sistemas. Para informação dinâmica, devem ser usadas ligações para páginas institucionais actualizadas:
 
+- [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-- [Corpo docente do DeGest no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/corpo-docente)
 - [CEGIST — Projects](https://cegist.tecnico.ulisboa.pt/projects)
 - [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [LARSyS](https://larsys.pt/)
 - [IN+ — News](https://in3.dem.ist.utl.pt/news/)
-- [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
+- [INOV](https://www.inov.pt/)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
