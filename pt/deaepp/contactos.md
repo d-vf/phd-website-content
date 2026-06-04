@@ -1,10 +1,10 @@
 # Contactos
 
-## Programa Doutoral em Engenharia e Gestão
+## Programa Doutoral em Engenharia e Políticas Públicas
 
 Para informação geral sobre o programa, consultar:
 
-- [Programa Doutoral em Engenharia e Gestão no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest)
+- [Programa Doutoral em Engenharia e Políticas Públicas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp)
 - [Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/)
 - [Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/)
 
@@ -16,6 +16,11 @@ Para informação geral sobre o programa, consultar:
 - [Programas Doutorais — Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
 - [Formulários](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/formularios/)
 - [Regulamentos](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/regulamentos/)
+
+No caso do **grau dual IST/CMU** (programa CMU-Portugal), os candidatos devem candidatar-se também diretamente ao programa Engineering and Public Policy (EPP) na Carnegie Mellon University e, tipicamente, apresentar resultados recentes dos exames GRE e TOEFL. A admissão depende das duas instituições.
+
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
 
 ## Departamento de Engenharia e Gestão
 
@@ -33,11 +38,14 @@ Av. Rovisco Pais, 1
 
 Para informação científica sobre áreas de investigação, orientação e enquadramento académico:
 
+- Coordenador do programa: **Rui Baptista** — rui.baptista@tecnico.ulisboa.pt
 - [Coordenação científica](coordenacao.md)
-- [Comissão Científica no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/comissao-cientifica)
+- [Descrição e coordenação do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
 
 ## Centros de investigação
 
 - [CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico](https://cegist.tecnico.ulisboa.pt/pt)
+- [LARSyS — Laboratory of Robotics and Engineering Systems](https://larsys.pt/)
 - [IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento](https://in3.dem.ist.utl.pt/)
+- [INESC INOV — Instituto de Engenharia de Sistemas e Computadores Inovação](https://www.inov.pt/)
