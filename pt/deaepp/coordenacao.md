@@ -19,12 +19,15 @@ Fontes:
 
 A estrutura científica do programa articula a coordenação do ciclo de estudos, os orientadores científicos, a Comissão de Acompanhamento de Tese e os órgãos científicos competentes do Instituto Superior Técnico. No caso do grau dual IST/CMU, articula-se ainda com a orientação e os órgãos científicos da Carnegie Mellon University, no âmbito do CMU-Portugal.
 
-A composição formal dos órgãos científicos do programa deve ser confirmada nas fontes oficiais. Entre os docentes mais seniores do ciclo de estudos (Professores Catedráticos) incluem-se:
+A composição formal dos órgãos científicos do programa (2025), incluem-se:
 
-- Rui Miguel Loureiro Nobre Baptista — Professor Catedrático, Departamento de Engenharia e Gestão, IST;
-- Mónica Duarte Correia de Oliveira — Professora Catedrática, Departamento de Engenharia e Gestão, IST;
-- Joana Serra da Luz Mendonça — Professora Catedrática, Departamento de Engenharia e Gestão, IST;
-- Miguel Leitão Bignolas Mira da Silva — Professor Catedrático, Departamento de Engenharia e Gestão, IST.
+- Luís António Fialho Marcelino Ferreira - Professor Catedrático, Departamento de Engenharia Eletrotécnica e de Computadores, IST;
+- Paulo Manuel Cadete Ferrão - Professor Catedrátic, Departamento de Engenharia Mecânica, IST;
+- Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST;
+- Rui Miguel Loureiro Nobre Baptista (coordenador) - Professor Catedrátic, Departamento de Engenharia e Gestão, IST;
+- Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST;
+
+[Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
 
 ## Funções de acompanhamento científico
 
