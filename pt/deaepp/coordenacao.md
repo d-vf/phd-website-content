@@ -7,6 +7,7 @@ A coordenação científica do Programa Doutoral em Engenharia e Políticas Púb
 | Função | Nome | Enquadramento |
 |---|---|---|
 | Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Rui Miguel Loureiro Nobre Baptista | Professor Catedrático, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
+| Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Joana Serra da Luz Mendonça | Professora Catedrática, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 
 Contacto: rui.baptista@tecnico.ulisboa.pt
 
@@ -22,7 +23,7 @@ A estrutura científica do programa articula a coordenação do ciclo de estudos
 A composição formal dos órgãos científicos do programa (2025), incluem-se:
 
 - Luís António Fialho Marcelino Ferreira - Professor Catedrático, Departamento de Engenharia Eletrotécnica e de Computadores, IST;
-- Paulo Manuel Cadete Ferrão - Professor Catedrátic, Departamento de Engenharia Mecânica, IST;
+- Paulo Manuel Cadete Ferrão - Professor Catedrático, Departamento de Engenharia Mecânica, IST;
 - Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST;
 - Rui Miguel Loureiro Nobre Baptista (coordenador) - Professor Catedrátic, Departamento de Engenharia e Gestão, IST;
 - Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST;
@@ -60,19 +61,17 @@ A composição e o funcionamento da Comissão de Acompanhamento de Tese devem se
 
 O corpo docente abaixo corresponde ao pessoal docente do ciclo de estudos identificado na documentação A3ES/ACEF 2526 (processo ACEF/2526/0306902) do Doutoramento em Engenharia e Políticas Públicas.
 
-| Docente | Categoria | Grau / área de doutoramento | Regime |
-|---|---|---|---:|
-| Mónica Duarte Correia de Oliveira | Professor Catedrático ou equivalente | Doutor em Operational Research | 100% |
-| Miguel Leitão Bignolas Mira da Silva | Professor Catedrático ou equivalente | Doutor em Engenharia Informática | 100% |
-| Rui Miguel Loureiro Nobre Baptista | Professor Catedrático ou equivalente | Doutor em Engenharia de Sistemas | 100% |
-| Joana Serra da Luz Mendonça | Professor Catedrático ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| Carlos Augusto Santos Silva | Professor Associado ou equivalente | Doutor em Engenharia Mecânica | 100% |
-| Francisco Miguel Garcia Gonçalves de Lima | Professor Associado ou equivalente | Doutor em Economia | 100% |
-| António Sérgio Constantino Folgado Ribeiro | Professor Auxiliar ou equivalente | Doutor em Economia e Gestão | 100% |
-| Patrícia De Carvalho Baptista | Professor Auxiliar ou equivalente | Doutor em Engenharia Mecânica | 100% |
-| Hugo Miguel Fragoso de Castro Silva | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão | 100% |
-
-Total: 9 docentes / 9,00 ETI (100% em regime de tempo integral).
+| Docente | Grau / área de doutoramento | 
+|---|---|
+| Mónica Duarte Correia de Oliveira | Doutor em Operational Research | 
+| Miguel Leitão Bignolas Mira da Silva | Doutor em Engenharia Informática | 
+| Rui Miguel Loureiro Nobre Baptista | Doutor em Engenharia de Sistemas | 
+| Joana Serra da Luz Mendonça |  Doutor em Engenharia e Gestão Industrial | 
+| Carlos Augusto Santos Silva |  Doutor em Engenharia Mecânica | 
+| Francisco Miguel Garcia Gonçalves de Lima | Doutor em Economia |
+| António Sérgio Constantino Folgado Ribeiro | Doutor em Economia e Gestão | 
+| Patrícia De Carvalho Baptista | Doutor em Engenharia Mecânica |
+| Hugo Miguel Fragoso de Castro Silva | Doutor em Engenharia e Gestão | 
 
 Fontes complementares:
 
