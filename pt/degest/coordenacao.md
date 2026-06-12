@@ -18,33 +18,15 @@ Fontes:
 
 A estrutura científica do programa articula a coordenação do ciclo de estudos, os orientadores científicos, a Comissão de Acompanhamento de Tese e os órgãos científicos competentes do Instituto Superior Técnico.
 
+A composição formal dos órgãos científicos do programa (2025), incluem-se:
 
-Rui Miguel Nobre Loureiro Baptista
+- Ana Paula Ferreira Dias Barbosa Póvoa - Professora Catedrática, Departamento de Engenharia e Gestão, IST;
+- Rui Miguel Loureiro Nobre Baptista - Professor Catedrático, Departamento de Engenharia e Gestão, IST;
+- Francisco Miguel Garcia Gonçalves de Lima -  Professor Associado, Departamento de Engenharia e Gestão, IST;
+- Mónica Duarte Correia de Oliveira - Professora Catedrática, Departamento de Engenharia e Gestão, IST;
+- José Rui de Matos Figueira - Professor Catedrático, Departamento de Engenharia e Gestão, IST;
 
-Professor Catedrático do Departamento de Engenharia e Gestão
-
-Instituto Superior Técnico
-
-
-Ana Paula Ferreira Dias Barbosa Póvoa
-
-Professora Catedrática do Departamento de Engenharia e Gestão
-
-Instituto Superior Técnico
-
-  
-José Rui de Matos Figueira
-
-Professor Catedrático do Departamento de Engenharia e Gestão
-
-Instituto Superior Técnico
-
-
-Mónica Duarte Correia de Oliveira
-
-Professora Catedrática do Departamento de Engenharia e Gestão
-
-Instituto Superior Técnico
+[Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
 
 ## Funções de acompanhamento científico
 
@@ -76,38 +58,38 @@ A composição e o funcionamento da Comissão de Acompanhamento de Tese devem se
 
 O corpo docente abaixo corresponde ao pessoal docente do ciclo de estudos identificado na documentação A3ES/ACEF 2526 mais recente. 
 
-| Docente | Categoria | Grau / área de doutoramento | Regime |
-|---|---|---|---:|
-| Daniel Rebelo dos Santos | Professor Auxiliar ou equivalente | Doutor em Estatística e Investigação Operacional | 100% |
-| João Carlos da Cruz Lourenço | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| Tânia Rute Xavier de Matos Pinto Varela | Professor Associado ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| Ana Catarina Lopes Vieira Godinho de Matos | Professor Auxiliar ou equivalente | Doutor em Veterinary Medicine | 100% |
-| Francisco Miguel Garcia Gonçalves de Lima | Professor Associado ou equivalente | Doutor em Economia | 100% |
-| Maria Margarida Martelo Catalão Lopes de Oliveira Pires Pina | Professor Associado ou equivalente | Doutor em Economia | 100% |
-| Ana Isabel Cerqueira de Sousa Gouveia Carvalho | Professor Associado ou equivalente | Doutor em Engenharia Química | 100% |
-| Mário Jorge Costa Gaspar da Silva | Professor Catedrático ou equivalente | Doutor em Engenharia Eletrotécnica e de Computadores | 100% |
-| Miguel Simões Torres Preto | Professor Associado ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| José Rui de Matos Figueira | Professor Catedrático ou equivalente | Doutor em Investigação Operacional / Apoio à Decisão | 100% |
-| Paulo Manuel Cadete Ferrão | Professor Catedrático ou equivalente | Doutor em Engenharia Mecânica | 100% |
-| Diana Rita Ramos Jorge | Professor Auxiliar ou equivalente | Doutor em Transportation Systems | 100% |
-| Tânia Rodrigues Pereira Ramos | Professor Associado ou equivalente | Doutor em Engenharia e Gestão | 100% |
-| Maria Isabel Craveiro Pedro | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| Inês Isabel Carrilho Nunes | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão | 100% |
-| Inês Marques Proença | Professor Auxiliar ou equivalente | Doutor em Estatística e Investigação Operacional | 100% |
-| Paulo Jorge de Morais Zamith Nicola | Professor Auxiliar Convidado ou equivalente | Mestre em Clinical Research | 25% |
-| Diogo Filipe da Cunha Ferreira | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão | 100% |
-| Alexandre Paulo Lourenço Francisco | Professor Catedrático ou equivalente | Doutor em Engenharia Informática e de Computadores | 100% |
-| Eduardo Polena Pacheco Araújo Costa | Professor Auxiliar ou equivalente | Doutor em Economia | 100% |
-| Susana Isabel Carvalho Relvas | Professor Associado ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| Ana Paula Ferreira Dias Barbosa Póvoa | Professor Catedrático ou equivalente | Doutor em Engenharia Industrial | 100% |
-| Hugo Miguel Fragoso de Castro Silva | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão | 100% |
-| José Luís Brinquete Borbinha | Professor Catedrático ou equivalente | Doutor em Engenharia Informática e de Computadores | 100% |
-| Mónica Duarte Correia de Oliveira | Professor Catedrático ou equivalente | Doutor em Operational Research | 100% |
-| António Miguel Areias Dias Amaral | Professor Auxiliar ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
-| António Sérgio Constantino Folgado Ribeiro | Professor Auxiliar ou equivalente | Doutor em Economia e Gestão | 100% |
-| Rui Miguel Loureiro Nobre Baptista | Professor Catedrático ou equivalente | Doutor em Engenharia de Sistemas | 100% |
-| Bruna Alexandra Elias Mota | Professor Auxiliar ou equivalente | Doutor em Líderes para Indústrias Tecnológicas | 100% |
-| Joana Serra da Luz Mendonça | Professor Catedrático ou equivalente | Doutor em Engenharia e Gestão Industrial | 100% |
+| Docente | Grau / área de doutoramento | 
+|---|---|
+| Daniel Rebelo dos Santos | Doutor em Estatística e Investigação Operacional | 
+| João Carlos da Cruz Lourenço | Doutor em Engenharia e Gestão Industrial |
+| Tânia Rute Xavier de Matos Pinto Varela | Doutor em Engenharia e Gestão Industrial | 
+| Ana Catarina Lopes Vieira Godinho de Matos | Doutor em Veterinary Medicine | 
+| Francisco Miguel Garcia Gonçalves de Lima | Doutor em Economia | 
+| Maria Margarida Martelo Catalão Lopes de Oliveira Pires Pina | Doutor em Economia | 
+| Ana Isabel Cerqueira de Sousa Gouveia Carvalho | Doutor em Engenharia Química | 
+| Mário Jorge Costa Gaspar da Silva | Doutor em Engenharia Eletrotécnica e de Computadores | 
+| Miguel Simões Torres Preto | Doutor em Engenharia e Gestão Industrial | 
+| José Rui de Matos Figueira | Doutor em Investigação Operacional / Apoio à Decisão | 
+| Paulo Manuel Cadete Ferrão |  Doutor em Engenharia Mecânica | 
+| Diana Rita Ramos Jorge |  Doutor em Transportation Systems | 
+| Tânia Rodrigues Pereira Ramos |  Doutor em Engenharia e Gestão |
+| Maria Isabel Craveiro Pedro | Doutor em Engenharia e Gestão Industrial | 
+| Inês Isabel Carrilho Nunes |  Doutor em Engenharia e Gestão | 
+| Inês Marques Proença | Doutor em Estatística e Investigação Operacional | 
+| Paulo Jorge de Morais Zamith Nicola | Mestre em Clinical Research | 
+| Diogo Filipe da Cunha Ferreira | Doutor em Engenharia e Gestão |
+| Alexandre Paulo Lourenço Francisco |  Doutor em Engenharia Informática e de Computadores | 
+| Eduardo Polena Pacheco Araújo Costa |  Doutor em Economia | 
+| Susana Isabel Carvalho Relvas | Doutor em Engenharia e Gestão Industrial | 
+| Ana Paula Ferreira Dias Barbosa Póvoa |  Doutor em Engenharia Industrial | 
+| Hugo Miguel Fragoso de Castro Silva | Doutor em Engenharia e Gestão | 
+| José Luís Brinquete Borbinha | Doutor em Engenharia Informática e de Computadores |
+| Mónica Duarte Correia de Oliveira |  Doutor em Operational Research | 
+| António Miguel Areias Dias Amaral |  Doutor em Engenharia e Gestão Industrial | 
+| António Sérgio Constantino Folgado Ribeiro |  Doutor em Economia e Gestão | 
+| Rui Miguel Loureiro Nobre Baptista |  Doutor em Engenharia de Sistemas | 
+| Bruna Alexandra Elias Mota |  Doutor em Líderes para Indústrias Tecnológicas | 
+| Joana Serra da Luz Mendonça | Doutor em Engenharia e Gestão Industrial | 
 
 Fontes complementares:
 
