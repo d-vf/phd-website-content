@@ -62,7 +62,6 @@ Ligações úteis:
 
 ## Docentes e interesses de investigação
 
-
 | Docente | Unidade / centro | Área/interesses de investigação | Síntese CV | Fénix | Centro (CEGIST / IN+) | Técnico Scholar | Orientações | Google Scholar | ORCID | Scopus | Ciência Vitae | Página Pessoal |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ana Paula Ferreira Dias Barbosa Póvoa | CEGIST | Gestão de cadeias de abastecimento; gestão de operações; logística; engenharia de sistemas; sustentabilidade; resiliência; risco e incerteza. | Professora Catedrática no Departamento de Engenharia e Gestão. Desenvolve investigação em operações, logística e cadeias de abastecimento, com forte componente de modelação, otimização e apoio à decisão. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist13662) | [CEGIST](https://cegist.tecnico.ulisboa.pt/user/839) | [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist13662) | [Orientações](https://scholar.tecnico.ulisboa.pt/authors/ist13662/supervised-records?lang=pt) | [Google Scholar](https://scholar.google.com/citations?user=FVZiG-0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-6594-9653) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6701390223) | [Ciência Vitae](https://www.cienciavitae.pt/portal/651C-2DDA-A52C) | - |
