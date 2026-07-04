@@ -46,7 +46,7 @@ O DEAEPP foi desenvolvido em parceria com o departamento de Engineering and Publ
 
 O programa funciona em dois formatos:
 
-1. **Grau dual IST/CMU** — em parceria com a Carnegie Mellon University, em que os estudantes passam parte do percurso na CMU para obtenção do duplo grau;
+1. [**Grau dual IST/CMU**](https://cmuportugal.org/dual-degree-phd/) — em parceria com a Carnegie Mellon University, em que os estudantes passam parte do percurso na CMU para obtenção do duplo grau;
 2. **Percurso integral no IST** — programa integralmente lecionado no Instituto Superior Técnico.
 
 No caso do grau dual, os candidatos devem ser admitidos pelas duas instituições e, tipicamente, apresentar resultados recentes dos exames GRE e TOEFL, candidatando-se diretamente ao programa EPP na CMU. A classificação final dos candidatos ao programa dual é determinada por uma Comissão de Seleção Conjunta.
