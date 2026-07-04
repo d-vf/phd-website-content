@@ -29,15 +29,6 @@ Segundo a estrutura curricular registada na DGES e publicada no Despacho n.º 64
 
 O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST.
 
-## Fontes oficiais
-
-- [Currículo no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/curriculo)
-- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/plano-curricular)
-- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/paginas-de-disciplinas)
-- [Diário da República — Despacho n.º 6462/2021, alteração do Doutoramento em Engenharia e Políticas Públicas](https://files.dre.pt/2s/2021/07/126000000/0008100083.pdf)
-- [A3ES — resultados de acreditação do ciclo de estudos](https://a3es.pt/pt/resultados-acreditacao/engenharia-e-politicas-publicas-4)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
-
 # Organização
 
 O programa organiza-se em duas componentes principais:
@@ -66,7 +57,7 @@ A coordenação do ciclo de estudos é assegurada pela equipa de coordenação d
 
 - [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
 - [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 
 # Componente curricular
 
@@ -112,12 +103,6 @@ O Bloco de Opções Livres corresponde a **12 ECTS**, realizados através de dua
 As opções livres podem ser escolhidas de entre **todas as áreas científicas do IST**, permitindo ao estudante completar formação alinhada com o seu percurso científico e com o tema da tese. O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos legal e estatutariamente competentes do IST.
 
 A seleção das unidades curriculares deve ser feita em articulação com a coordenação do programa e com o percurso científico do estudante.
-
-## Fontes úteis
-
-- [Plano curricular no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/plano-curricular)
-- [Páginas de disciplinas no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/paginas-de-disciplinas)
-- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
 
 # Doctoral School
 
@@ -180,25 +165,18 @@ A entrega, apreciação, constituição do júri, marcação da prova pública e
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
 - [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
 
+
 # Publicações oficiais e acreditação
 
 A informação institucional atualmente disponível articula diferentes fontes:
 
-| Fonte | Conteúdo |
-|---|---|
-| Fénix | Página institucional do programa, currículo, plano curricular, páginas de disciplinas, coordenação e publicações oficiais. |
-| DGES | Registo oficial do ciclo de estudos, estrutura curricular, plano de estudos, créditos e acreditação. |
-| A3ES | Processo de acreditação do ciclo de estudos. |
-| Diário da República | Publicação oficial da criação e das alterações ao ciclo de estudos. |
-
-## Registos principais
-
-- **DGES:** Registo inicial **R/A-Ef 2142/2011** (registo de criação **R/B-Cr-242/2008**), com a alteração registada com o n.º **R/A-Ef 2142/2011/AL01**, em 19 de fevereiro de 2021, em vigor a partir do ano letivo 2021/2022.
-- **A3ES:** Processo **ACEF/1920/0306902**, acreditado por **6 anos a partir de 31-07-2020** (decisão do Conselho de Administração de 21-08-2020). Encontra-se em curso o processo de avaliação/acreditação **ACEF/2526/0306902**.
-- **Diário da República:**
-  - Despacho n.º **6462/2021**, de 1 de julho (DR n.º 126, 2.ª série), relativo à alteração do Doutoramento em Engenharia e Políticas Públicas (R/A-Ef 2142/2011/AL01);
-  - Despacho n.º **21347/2009**, de 22 de setembro (DR n.º 184, 2.ª série), alteração do ciclo de estudos;
-  - Despacho n.º **23266/2008**, de 12 de setembro (DR n.º 177, 2.ª série), criação do ciclo de estudos.
+| Fonte | Conteúdo | Referência |
+|---|---|---|
+| Fénix | [Página institucional do programa](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao): [currículo](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/curriculo), [plano curricular](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/plano-curricular), [páginas de disciplinas](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/paginas-de-disciplinas), coordenação e publicações oficiais. | — |
+| Carnegie Mellon University | [Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/): programa parceiro no âmbito do CMU Portugal. | — |
+| DGES | Registo oficial do ciclo de estudos: estrutura curricular, plano de estudos, créditos e acreditação. | Registo inicial **R/A-Ef 2142/2011** (registo de criação **R/B-Cr-242/2008**), com a alteração registada com o n.º **R/A-Ef 2142/2011/AL01**, em 19 de fevereiro de 2021, em vigor a partir do ano letivo 2021/2022. |
+| A3ES | Processo de acreditação do ciclo de estudos: [resultados de acreditação](https://a3es.pt/pt/resultados-acreditacao/engenharia-e-politicas-publicas-4), [guião para a auto-avaliação](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306902_dout_eng_-politicas-publicas.pdf). | Processo **ACEF/1920/0306902**, acreditado por **6 anos a partir de 31-07-2020** (decisão do Conselho de Administração de 21-08-2020). Encontra-se em curso o processo de avaliação/acreditação **ACEF/2526/0306902**. |
+| Diário da República | Publicação oficial da criação e das alterações ao ciclo de estudos. | [Despacho n.º **6462/2021**](https://files.dre.pt/2s/2021/07/126000000/0008100083.pdf), de 1 de julho (DR n.º 126, 2.ª série), relativo à alteração do Doutoramento em Engenharia e Políticas Públicas (R/A-Ef 2142/2011/AL01); [Despacho n.º **21347/2009**](https://files.dre.pt/2s/2009/09/184000000/3860438605.pdf), de 22 de setembro (DR n.º 184, 2.ª série), alteração do ciclo de estudos; [Despacho n.º **23266/2008**](https://files.dre.pt/2s/2008/09/177000000/3923239233.pdf), de 12 de setembro (DR n.º 177, 2.ª série), criação do ciclo de estudos. |
 
 ## Histórico de acreditação A3ES
 
@@ -208,12 +186,3 @@ A informação institucional atualmente disponível articula diferentes fontes:
 | 18-05-2015 | ACEF/1314/0306902 | Acreditado por 6 anos |
 | 12-12-2011 | CEF/0910/06902 | Acreditado preliminarmente |
 | (em curso) | ACEF/2526/0306902 | Submissão de pedido de avaliação/acreditação |
-
-## Fontes oficiais
-
-- [Diário da República — Despacho n.º 6462/2021](https://files.dre.pt/2s/2021/07/126000000/0008100083.pdf)
-- [Diário da República — Despacho n.º 21347/2009](https://files.dre.pt/2s/2009/09/184000000/3860438605.pdf)
-- [Diário da República — Despacho n.º 23266/2008](https://files.dre.pt/2s/2008/09/177000000/3923239233.pdf)
-- [A3ES — resultados de acreditação (Engenharia e Políticas Públicas)](https://a3es.pt/pt/resultados-acreditacao/engenharia-e-politicas-publicas-4)
-- [A3ES — Guião para a auto-avaliação (ACEF/1920/0306902)](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306902_dout_eng_-politicas-publicas.pdf)
-- [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
