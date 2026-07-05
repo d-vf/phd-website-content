@@ -163,4 +163,3 @@ A entrega, apreciação, constituição do júri, marcação da prova pública e
 
 - [Regulamentos](regulamentos.md)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-- [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
