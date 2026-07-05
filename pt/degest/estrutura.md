@@ -108,16 +108,16 @@ Fontes úteis:
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
 
-# Doctoral School
+# Escola Doutoral do Técnico
 
 A Técnico Doctoral School reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
 
-- [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
-- [Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-- [Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-- [PhD Fast Track](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/phd-fast-track/)
-
+- [Escola Doutoral do Técnico](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
+- [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
+- [Escola Doutoral do Técnico — Estágios](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
+- [Escola Doutoral do Técnico — Apoio ao Ensino](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
+- [Doutoramento "Fast Track"](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+  
 # Comissão de Acompanhamento Tese (CAT)
 
 A Comissão de Acompanhamento de Tese acompanha o desenvolvimento científico do doutoramento, em articulação com o estudante, a orientação científica e a coordenação do programa.
