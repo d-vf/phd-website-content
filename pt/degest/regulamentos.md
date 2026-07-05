@@ -11,28 +11,24 @@ A informação administrativa em vigor deve ser sempre confirmada junto da Área
 - [Formulários da Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/formularios/)
 - [Provas académicas](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/provas-academicas/)
 
-## Programa no Fénix
 
-- [Descrição do Programa Doutoral em Engenharia e Gestão](https://fenix.tecnico.ulisboa.pt/cursos/degest)
-- [Regime de acesso](https://fenix.tecnico.ulisboa.pt/cursos/degest/regime-de-acesso)
-- [Currículo](https://fenix.tecnico.ulisboa.pt/cursos/degest/curriculo)
-- [Plano curricular](https://fenix.tecnico.ulisboa.pt/cursos/degest/plano-curricular)
-- [Outra informação](https://fenix.tecnico.ulisboa.pt/cursos/degest/outra-informacao)
+## Publicações oficiais e acreditação
 
-## Acreditação e publicações oficiais
-
-A página oficial do programa no Fénix lista publicações e decisões associadas ao ciclo de estudos, incluindo processos A3ES, registos DGES e despachos publicados em Diário da República.
-
-- [Publicações oficiais no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest)
-- [A3ES — resultados de acreditação](https://a3es.pt/pt/avaliacao-e-acreditacao/resultados-dos-processo-de-avaliacao-e-acreditacao/acreditacao-de-ciclos-de-estudos/)
-- [Diário da República](https://diariodarepublica.pt/)
-
+A informação institucional atualmente disponível articula diferentes fontes:
+ 
+| Fonte | Conteúdo | Referência |
+|---|---|---|
+| Fénix | Página institucional: [currículo](https://fenix.tecnico.ulisboa.pt/cursos/degest/curriculo), [plano curricular](https://fenix.tecnico.ulisboa.pt/cursos/degest/plano-curricular), [páginas de disciplinas](https://fenix.tecnico.ulisboa.pt/cursos/degest/paginas-de-disciplinas), coordenação e publicações oficiais. | — |
+| DGES | [Registo oficial do ciclo de estudos](https://www.dges.gov.pt/simges/public/www/cursos/13986): estrutura curricular, plano de estudos, especialidades, créditos e acreditação. | Registo **R/A-Ef 2141/2011/AL02**, associado à estrutura curricular e ao plano de estudos atualmente apresentados na DGES. |
+| A3ES | Processo de acreditação do ciclo de estudos: [processo e decisão](https://si.a3es.pt/sia3es/page?processID=25769&stage=ConsultaPublicaProcesso), [guião para a auto-avaliação](https://aepq.tecnico.ulisboa.pt/files/sites/22/acef_1920_0306877_dout_eng_gestao.pdf). | Processo **ACEF/1920/0306877/ALT_001**, com decisão de acreditação publicada em **20-03-2025**. |
+| Diário da República | [Publicação oficial de alterações anteriores ao ciclo de estudos](https://diariodarepublica.pt/dr/detalhe/despacho/12290-2015-70880834). | Despacho n.º **12290/2015**, de 2 de novembro, relativo à alteração registada pela DGES com o n.º **R/A-Ef 2141/2011/AL01**. |
+ 
 ## Escola Doutoral
 
 A Escola Doutoral do Técnico agrega a informação transversal relativa aos programas de doutoramento, incluindo competências transversais, oportunidades de formação, estágios, ensino, candidaturas, financiamento e recursos para estudantes de doutoramento.
 
 - [Doutoramentos no Técnico](https://tecnico.ulisboa.pt/pt/ensino/cursos/doutoramentos/)
-- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
+- [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
 - [PhD Fast Track](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
 
 ## Propinas e emolumentos
