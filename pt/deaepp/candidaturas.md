@@ -7,7 +7,7 @@ O programa funciona em dois formatos: o **grau dual IST/CMU**, em parceria com a
 - [Candidaturas a programas de doutoramento no Técnico](https://tecnico.ulisboa.pt/pt/ensino/estudar-no-tecnico/concursos-de-acesso/programas-de-doutoramento/)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
 - [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 
 ## Requisitos de acesso
 
@@ -65,7 +65,7 @@ O programa não deve ser apresentado como financiado por defeito. Os candidatos 
 Fontes úteis:
 
 - [Bolsas de doutoramento — Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/bolsas-de-doutoramento/)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 - [Fundação para a Ciência e a Tecnologia — Bolsas](https://www.fct.pt/financiamento/programas-de-financiamento/bolsas/)
 - [IST-ID — Concursos de bolsas](https://ist-id.pt/concursos/bolsas/)
 - [DRH Técnico — Recrutamento de bolseiros](https://drh.tecnico.ulisboa.pt/bolseiros/recrutamento/)
