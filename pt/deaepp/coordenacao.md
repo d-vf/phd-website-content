@@ -57,22 +57,6 @@ A composição e o funcionamento da Comissão de Acompanhamento de Tese devem se
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
 - [Regulamentos](regulamentos.md)
 
-## Corpo docente
-
-O corpo docente abaixo corresponde ao pessoal docente do ciclo de estudos identificado na documentação A3ES/ACEF 2526 (processo ACEF/2526/0306902) do Doutoramento em Engenharia e Políticas Públicas.
-
-| Docente | Grau / área de doutoramento | 
-|---|---|
-| Mónica Duarte Correia de Oliveira | Doutor em Operational Research | 
-| Miguel Leitão Bignolas Mira da Silva | Doutor em Engenharia Informática | 
-| Rui Miguel Loureiro Nobre Baptista | Doutor em Engenharia de Sistemas | 
-| Joana Serra da Luz Mendonça |  Doutor em Engenharia e Gestão Industrial | 
-| Carlos Augusto Santos Silva |  Doutor em Engenharia Mecânica | 
-| Francisco Miguel Garcia Gonçalves de Lima | Doutor em Economia |
-| António Sérgio Constantino Folgado Ribeiro | Doutor em Economia e Gestão | 
-| Patrícia De Carvalho Baptista | Doutor em Engenharia Mecânica |
-| Hugo Miguel Fragoso de Castro Silva | Doutor em Engenharia e Gestão | 
-
 Fontes complementares:
 
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
