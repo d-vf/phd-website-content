@@ -65,7 +65,7 @@ O programa não deve ser apresentado como financiado por defeito. Os candidatos 
 Fontes úteis:
 
 - [Bolsas de doutoramento — Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/bolsas-de-doutoramento/)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
+- [Carnegie Mellon Portugal Program)](https://cmuportugal.org/ph-d-in-engineering-and-public-policy/)
 - [Fundação para a Ciência e a Tecnologia — Bolsas](https://www.fct.pt/financiamento/programas-de-financiamento/bolsas/)
 - [IST-ID — Concursos de bolsas](https://ist-id.pt/concursos/bolsas/)
 - [DRH Técnico — Recrutamento de bolseiros](https://drh.tecnico.ulisboa.pt/bolseiros/recrutamento/)
@@ -81,5 +81,3 @@ Para enquadramento científico, orientação e temas de investigação, consulta
 - Coordenador do programa: **Rui Baptista** — rui.baptista@tecnico.ulisboa.pt
 - [Coordenação científica](coordenacao.md)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-
-# Concursos abertos
