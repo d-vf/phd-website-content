@@ -106,7 +106,6 @@ A definição de novos tópicos de tese deve considerar as unidades de investiga
 
 Estes temas refletem a articulação entre tecnologia, economia, ambiente e decisão pública que caracteriza o programa, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
 
-- [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
 - [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
 
 ## Ligação a docentes, projectos e actividades científicas
