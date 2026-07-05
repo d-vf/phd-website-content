@@ -35,11 +35,7 @@ O CEGIST organiza a sua actividade em ramos de investigação que cobrem método
 
 Ligações úteis:
 
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/)
-- [CEGIST — Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas)
-- [CEGIST — Members](https://cegist.tecnico.ulisboa.pt/members)
-- [CEGIST — PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses)
-- [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 
 ### IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento
 
@@ -55,10 +51,7 @@ O centro organiza actividade em torno de laboratórios e áreas como:
 
 Ligações úteis:
 
-- [IN+](https://in3.dem.ist.utl.pt/)
-- [IN+ — Team](https://in3.dem.ist.utl.pt/team/)
-- [IN+ — Activities](https://in3.dem.ist.utl.pt/activities/)
-- [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
+- [IN+](https://in3.dem.ist.utl.pt/) [Team](https://in3.dem.ist.utl.pt/team/) [Activities](https://in3.dem.ist.utl.pt/activities/) [Events](https://in3.dem.ist.utl.pt/events/)
 
 ## Docentes e interesses de investigação
 
@@ -104,11 +97,9 @@ A definição de novos tópicos de tese deve considerar os ramos de investigaç�
 
 ## Ligação a docentes, projectos e actividades científicas
 
-A página deve funcionar como ponto de entrada para informação existente, evitando duplicação de conteúdos mantidos noutros sistemas. Para informação dinâmica, devem ser usadas ligações para páginas institucionais actualizadas:
 
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
 - [Corpo docente do DeGest no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/corpo-docente)
-- [CEGIST — Projects](https://cegist.tecnico.ulisboa.pt/projects)
-- [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+  [Projects](https://cegist.tecnico.ulisboa.pt/projects) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 - [IN+ — News](https://in3.dem.ist.utl.pt/news/)
 - [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
