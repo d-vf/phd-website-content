@@ -27,9 +27,10 @@ A informação institucional atualmente disponível articula diferentes fontes:
 
 A Escola Doutoral do Técnico agrega a informação transversal relativa aos programas de doutoramento, incluindo competências transversais, oportunidades de formação, estágios, ensino, candidaturas, financiamento e recursos para estudantes de doutoramento.
 
-- [Doutoramentos no Técnico](https://tecnico.ulisboa.pt/pt/ensino/cursos/doutoramentos/)
 - [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-- [PhD Fast Track](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+- [Escola Doutoral do Técnico — Estágios](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
+- [Escola Doutoral do Técnico — Apoio ao Ensino](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
+- [Doutoramento "Fast Track"](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
 
 ## Propinas e emolumentos
 
