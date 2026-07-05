@@ -3,7 +3,6 @@
 A consulta de dissertações e teses anteriores do Programa Doutoral em Engenharia e Políticas Públicas deve ser feita preferencialmente através do Scholar, o repositório institucional do Instituto Superior Técnico.
 
 - [Scholar — Repositório do Instituto Superior Técnico | Doutoramento em Engenharia e Políticas Públicas](https://scholar.tecnico.ulisboa.pt/search?q=degreeName:+%22Doutoramento+em+Engenharia+e+Pol%C3%ADticas+P%C3%BAblicas%22&domain=records&sort=_score:desc&useStringQuery=true&startYear=1911&endYear=2026)
-- [Dissertações no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/dissertacoes)
 
 ## Como pesquisar
 
