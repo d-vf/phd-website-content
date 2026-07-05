@@ -43,10 +43,7 @@ O CEGIST organiza a sua actividade em ramos de investigação que cobrem método
 Ligações úteis:
 
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/)
-- [CEGIST — Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas)
-- [CEGIST — Members](https://cegist.tecnico.ulisboa.pt/members)
-- [CEGIST — PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses)
-- [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 
 ### LARSyS — Laboratory of Robotics and Engineering Systems
 
@@ -61,10 +58,7 @@ O LARSyS é um Laboratório Associado dedicado à investigação em sistemas de 
 Ligações úteis:
 
 - [LARSyS](https://larsys.pt/)
-- [IN+](https://in3.dem.ist.utl.pt/)
-- [IN+ — Team](https://in3.dem.ist.utl.pt/team/)
-- [IN+ — Activities](https://in3.dem.ist.utl.pt/activities/)
-- [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
+- [IN+](https://in3.dem.ist.utl.pt/)[Team](https://in3.dem.ist.utl.pt/team/) [Activities](https://in3.dem.ist.utl.pt/activities/) [Events](https://in3.dem.ist.utl.pt/events/)
 
 ### INESC INOV — Instituto de Engenharia de Sistemas e Computadores Inovação
 
@@ -110,12 +104,9 @@ Estes temas refletem a articulação entre tecnologia, economia, ambiente e deci
 
 ## Ligação a docentes, projectos e actividades científicas
 
-A página deve funcionar como ponto de entrada para informação existente, evitando duplicação de conteúdos mantidos noutros sistemas. Para informação dinâmica, devem ser usadas ligações para páginas institucionais actualizadas:
-
 - [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-- [CEGIST — Projects](https://cegist.tecnico.ulisboa.pt/projects)
-- [CEGIST — Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST — [Projects](https://cegist.tecnico.ulisboa.pt/projects) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 - [LARSyS](https://larsys.pt/)
 - [IN+ — News](https://in3.dem.ist.utl.pt/news/)
 - [INOV](https://www.inov.pt/)
