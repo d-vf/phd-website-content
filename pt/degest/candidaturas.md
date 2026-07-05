@@ -74,5 +74,3 @@ Para enquadramento científico, orientação e temas de investigação, consulta
 
 - [Comissão Científica](coordenacao.md)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-
-# Concursos abertos
