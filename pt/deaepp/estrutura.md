@@ -104,7 +104,7 @@ As opções livres podem ser escolhidas de entre **todas as áreas científicas 
 
 A seleção das unidades curriculares deve ser feita em articulação com a coordenação do programa e com o percurso científico do estudante.
 
-# Doctoral School
+# Escola Doutoral do Técnico
 
 A Técnico Doctoral School reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
 
