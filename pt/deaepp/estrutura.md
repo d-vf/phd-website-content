@@ -110,11 +110,11 @@ A Técnico Doctoral School reúne informação e iniciativas transversais aos pr
 
 Estas iniciativas estão disponíveis para os estudantes do Programa Doutoral em Engenharia e Políticas Públicas, complementando a formação avançada e o desenvolvimento da tese.
 
-- [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
-- [Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-- [Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-- [PhD Fast Track](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/phd-fast-track/)
+- [Escola Doutoral do Técnico](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
+- [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
+- [Escola Doutoral do Técnico — Estágios](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
+- [Escola Doutoral do Técnico — Apoio ao Ensino](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
+- [Doutoramento "Fast Track"](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
 
 # Comissão de Acompanhamento Tese (CAT)
 
