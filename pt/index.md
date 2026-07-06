@@ -1,5 +1,5 @@
 
-Programa Doutoral em Engenharia e Gestão (DeGest)
+# Programa Doutoral em Engenharia e Gestão (DeGest)
 
 
 O Programa de Doutoral em Engenharia e Gestão (DeGest) visa formar especialistas no domínio dos Métodos Científicos em Gestão (Management Science), envolvendo um conjunto alargado de temas e abordagens aplicáveis a problemas de decisão e análise ao nível da gestão empresarial, das políticas públicas e da interacção entre tecnologia, economia e sociedade.
@@ -8,7 +8,7 @@ Os graduados combinam conhecimento tecnológico, métodos científicos de gestã
 
 Mais informação.
 
-Programa Doutoral em Engenharia e Políticas Públicas (DEAEPP)
+# Programa Doutoral em Engenharia e Políticas Públicas (DEAEPP)
 
 
 O Programa Doutoral em Engenharia e Políticas Públicas visa formar especialistas em políticas públicas e gestão de tecnologia através da investigação em assuntos onde as questões tecnológicas, económicas e legais são igualmente importantes. O Programa nasceu com especializações aplicadas aos sectores das telecomunicações e da energia, entretanto alargado para fazer face às constantes mudanças tecnológicas. O programa oferece uma forte preparação ao nível de análise para suporte à tomada de decisão informada sobre problemas complexos do mundo real.
