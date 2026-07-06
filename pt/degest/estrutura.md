@@ -103,11 +103,6 @@ Entre as opções publicadas no plano curricular incluem-se:
 - Apoio ao Ensino I;
 - Apoio ao Ensino II.
 
-Fontes úteis:
-
-- [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-
 # Escola Doutoral do Técnico
 
 A Técnico Doctoral School reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
