@@ -91,9 +91,11 @@ Ligações úteis:
 
 ## Tópicos de tese e dissertações anteriores
 
-A definição de novos tópicos de tese deve considerar os ramos de investigação activos, os interesses dos docentes e as dissertações já concluídas no programa. As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cadeias de abastecimento de sangue, serviços sociais domiciliários, saúde digital, optimização multi-objectivo, veículos autónomos partilhados, resiliência em cadeias de abastecimento, serviços médicos de emergência, foresight, políticas públicas, infraestruturas, florestas, energia, sustentabilidade, empreendedorismo, gestão municipal, avaliação multicritério, sistemas de informação, logística inversa, redes hospitalares e desempenho de serviços urbanos.
+A definição de novos tópicos de tese deve considerar os ramos de investigação activos, os interesses dos docentes e as dissertações já concluídas no programa. 
 
-- [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
+As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cadeias de abastecimento de sangue, serviços sociais domiciliários, saúde digital, optimização multi-objectivo, veículos autónomos partilhados, resiliência em cadeias de abastecimento, serviços médicos de emergência, foresight, políticas públicas, infraestruturas, florestas, energia, sustentabilidade, empreendedorismo, gestão municipal, avaliação multicritério, sistemas de informação, logística inversa, redes hospitalares e desempenho de serviços urbanos.
+
+- [Dissertações](dissertacoes.md)
 
 ## Ligação a docentes, projectos e actividades científicas
 
