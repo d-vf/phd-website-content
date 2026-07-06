@@ -89,7 +89,9 @@ Lista indicativa de docentes associados ao Programa Doutoral em Engenharia e Pol
 
 ## Tópicos de tese e dissertações anteriores
 
-A definição de novos tópicos de tese deve considerar as unidades de investigação activas, os interesses dos docentes e as dissertações já concluídas no programa. As teses recentes do EPP cobrem, entre outros temas:
+A definição de novos tópicos de tese deve considerar as unidades de investigação activas, os interesses dos docentes e as dissertações já concluídas no programa. 
+
+As teses recentes do EPP cobrem, entre outros temas:
 
 - demografia da força de trabalho, transições para o empreendedorismo e desempenho de startups;
 - o papel da cultura na difusão de tecnologia (comunicações móveis);
@@ -100,7 +102,7 @@ A definição de novos tópicos de tese deve considerar as unidades de investiga
 
 Estes temas refletem a articulação entre tecnologia, economia, ambiente e decisão pública que caracteriza o programa, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
 
-- [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
+- [Dissertações](dissertacoes.md)
 
 ## Ligação a docentes, projectos e actividades científicas
 
@@ -110,4 +112,4 @@ Estes temas refletem a articulação entre tecnologia, economia, ambiente e deci
 - [LARSyS](https://larsys.pt/)
 - [IN+ — News](https://in3.dem.ist.utl.pt/news/)
 - [INOV](https://www.inov.pt/)
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
