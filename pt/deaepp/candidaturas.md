@@ -6,7 +6,6 @@ O programa funciona em dois formatos: o **grau dual IST/CMU**, em parceria com a
 
 - [Candidaturas a programas de doutoramento no Técnico](https://tecnico.ulisboa.pt/pt/ensino/estudar-no-tecnico/concursos-de-acesso/programas-de-doutoramento/)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-- [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
 - [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 
 ## Requisitos de acesso
@@ -84,6 +83,5 @@ Para questões administrativas sobre candidatura, matrícula e validação docum
 
 Para enquadramento científico, orientação e temas de investigação, consultar a coordenação do programa e os docentes do Departamento de Engenharia e Gestão.
 
-- Coordenador do programa: **Rui Baptista** — rui.baptista@tecnico.ulisboa.pt
 - [Coordenação científica](coordenacao.md)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
