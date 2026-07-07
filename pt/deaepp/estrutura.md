@@ -16,8 +16,6 @@ A informação oficial e atualizada sobre o plano curricular deve ser consultada
 
 ## Estrutura curricular por área científica
 
-Segundo a estrutura curricular registada na DGES e publicada no Despacho n.º 6462/2021, os 240 ECTS distribuem-se pelas seguintes áreas científicas:
-
 | Área científica | Sigla | Obrigatórios | Opcionais |
 |---|---|---:|---:|
 | Engenharia e Gestão de Organizações | EGO | 12 ECTS | — |
