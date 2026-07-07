@@ -32,7 +32,7 @@ Consultar:
 
 - CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico [Eventos](https://cegist.tecnico.ulisboa.pt/events) [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
 
-- IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento [Eventos](https://in3.dem.ist.utl.pt/](https://in3.dem.ist.utl.pt/events/previous-events/) [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
+- IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento [Eventos](https://in3.dem.ist.utl.pt/events/previous-events/) [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
 
 ## Formação doutoral complementar
 
