@@ -39,10 +39,10 @@ Consultar:
 
 Os estudantes de doutoramento podem ainda consultar a oferta transversal da Escola Doutoral do Técnico, incluindo formação em competências transversais, oportunidades de ensino, estágios e programas associados ao percurso doutoral.
 
-- [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-- [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
-- [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
-- [PhD Fast Track](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+- [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
+- [Escola Doutoral do Técnico — Estágios](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
+- [Escola Doutoral do Técnico — Apoio ao Ensino](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
+- [Doutoramento "Fast Track"](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
 
 ## Ligações úteis
 
