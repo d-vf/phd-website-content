@@ -101,7 +101,9 @@ As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cade
 
 
 - [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-- [Corpo docente do DeGest no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/corpo-docente)
-  [Projects](https://cegist.tecnico.ulisboa.pt/projects) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
-- [IN+ — News](https://in3.dem.ist.utl.pt/news/)
-- [IN+ — Events](https://in3.dem.ist.utl.pt/events/)
+
+- Departamento de Engenharia e Gestão: [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
+
+- CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico: [Eventos](https://cegist.tecnico.ulisboa.pt/events) | [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) | [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
+
+- IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento: [Eventos](https://in3.dem.ist.utl.pt/events/previous-events/) | [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
