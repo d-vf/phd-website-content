@@ -64,6 +64,12 @@ Fontes úteis:
 - [IST-ID — Concursos de bolsas](https://ist-id.pt/concursos/bolsas/)
 - [DRH Técnico — Recrutamento de bolseiros](https://drh.tecnico.ulisboa.pt/bolseiros/recrutamento/)
 
+## Prémios
+
+[Prémio de Melhor Tese de Doutoramento](https://posgraduacao.tecnico.ulisboa.pt/english-ist-best-doctoral-thesis-award-regulations/)
+[Prémio Brito Camacho](https://posgraduacao.tecnico.ulisboa.pt/premio-brito-camacho/)
+[Prémio Maria Amélia Chaves](https://posgraduacao.tecnico.ulisboa.pt/premio-maria-amelia-chaves/)
+
 ## Contacto para candidaturas
 
 Para questões administrativas sobre candidatura, matrícula e validação documental, contactar a Área de Pós-Graduação:
