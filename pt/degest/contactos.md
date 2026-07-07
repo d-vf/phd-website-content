@@ -34,7 +34,6 @@ Av. Rovisco Pais, 1
 Para informação científica sobre áreas de investigação, orientação e enquadramento académico:
 
 - [Coordenação científica](coordenacao.md)
-- [Comissão Científica no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/degest/comissao-cientifica)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
 
 ## Centros de investigação
