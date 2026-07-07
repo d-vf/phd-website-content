@@ -105,9 +105,8 @@ Entre as opções publicadas no plano curricular incluem-se:
 
 # Escola Doutoral do Técnico
 
-A Técnico Doctoral School reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
+A [Escola Doutoral do Técnico](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/) reúne informação e iniciativas transversais aos programas doutorais do Técnico, incluindo formação em competências transversais, PhD Fast Track, oportunidades de ensino, estágios, internacionalização, carreira e vida académica.
 
-- [Escola Doutoral do Técnico](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/)
 - [Escola Doutoral do Técnico — Competências Transversais](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
 - [Escola Doutoral do Técnico — Estágios](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Escola Doutoral do Técnico — Apoio ao Ensino](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
