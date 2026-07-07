@@ -66,9 +66,9 @@ Fontes úteis:
 
 ## Prémios
 
-[Prémio de Melhor Tese de Doutoramento](https://posgraduacao.tecnico.ulisboa.pt/english-ist-best-doctoral-thesis-award-regulations/)
-[Prémio Brito Camacho](https://posgraduacao.tecnico.ulisboa.pt/premio-brito-camacho/)
-[Prémio Maria Amélia Chaves](https://posgraduacao.tecnico.ulisboa.pt/premio-maria-amelia-chaves/)
+- [Prémio de Melhor Tese de Doutoramento](https://posgraduacao.tecnico.ulisboa.pt/english-ist-best-doctoral-thesis-award-regulations/)
+- [Prémio Brito Camacho](https://posgraduacao.tecnico.ulisboa.pt/premio-brito-camacho/)
+- [Prémio Maria Amélia Chaves](https://posgraduacao.tecnico.ulisboa.pt/premio-maria-amelia-chaves/)
 
 ## Contacto para candidaturas
 
