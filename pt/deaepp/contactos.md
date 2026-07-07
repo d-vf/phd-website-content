@@ -19,7 +19,7 @@ Para informação geral sobre o programa, consultar:
 
 No caso do **grau dual IST/CMU** (programa CMU-Portugal), os candidatos devem candidatar-se também diretamente ao programa Engineering and Public Policy (EPP) na Carnegie Mellon University e, tipicamente, apresentar resultados recentes dos exames GRE e TOEFL. A admissão depende das duas instituições.
 
-- [Carnegie Mellon University — Engineering and Public Policy (EPP)](http://www.icti.cmu.edu/epp)
+- [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 - [Regime de acesso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso)
 
 ## Departamento de Engenharia e Gestão
@@ -38,7 +38,6 @@ Av. Rovisco Pais, 1
 
 Para informação científica sobre áreas de investigação, orientação e enquadramento académico:
 
-- Coordenador do programa: **Rui Baptista** — rui.baptista@tecnico.ulisboa.pt
 - [Coordenação científica](coordenacao.md)
 - [Descrição e coordenação do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
