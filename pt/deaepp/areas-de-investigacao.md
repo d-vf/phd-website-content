@@ -106,10 +106,9 @@ Estes temas refletem a articulação entre tecnologia, economia, ambiente e deci
 
 ## Ligação a docentes, projectos e actividades científicas
 
-- [Descrição do curso no Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
-- [Docentes do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-- [CEGIST — [Projects](https://cegist.tecnico.ulisboa.pt/projects) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- Departamento de Engenharia e Gestão: [Docentes](https://deg.tecnico.ulisboa.pt/pessoas/docentes) [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
+- CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico: [Eventos](https://cegist.tecnico.ulisboa.pt/events) | [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) | [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
+- IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento: [Eventos](https://in3.dem.ist.utl.pt/events/previous-events/) | [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
 - [LARSyS](https://larsys.pt/)
-- [IN+ — News](https://in3.dem.ist.utl.pt/news/)
 - [INOV](https://www.inov.pt/)
 - [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
