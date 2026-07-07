@@ -7,8 +7,6 @@
 | Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Rui Miguel Loureiro Nobre Baptista | Professor Catedrático, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 | Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Joana Serra da Luz Mendonça | Professora Catedrática, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 
-Contacto: rui.baptista@tecnico.ulisboa.pt
-
 Fontes:
 
 - [Descrição e coordenação do curso no Fénix (2025/2026)](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
