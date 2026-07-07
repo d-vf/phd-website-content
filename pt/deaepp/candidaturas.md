@@ -60,7 +60,7 @@ O programa tem, em regra, períodos de candidatura associados ao ingresso no 1.�
 
 ## Bolsas e financiamento
 
-O programa não deve ser apresentado como financiado por defeito. Os candidatos devem consultar oportunidades de financiamento disponíveis através de bolsas competitivas, projectos de investigação, concursos de centros de investigação e programas nacionais. Em particular, o programa **CMU-Portugal** disponibiliza financiamento que permite a realização do doutoramento em grau dual IST/CMU.
+Os candidatos devem consultar oportunidades de financiamento disponíveis através de bolsas competitivas, projectos de investigação, concursos de centros de investigação e programas nacionais. Em particular, o programa [**CMU-Portugal**](https://cmuportugal.org/dual-degree-phd/) disponibiliza financiamento que permite a realização do doutoramento em grau dual.
 
 Fontes úteis:
 
@@ -69,6 +69,12 @@ Fontes úteis:
 - [Fundação para a Ciência e a Tecnologia — Bolsas](https://www.fct.pt/financiamento/programas-de-financiamento/bolsas/)
 - [IST-ID — Concursos de bolsas](https://ist-id.pt/concursos/bolsas/)
 - [DRH Técnico — Recrutamento de bolseiros](https://drh.tecnico.ulisboa.pt/bolseiros/recrutamento/)
+
+## Prémios
+
+[Prémio de Melhor Tese de Doutoramento](https://posgraduacao.tecnico.ulisboa.pt/english-ist-best-doctoral-thesis-award-regulations/)
+[Prémio Brito Camacho](https://posgraduacao.tecnico.ulisboa.pt/premio-brito-camacho/)
+[Prémio Maria Amélia Chaves](https://posgraduacao.tecnico.ulisboa.pt/premio-maria-amelia-chaves/)
 
 ## Contacto para candidaturas
 
