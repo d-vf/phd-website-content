@@ -13,8 +13,6 @@ Os Doutorados do Programa de DEAEPP irão exercer actividades em cargos de lider
 # Saídas Profissionais
 O DEAEPP forma especialistas com grandes e variadas oportunidades de emprego a nível internacional. Historicamente, aproximadamente um terço dos Doutorados nesta área encontra emprego na indústria em cargos de gestão de equipas interdisciplinares. Um terço dos Doutorados encontra emprego em instituições governamentais e think tanks e outro terço segue a carreira académica em universidades de topo internacionais.
 
-## Indicadores e/ou Colocações
-
 # Regime de Funcionamento
 O programa funciona em dois formatos: 1) Em parceria com Carnegie Mellon University onde os candidatos passam metade do tempo para se graduarem; ou 2) programa integralmente fornecido pelo IST
 
