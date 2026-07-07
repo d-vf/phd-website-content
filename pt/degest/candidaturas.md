@@ -4,7 +4,6 @@ As candidaturas ao Programa Doutoral em Engenharia e Gestão são submetidas onl
 
 - [Candidaturas a programas de doutoramento no Técnico](https://tecnico.ulisboa.pt/pt/ensino/estudar-no-tecnico/concursos-de-acesso/programas-de-doutoramento/)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-- [Programa Doutoral em Engenharia e Gestão — Outra informação](https://fenix.tecnico.ulisboa.pt/cursos/degest/outra-informacao)
 
 ## Requisitos de acesso
 
