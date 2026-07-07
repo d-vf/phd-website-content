@@ -26,13 +26,13 @@ Anualmente o Conselho Directivo do IST estabelece as propinas para os diversos p
 
 ## Eventos, seminários e disseminação
 
-A promoção científica do programa deve assentar em actividades já existentes no ecossistema do DEG e dos seus centros de investigação, incluindo seminários, provas de doutoramento, apresentações de investigação, projectos, workshops e eventos abertos.
-
 Consultar:
 
-- [Eventos e notícias do Departamento de Engenharia e Gestão](https://deg.tecnico.ulisboa.pt/)
-- [CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico](https://cegist.tecnico.ulisboa.pt/pt)
-- [IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento](https://in3.dem.ist.utl.pt/)
+- Departamento de Engenharia e Gestão [Eventos](https://deg.tecnico.ulisboa.pt/eventos) [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
+
+- CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico [Eventos](https://cegist.tecnico.ulisboa.pt/events) [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
+
+- IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento [Eventos](https://in3.dem.ist.utl.pt/](https://in3.dem.ist.utl.pt/events/previous-events/) [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
 
 ## Formação doutoral complementar
 
