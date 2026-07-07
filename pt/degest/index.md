@@ -14,8 +14,6 @@ O Programa Doutoral em Engenharia e Gestão destina-se a detentores de um grau d
 # Saídas Profissionais
 Os detentores do grau de Doutor em Engenharia e Gestão poderão exercer a sua actividade primordialmente em Instituições de Ensino Superior, Laboratórios de Investigação, Empresas e Órgãos Governamentais e da Administração Pública.
 
-## Indicadores e/ou Colocações
-
 # Regime de Funcionamento
 O Programa Doutoral em Engenharia e Gestão é composto pelo curso de doutoramento, que é um conjunto de unidades curriculares (UC's) obrigatórias e de opção a realizar pelos estudantes do programa; e pela elaboração de uma dissertação de investigação original. As UC's com estudantes estrangeiros decorrem em língua inglesa.
 
