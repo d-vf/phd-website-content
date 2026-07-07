@@ -44,7 +44,7 @@ De acordo com a informação pública do programa e da Área de Pós-Graduação
 - curriculum vitae;
 - certificados de habilitações;
 - carta de motivação;
-- cartas de referência;
+- cartas de recomendação;
 - carta de aceitação do orientador ou co-orientadores, quando já exista orientação definida;
 - plano de investigação, quando já exista;
 - resultados dos exames GRE e TOEFL, no caso de candidatura ao grau dual IST/CMU;
