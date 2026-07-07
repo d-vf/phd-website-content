@@ -1,7 +1,5 @@
 # Coordenação científica
 
-A coordenação científica do Programa Doutoral em Engenharia e Gestão deve ser apresentada com base nas fontes institucionais mais recentes. A página do Fénix pode não refletir a composição atualmente em vigor.
-
 ## Coordenador do programa
 
 | Função | Nome | Enquadramento |
