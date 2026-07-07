@@ -55,7 +55,7 @@ O programa tem, em regra, períodos de candidatura associados ao ingresso no 1.�
 
 ## Bolsas e financiamento
 
-O programa não deve ser apresentado como financiado por defeito. Os candidatos devem consultar oportunidades de financiamento disponíveis através de bolsas competitivas, projectos de investigação, concursos de centros de investigação e programas nacionais.
+Os candidatos devem consultar oportunidades de financiamento disponíveis através de bolsas competitivas, projectos de investigação, concursos de centros de investigação e programas nacionais.
 
 Fontes úteis:
 
