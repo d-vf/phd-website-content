@@ -21,7 +21,7 @@ A composição formal dos órgãos científicos do programa (2025), incluem-se:
 - Luís António Fialho Marcelino Ferreira - Professor Catedrático, Departamento de Engenharia Eletrotécnica e de Computadores, IST;
 - Paulo Manuel Cadete Ferrão - Professor Catedrático, Departamento de Engenharia Mecânica, IST;
 - Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST;
-- Rui Miguel Loureiro Nobre Baptista (coordenador) - Professor Catedrátic, Departamento de Engenharia e Gestão, IST;
+- Rui Miguel Loureiro Nobre Baptista (coordenador) - Professoro Catedrátic, Departamento de Engenharia e Gestão, IST;
 - Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST;
 
 [Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
