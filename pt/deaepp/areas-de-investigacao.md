@@ -73,7 +73,6 @@ Ligações úteis:
 
 Lista indicativa de docentes associados ao Programa Doutoral em Engenharia e Políticas Públicas, com áreas de interesse, síntese curricular e perfis públicos. 
 
-## Docentes e interesses de investigação
 
 | Docente | Unidade / centro | Área/interesses de investigação | Síntese CV | Fénix | Centro | Técnico Scholar | Orientações | Google Scholar | ORCID | Scopus | Ciência Vitae | Página Pessoal |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
