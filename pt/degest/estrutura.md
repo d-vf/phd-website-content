@@ -118,10 +118,22 @@ A Comissão de Acompanhamento de Tese acompanha o desenvolvimento científico do
 
 A CAT tem como função apoiar o acompanhamento regular do plano de investigação, a avaliação da evolução dos trabalhos e a identificação de eventuais necessidades de ajustamento científico, metodológico ou institucional.
 
+## Constituição e Prazo (Artigo 14.º)
+
+De acordo com o Regulamento Geral dos Doutoramentos, a formação da CAT obedece às seguintes regras principais:
+
+- **Prazo:** A constituição da CAT deve ser proposta ao coordenador do programa de doutoramento **até 12 meses a partir da data oficial de matrícula** (n.º 2 do Artigo 14.º).
+- **Composição:** 
+  - A comissão deve ter um **máximo de seis elementos** (sendo permitidos elementos extra apenas a título excecional e com a devida justificação).
+  - É constituída pela equipa de orientação científica e por um mínimo de dois professores, investigadores ou especialistas de mérito reconhecido elegíveis para o júri (sendo que os elementos de orientação não podem exceder em número os restantes membros).
+- **Presidência:** É exercida pelo membro mais antigo do IST na categoria mais elevada, excluindo os membros da equipa de orientação.
+
 A composição, funcionamento e momentos formais de acompanhamento devem ser confirmados nos regulamentos aplicáveis aos programas doutorais do Técnico e nas normas específicas do programa.
 
+**Links Úteis:**
 - [Regulamentos](regulamentos.md)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
+- [Regulamento Geral dos Doutoramentos do IST (PDF)](https://posgraduacao.tecnico.ulisboa.pt/files/sites/29/regulamento-geral-dos-doutoramentos-do-instituto-superior-tecnico_19maio2025.pdf)
 
 # Progresso nas Atividades de Investigação
 
