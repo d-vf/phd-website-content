@@ -14,11 +14,11 @@ O programa destina-se preferencialmente a detentores de formação em **engenhar
 
 A avaliação e seriação da candidatura considera:
 
-- o currículo, formação e experiência profissional do candidato;
-- a qualidade da instituição onde obteve o grau de mestre;
-- a carta de motivação;
-- a qualidade científica e pessoal do candidato;
-- o plano de investigação, quando exista.
+- o currículo, formação e experiência profissional do candidato
+- a qualidade da instituição onde obteve o grau de mestre
+- a carta de motivação
+- a qualidade científica e pessoal do candidato
+- o plano de investigação, quando exista
 
 No caso do **grau dual IST/CMU**, os candidatos devem ser admitidos pelas duas instituições, candidatar-se diretamente ao programa EPP na Carnegie Mellon University e, tipicamente, apresentar resultados recentes dos exames **GRE e TOEFL**. A classificação final destes candidatos é determinada por uma **Comissão de Seleção Conjunta**.
 
@@ -28,8 +28,8 @@ A candidatura deve ser instruída de acordo com as indicações da Área de Pós
 
 O processo de avaliação decorre, em geral, em duas fases:
 
-1. avaliação da formação anterior do candidato, incluindo afinidade científica, percurso académico e instituição conferente do grau;
-2. avaliação da motivação, adequação ao programa e capacidade para desenvolver investigação.
+1. avaliação da formação anterior do candidato, incluindo afinidade científica, percurso académico e instituição conferente do grau
+2. avaliação da motivação, adequação ao programa e capacidade para desenvolver investigação
 
 Os candidatos podem candidatar-se com ou sem orientador definido. Quando o estudante ingressa sem orientador, pode iniciar a componente curricular enquanto identifica e formaliza orientação científica.
 
@@ -37,17 +37,17 @@ Os candidatos podem candidatar-se com ou sem orientador definido. Quando o estud
 
 De acordo com a informação pública do programa e da Área de Pós-Graduação, a candidatura pode incluir:
 
-- formulário de candidatura;
-- documento de identificação;
-- número de identificação fiscal, quando aplicável;
-- curriculum vitae;
-- certificados de habilitações;
-- carta de motivação;
-- cartas de recomendação;
-- carta de aceitação do orientador ou co-orientadores, quando já exista orientação definida;
-- plano de investigação, quando já exista;
-- resultados dos exames GRE e TOEFL, no caso de candidatura ao grau dual IST/CMU;
-- comprovativo de pagamento do emolumento de candidatura.
+- formulário de candidatura
+- documento de identificação
+- número de identificação fiscal, quando aplicável
+- curriculum vitae
+- certificados de habilitações
+- carta de motivação
+- cartas de recomendação
+- carta de aceitação do orientador ou co-orientadores, quando já exista orientação definida
+- plano de investigação, quando já exista
+- resultados dos exames GRE e TOEFL, no caso de candidatura ao grau dual IST/CMU
+- comprovativo de pagamento do emolumento de candidatura
 
 Consultar sempre a lista actualizada de documentos na Área de Pós-Graduação.
 
