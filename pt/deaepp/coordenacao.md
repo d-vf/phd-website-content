@@ -18,11 +18,11 @@ A estrutura científica do programa articula a coordenação do ciclo de estudos
 
 A composição formal dos órgãos científicos do programa (2025), incluem-se:
 
-- Luís António Fialho Marcelino Ferreira - Professor Catedrático, Departamento de Engenharia Eletrotécnica e de Computadores, IST;
-- Paulo Manuel Cadete Ferrão - Professor Catedrático, Departamento de Engenharia Mecânica, IST;
-- Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST;
-- Rui Miguel Loureiro Nobre Baptista (coordenador) - Professoro Catedrátic, Departamento de Engenharia e Gestão, IST;
-- Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST;
+- Luís António Fialho Marcelino Ferreira - Professor Catedrático, Departamento de Engenharia Eletrotécnica e de Computadores, IST
+- Paulo Manuel Cadete Ferrão - Professor Catedrático, Departamento de Engenharia Mecânica, IST
+- Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST
+- Rui Miguel Loureiro Nobre Baptista (coordenador) - Professoro Catedrátic, Departamento de Engenharia e Gestão, IST
+- Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST
 
 [Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
 
@@ -30,15 +30,15 @@ A composição formal dos órgãos científicos do programa (2025), incluem-se:
 
 A coordenação científica enquadra:
 
-- a articulação entre estudantes, docentes e orientadores;
-- a avaliação científica de candidaturas, quando aplicável;
-- a validação do percurso curricular e científico dos estudantes;
-- o acompanhamento da definição do tema e do plano de tese;
-- a articulação com a Comissão de Acompanhamento de Tese;
-- a articulação com a Área de Pós-Graduação;
-- a articulação com a Técnico Doctoral School em matérias transversais ao doutoramento;
-- a articulação com a Carnegie Mellon University, no caso dos estudantes em grau dual;
-- o acompanhamento dos processos de avaliação, acreditação e atualização curricular do ciclo de estudos.
+- a articulação entre estudantes, docentes e orientadores
+- a avaliação científica de candidaturas, quando aplicável
+- a validação do percurso curricular e científico dos estudantes
+- o acompanhamento da definição do tema e do plano de tese
+- a articulação com a Comissão de Acompanhamento de Tese
+- a articulação com a Área de Pós-Graduação
+- a articulação com a Técnico Doctoral School em matérias transversais ao doutoramento
+- a articulação com a Carnegie Mellon University, no caso dos estudantes em grau dual
+- o acompanhamento dos processos de avaliação, acreditação e atualização curricular do ciclo de estudos
 
 A orientação concreta de cada tese é definida de acordo com o tema de investigação, o enquadramento científico e as regras aplicáveis aos programas doutorais do Técnico.
 
