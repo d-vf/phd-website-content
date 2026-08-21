@@ -11,21 +11,21 @@ No Scholar, podem ser usadas expressões como:
 - `Engenharia e Políticas Públicas`
 - `PhD Degree in Engineering and Public Policy`
 - `Doutoramento em Engenharia e Políticas Públicas`
-- nomes de orientadores ou áreas científicas do Departamento de Engenharia e Gestão;
-- palavras-chave associadas ao tema de investigação.
+- nomes de orientadores ou áreas científicas do Departamento de Engenharia e Gestão
+- palavras-chave associadas ao tema de investigação
 
 ## Exemplos de áreas representadas em teses anteriores
 
 As teses anteriores do programa reflectem a articulação entre engenharia, tecnologia e políticas públicas, incluindo temas como:
 
-- difusão de tecnologia e o papel da cultura (ex.: comunicações móveis);
-- políticas e implantação de tecnologias de energia (ex.: energia eólica offshore; eletrificação rural sustentável em países em desenvolvimento);
-- regulação adaptativa e protecionismo nacional em contextos de choques globais;
-- políticas de ciência e sociedade, participação pública na ciência e investigação e inovação responsáveis (RRI);
-- empreendedorismo, demografia da força de trabalho e desempenho de startups;
-- gestão da tecnologia e política de inovação;
-- digitalização, automação e mercado de trabalho;
-- análise e suporte à decisão em políticas públicas.
+- difusão de tecnologia e o papel da cultura (ex.: comunicações móveis)
+- políticas e implantação de tecnologias de energia (ex.: energia eólica offshore; eletrificação rural sustentável em países em desenvolvimento)
+- regulação adaptativa e protecionismo nacional em contextos de choques globais
+- políticas de ciência e sociedade, participação pública na ciência e investigação e inovação responsáveis (RRI)
+- empreendedorismo, demografia da força de trabalho e desempenho de startups
+- gestão da tecnologia e política de inovação
+- digitalização, automação e mercado de trabalho
+- análise e suporte à decisão em políticas públicas
 
 ## Teses orientadas (últimas 5 ocorrências) por docente
 
@@ -122,10 +122,10 @@ As teses anteriores do programa reflectem a articulação entre engenharia, tecn
 
 As dissertações e teses anteriores devem ser usadas como ponto de entrada para conhecer:
 
-- temas desenvolvidos no programa;
-- orientadores e linhas de investigação;
-- métodos usados na interface entre engenharia, tecnologia e políticas públicas;
-- articulação entre investigação académica, administração pública, indústria e centros de investigação, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
+- temas desenvolvidos no programa
+- orientadores e linhas de investigação
+- métodos usados na interface entre engenharia, tecnologia e políticas públicas
+- articulação entre investigação académica, administração pública, indústria e centros de investigação, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal
 
 Consultar também:
 
