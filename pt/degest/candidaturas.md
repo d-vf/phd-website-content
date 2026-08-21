@@ -11,12 +11,12 @@ O programa destina-se a detentores de Licenciatura pré-Bolonha ou Mestrado pós
 
 A avaliação da candidatura considera:
 
-- afinidade entre a formação de base e o âmbito do programa doutoral;
-- sucesso académico;
-- natureza da instituição conferente do grau;
-- motivação para investigação;
-- adequação ao contexto científico do programa;
-- adequação a um ambiente de investigação.
+- afinidade entre a formação de base e o âmbito do programa doutoral
+- sucesso académico
+- natureza da instituição conferente do grau
+- motivação para investigação
+- adequação ao contexto científico do programa
+- adequação a um ambiente de investigação
 
 ## Processo de candidatura
 
@@ -24,8 +24,8 @@ A candidatura deve ser instruída de acordo com as indicações da Área de Pós
 
 O processo de avaliação decorre em duas fases:
 
-1. avaliação da formação anterior do candidato, incluindo afinidade científica, percurso académico e instituição conferente do grau;
-2. avaliação da motivação, adequação ao programa e capacidade para desenvolver investigação.
+1. avaliação da formação anterior do candidato, incluindo afinidade científica, percurso académico e instituição conferente do grau
+2. avaliação da motivação, adequação ao programa e capacidade para desenvolver investigação
 
 Os candidatos podem candidatar-se com ou sem orientador definido. Quando o estudante ingressa sem orientador, pode iniciar a componente curricular enquanto identifica e formaliza orientação científica.
 
@@ -33,16 +33,16 @@ Os candidatos podem candidatar-se com ou sem orientador definido. Quando o estud
 
 De acordo com a informação pública do programa e da Área de Pós-Graduação, a candidatura pode incluir:
 
-- formulário de candidatura;
-- documento de identificação;
-- número de identificação fiscal, quando aplicável;
-- curriculum vitae;
-- certificados de habilitações;
-- carta de motivação;
-- cartas de recomendação;
-- carta de aceitação do orientador ou co-orientadores, quando já exista orientação definida;
-- plano de investigação, quando já exista;
-- comprovativo de pagamento do emolumento de candidatura.
+- formulário de candidatura
+- documento de identificação
+- número de identificação fiscal, quando aplicável
+- curriculum vitae
+- certificados de habilitações
+- carta de motivação
+- cartas de recomendação
+- carta de aceitação do orientador ou co-orientadores, quando já exista orientação definida
+- plano de investigação, quando já exista
+- comprovativo de pagamento do emolumento de candidatura
 
 Consultar sempre a lista actualizada de documentos na Área de Pós-Graduação.
 
