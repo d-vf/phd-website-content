@@ -31,8 +31,8 @@ O elenco das unidades curriculares opcionais é fixado anualmente pelos órgãos
 
 O programa organiza-se em duas componentes principais:
 
-1. **Componente curricular**, correspondente ao Curso de Doutoramento, com **30 ECTS**.
-2. **Componente de investigação**, correspondente à unidade curricular **Tese de Doutoramento em Engenharia e Políticas Públicas**, com **210 ECTS**.
+1. **Componente curricular**, correspondente ao Curso de Doutoramento, com **30 ECTS**
+2. **Componente de investigação**, correspondente à unidade curricular **Tese de Doutoramento em Engenharia e Políticas Públicas**, com **210 ECTS**
 
 A componente curricular permite ao estudante consolidar formação avançada na interface entre engenharia, tecnologia e políticas públicas, selecionar unidades curriculares alinhadas com o seu percurso científico e completar formação transversal relevante para o desenvolvimento do doutoramento.
 
@@ -90,9 +90,9 @@ A componente curricular concentra-se no **1.º ano** do ciclo de estudos. A comp
 
 A componente curricular inclui as seguintes unidades curriculares obrigatórias:
 
-- **Teoria, Prática e Análise de Políticas Públicas** (EGO, 6 ECTS) — introdução à tomada de decisão em contexto de políticas públicas, falhas de mercado e intervenção pública, paradigmas e quadros conceptuais para a análise de políticas, e abordagens de engenharia e gestão para a decisão pública;
-- **Métodos Quantitativos de Investigação** (EGO, 6 ECTS) — formação em métodos quantitativos de suporte à investigação;
-- **Modelos e Aplicações em Análise de Decisão** (EGS, 6 ECTS) — modelos e métodos de análise de decisão e respetivas aplicações.
+- **Teoria, Prática e Análise de Políticas Públicas** (EGO, 6 ECTS) — introdução à tomada de decisão em contexto de políticas públicas, falhas de mercado e intervenção pública, paradigmas e quadros conceptuais para a análise de políticas, e abordagens de engenharia e gestão para a decisão pública
+- **Métodos Quantitativos de Investigação** (EGO, 6 ECTS) — formação em métodos quantitativos de suporte à investigação
+- **Modelos e Aplicações em Análise de Decisão** (EGS, 6 ECTS) — modelos e métodos de análise de decisão e respetivas aplicações
 
 ## Bloco de Opções Livres
 
@@ -142,15 +142,15 @@ O progresso nas atividades de investigação corresponde ao desenvolvimento cont
 
 Esta fase inclui, em geral:
 
-- definição e consolidação do tema de investigação;
-- revisão crítica da literatura;
-- formulação das questões de investigação;
-- desenvolvimento metodológico;
-- recolha, tratamento ou produção de dados, quando aplicável;
-- desenvolvimento de modelos, métodos, análises ou estudos empíricos para suporte à decisão e ao desenho de políticas públicas;
-- produção de resultados científicos;
-- apresentação e discussão de resultados em seminários, conferências ou outros contextos científicos;
-- preparação de publicações científicas, quando aplicável.
+- definição e consolidação do tema de investigação
+- revisão crítica da literatura
+- formulação das questões de investigação
+- desenvolvimento metodológico
+- recolha, tratamento ou produção de dados, quando aplicável
+- desenvolvimento de modelos, métodos, análises ou estudos empíricos para suporte à decisão e ao desenho de políticas públicas
+- produção de resultados científicos
+- apresentação e discussão de resultados em seminários, conferências ou outros contextos científicos
+- preparação de publicações científicas, quando aplicável
 
 O acompanhamento do progresso deve ser feito em articulação com a orientação científica, a CAT e a coordenação do programa.
 
