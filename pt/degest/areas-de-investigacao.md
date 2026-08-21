@@ -4,16 +4,16 @@ O Programa Doutoral em Engenharia e Gestão enquadra investigação avançada em
 
 A investigação associada ao programa deve ser lida em três níveis complementares:
 
-1. as áreas científico-disciplinares do Departamento de Engenharia e Gestão;
-2. os centros e ramos de investigação que enquadram a actividade científica dos docentes;
-3. os tópicos concretos de orientação, investigação e ensino avançado associados ao corpo docente do programa.
+1. as áreas científico-disciplinares do Departamento de Engenharia e Gestão
+2. os centros e ramos de investigação que enquadram a actividade científica dos docentes
+3. os tópicos concretos de orientação, investigação e ensino avançado associados ao corpo docente do programa
 
 ## Áreas científico-disciplinares do Departamento
 
 O Departamento de Engenharia e Gestão organiza-se em duas áreas científico-disciplinares:
 
-- **Engenharia e Gestão de Sistemas**;
-- **Engenharia e Gestão de Organizações**.
+- **Engenharia e Gestão de Sistemas**
+- **Engenharia e Gestão de Organizações**
 
 Estas áreas cobrem problemas de estratégia, planeamento, decisão, operações, logística, economia, inovação, sustentabilidade, organização e análise de sistemas complexos.
 
