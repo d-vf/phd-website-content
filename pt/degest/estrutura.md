@@ -60,21 +60,21 @@ O Bloco de Especialização permite ao estudante aprofundar formação avançada
 
 Entre as unidades curriculares publicadas no plano curricular incluem-se:
 
-- Optimização e Aplicações;
-- Modelos e Aplicações em Operações, Logística e Gestão de Cadeias de Abastecimento;
-- Sustentabilidade em Engenharia e Gestão;
-- Modelos e Aplicações em Análise de Decisão;
-- Economia e Estratégia: Teoria e Aplicações;
-- Empreendedorismo: Teoria e Modelos;
-- Métodos Econométricos;
-- Tópicos em Engenharia e Gestão I;
+- Optimização e Aplicações
+- Modelos e Aplicações em Operações, Logística e Gestão de Cadeias de Abastecimento
+- Sustentabilidade em Engenharia e Gestão
+- Modelos e Aplicações em Análise de Decisão
+- Economia e Estratégia: Teoria e Aplicações
+- Empreendedorismo: Teoria e Modelos
+- Métodos Econométricos
+- Tópicos em Engenharia e Gestão I
 - Estratégia e Gestão da Inovação;
-- Tópicos em Engenharia e Gestão II;
-- Analítica Empresarial e Simulação;
-- Seminário Avançado em Sistemas de Informação;
-- Investigação em Sistemas e Serviços de Saúde;
-- Opcional de Especialização I;
-- Opcional de Especialização II.
+- Tópicos em Engenharia e Gestão II
+- Analítica Empresarial e Simulação
+- Seminário Avançado em Sistemas de Informação
+- Investigação em Sistemas e Serviços de Saúde
+- Opcional de Especialização I
+- Opcional de Especialização II
 
 A seleção das unidades curriculares deve ser feita em articulação com a coordenação do programa e com o percurso científico do estudante.
 
@@ -96,12 +96,12 @@ Pode incluir unidades curriculares opcionais, estágios, apoio ao ensino ou outr
 
 Entre as opções publicadas no plano curricular incluem-se:
 
-- Opcional I;
-- Opcional II;
-- Estágio não Académico I;
-- Estágio de Investigação no Estrangeiro;
-- Apoio ao Ensino I;
-- Apoio ao Ensino II.
+- Opcional I
+- Opcional II
+- Estágio não Académico I
+- Estágio de Investigação no Estrangeiro
+- Apoio ao Ensino I
+- Apoio ao Ensino II
 
 # Escola Doutoral do Técnico
 
@@ -141,15 +141,15 @@ O progresso nas atividades de investigação corresponde ao desenvolvimento cont
 
 Esta fase inclui, em geral:
 
-- definição e consolidação do tema de investigação;
-- revisão crítica da literatura;
-- formulação das questões de investigação;
-- desenvolvimento metodológico;
-- recolha, tratamento ou produção de dados, quando aplicável;
-- desenvolvimento de modelos, métodos, análises ou estudos empíricos;
-- produção de resultados científicos;
-- apresentação e discussão de resultados em seminários, conferências ou outros contextos científicos;
-- preparação de publicações científicas, quando aplicável.
+- definição e consolidação do tema de investigação
+- revisão crítica da literatura
+- formulação das questões de investigação
+- desenvolvimento metodológico
+- recolha, tratamento ou produção de dados, quando aplicável
+- desenvolvimento de modelos, métodos, análises ou estudos empíricos
+- produção de resultados científicos
+- apresentação e discussão de resultados em seminários, conferências ou outros contextos científicos
+- preparação de publicações científicas, quando aplicável
 
 O acompanhamento do progresso deve ser feito em articulação com a orientação científica, a CAT e a coordenação do programa.
 
