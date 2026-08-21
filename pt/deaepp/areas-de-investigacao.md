@@ -6,16 +6,16 @@ O programa foi desenvolvido em parceria com o departamento de Engineering and Pu
 
 A investigação associada ao programa deve ser lida em três níveis complementares:
 
-1. as áreas científico-disciplinares do Departamento de Engenharia e Gestão;
-2. as unidades de investigação que enquadram a actividade científica dos docentes;
-3. os tópicos concretos de orientação, investigação e ensino avançado associados ao corpo docente do programa.
+1. as áreas científico-disciplinares do Departamento de Engenharia e Gestão
+2. as unidades de investigação que enquadram a actividade científica dos docentes
+3. os tópicos concretos de orientação, investigação e ensino avançado associados ao corpo docente do programa
 
 ## Áreas científico-disciplinares do Departamento
 
 O Programa Doutoral em Engenharia e Políticas Públicas é enquadrado pelo Departamento de Engenharia e Gestão, que se organiza em duas áreas científico-disciplinares:
 
-- **Engenharia e Gestão de Sistemas** (EGS);
-- **Engenharia e Gestão de Organizações** (EGO).
+- **Engenharia e Gestão de Sistemas** (EGS)
+- **Engenharia e Gestão de Organizações** (EGO)
 
 No EPP, estas áreas estão refletidas na própria componente curricular — que inclui unidades curriculares de EGO (Teoria, Prática e Análise de Políticas Públicas; Métodos Quantitativos de Investigação) e de EGS (Modelos e Aplicações em Análise de Decisão) — e cobrem problemas de decisão, análise de políticas, economia, inovação, energia, sustentabilidade, sistemas de informação e análise de sistemas complexos com relevância para as políticas públicas.
 
@@ -108,12 +108,12 @@ A definição de novos tópicos de tese deve considerar as unidades de investiga
 
 As teses recentes do EPP cobrem, entre outros temas:
 
-- demografia da força de trabalho, transições para o empreendedorismo e desempenho de startups;
-- o papel da cultura na difusão de tecnologia (comunicações móveis);
-- políticas de ciência e sociedade, participação pública na ciência e investigação e inovação responsáveis (RRI);
-- perspetivas de implantação de energia eólica offshore;
-- variedades de protecionismo nacional (entrada de empresas, regulação adaptativa e diferenças tecnológicas em choques globais);
-- eletrificação rural sustentável baseada em energia em países em desenvolvimento.
+- demografia da força de trabalho, transições para o empreendedorismo e desempenho de startups
+- o papel da cultura na difusão de tecnologia (comunicações móveis)
+- políticas de ciência e sociedade, participação pública na ciência e investigação e inovação responsáveis (RRI)
+- perspetivas de implantação de energia eólica offshore
+- variedades de protecionismo nacional (entrada de empresas, regulação adaptativa e diferenças tecnológicas em choques globais)
+- eletrificação rural sustentável baseada em energia em países em desenvolvimento
 
 Estes temas refletem a articulação entre tecnologia, economia, ambiente e decisão pública que caracteriza o programa, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
 
