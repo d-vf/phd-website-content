@@ -53,9 +53,24 @@ Consultar sempre a lista actualizada de documentos na Área de Pós-Graduação.
 
 - [Formulários da Área de Pós-Graduação](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/formularios/)
 
-## Períodos de candidatura
+## Períodos de Candidatura e Apreciação
 
-O programa tem, em regra, períodos de candidatura associados ao ingresso no 1.º e no 2.º semestre. A informação publicada no Fénix refere períodos em Junho/Julho e Dezembro/Janeiro, mas os prazos efectivos de cada ano lectivo devem ser confirmados nas páginas oficiais do Técnico e da Área de Pós-Graduação. O número de vagas é limitado.
+O programa tem, em regra, períodos de candidatura associados ao ingresso no 1.º e no 2.º semestre. 
+
+As candidaturas aos Programas Doutorais (3.º ciclo) são submetidas de forma totalmente online, através da plataforma de admissões **Connect**, gerida pela Área de Pós-Graduação.
+
+A plataforma permite a **submissão de candidaturas de forma contínua** ao longo de todo o ano. No entanto, é importante notar que as candidaturas **apenas são apreciadas e avaliadas em períodos específicos** definidos para o ingresso em cada semestre:
+* **Ingresso no semestre de Primavera:** Dezembro a início de Janeiro
+* **Ingresso no semestre de Outono:** Junho a início de Julho
+
+Após a submissão, a sua candidatura será analisada pela Comissão Científica do Programa Doutoral durante as datas de corte ("cut-off dates"). A comissão é responsável por avaliar o seu percurso académico e científico para determinar a adequação do perfil para aceitação no programa. As candidaturas submetidas fora destas janelas de avaliação ficarão a aguardar no sistema até à fase de apreciação seguinte.
+
+Para submeter a sua candidatura, aceder à plataforma e confirmar as datas exatas dos períodos de apreciação do ano letivo em curso, consulte os seguintes links oficiais:
+
+* **Aviso de Prazos e Acesso à Plataforma Connect:** [Programas Doutorais (3º ciclo) – Candidaturas](https://posgraduacao.tecnico.ulisboa.pt/arquivos/programas-doutorais-3o-ciclo-candidaturas-11/)
+* **Informação Geral e Documentação:** [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
+* **Doctoral School – Applications:** [Doctoral School Website](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/applications/)
+* **Fluxo do Processo de Avaliação:** [Manual Flow do Processo de Doutoramento (PDF)](https://posgraduacao.tecnico.ulisboa.pt/files/sites/29/manual_flow-do-processo-de-doutoramento-vf.pdf)
 
 ## Bolsas e financiamento
 
