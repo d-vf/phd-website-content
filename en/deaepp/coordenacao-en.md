@@ -23,6 +23,7 @@ The formal composition of the programme's scientific bodies (2025) includes:
 - Ana Paula Ferreira Dias Barbosa Póvoa - Full Professor, Department of Engineering and Management, IST
 - Rui Miguel Loureiro Nobre Baptista (coordinator) - Full Professor, Department of Engineering and Management, IST
 - Joana Serra da Luz Mendonça (deputy coordinator) - Full Professor, Department of Engineering and Management, IST
+  
 [Diário da República No. 96/2025, Series II of 2025-05-20, Order No. 5680/2025 "Delegation of competencies of the Scientific Council of Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
  
 ## Scientific Monitoring Functions
@@ -50,6 +51,7 @@ The composition and operation of the Thesis Monitoring Committee must be confirm
  
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Regulations](regulamentos.md)
+
 Complementary sources:
  
 - [Faculty of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/people/teachers)
