@@ -1,14 +1,13 @@
 # Dissertations and Theses
-
-Consulting previous dissertations and theses from the Doctoral Program in Engineering and Management should ideally be done through Scholar, the institutional repository of Instituto Superior Técnico.
-
+ 
+Consulting previous dissertations and theses from the Doctoral Programme in Engineering and Management should ideally be done through Scholar, the institutional repository of Instituto Superior Técnico.
+ 
 - [Scholar — Instituto Superior Técnico Repository | PhD in Engineering and Management](https://scholar.tecnico.ulisboa.pt/search?q=degreeName:+%22Doutoramento+em+Engenharia+e+Gest%C3%A3o%22&domain=records&sort=_score:desc&useStringQuery=true&startYear=1911&endYear=2026)
 
-
 ## How to Search
-
+ 
 In Scholar, you can use expressions such as:
-
+ 
 - `Engenharia e Gestão`
 - `PhD Degree in Engineering and Management`
 - `Doutoramento em Engenharia e Gestão`
@@ -16,9 +15,9 @@ In Scholar, you can use expressions such as:
 - keywords associated with the research topic
 
 ## Examples of Areas Represented in Previous Theses
-
-Previous theses of the program reflect the diversity of Engineering and Management, including topics such as:
-
+ 
+Previous theses of the programme reflect the diversity of Engineering and Management, including topics such as:
+ 
 - multicriteria decision-making
 - resource evaluation and allocation
 - strategic management and sustainability
@@ -26,10 +25,10 @@ Previous theses of the program reflect the diversity of Engineering and Manageme
 - health systems and services
 - logistics, operations, and supply chains
 - innovation, technology, and public policies
-- economic and organizational analysis
+- economic and organisational analysis
 
-## Supervised Theses (last 5 occurrences) by Faculty Member
-
+## Supervised Theses (last 5 occurrences) by Staff Member
+ 
 | Professor / Supervisor | PhD Student | Year | Thesis Title |
 |:---|:---|---:|:---|
 | Ana Paula Ferreira Dias Barbosa Póvoa | Ana Sofia Bernardo Torrado | 2025 | [Sustainable blood supply chain optimization: addressing demand and supply, collaborative strategies, and a closed-loop system](https://scholar.tecnico.ulisboa.pt/records/RJTcIeNkpPuzDf4lniX8ZGYo0qNMIS9qjYkx) |
@@ -89,19 +88,19 @@ Previous theses of the program reflect the diversity of Engineering and Manageme
 | Ana Lopes Vieira | Salomé Guedes Sequeira de Pádua Azevedo | 2025 | [Managing real-world participatory design and evaluation of digital health interventions: a systemic modelling perspective](https://scholar.tecnico.ulisboa.pt/records/dpErmR51LNBuSBAX4lHNTg2OycjWIePMnsez) |
 | António Miguel Areias Dias Amaral | Anabela Costa Reis | 2017 | [Industrialisation, geography and policy under increasing uncertainty: implications for aeronautics](https://scholar.tecnico.ulisboa.pt/records/NN0ySmp14N9Xl-4TCkqFePU0wgMM5VBLKYhd) |
 | António Miguel Areias Dias Amaral | Daniela Filipa Pontes Guerra dos Santos | 2016 | [Social entrepreneurship: A conceptual framework and empirical evidence](https://scholar.tecnico.ulisboa.pt/records/GufW6mf4e6wcHR0mzpHO-eqdafnpZvfCPufW) |
-
+ 
 ## Link to Current Research
-
+ 
 Previous dissertations and theses should be used as an entry point to learn about:
-
-- topics developed in the program
+ 
+- topics developed in the programme
 - supervisors and lines of research
 - methods used in Engineering and Management
-- the articulation between academic research, companies, public administration, and research centers
+- the articulation between academic research, companies, public administration, and research centres
 
 Also consult:
-
+ 
 - [Research Areas](areas-de-investigacao.md)
-- [DEG Faculty](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/pt)
+- [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/)
