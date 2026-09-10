@@ -1,17 +1,17 @@
-# Doctoral Program in Engineering and Management (DeGest)
-
-The Doctoral Program in Engineering and Management (DeGest) aims to train experts in the field of Scientific Methods in Management (Management Science), involving a broad set of themes and approaches applicable to decision-making and analysis problems at the level of corporate management, public policies, and the interaction between technology, the economy, and society.
-
-Graduates combine technological knowledge, scientific management methods, and organizational factors and play an increasingly important role in business development, both in industry and services, government, and produce independent scientific research with international impact.
-
+# Doctoral Programme in Engineering and Management (DeGest)
+ 
+The Doctoral Programme in Engineering and Management (DeGest) aims to train experts in Management Science, covering a broad set of themes and approaches applicable to decision-making and analytical problems in corporate management, public policy, and the interaction between technology, the economy, and society.
+ 
+Graduates combine technological knowledge, scientific management methods, and organisational factors. They play a growing role in the development of organisations across industry, services, and government, and carry out independent scientific research with international impact.
+ 
 More information.
-
-# Doctoral Program in Engineering and Public Policy (DEAEPP)
-
-The Doctoral Program in Engineering and Public Policy aims to train experts in public policy and technology management through research in subjects where technological, economic, and legal issues are equally important. The Program originally started with specializations applied to the telecommunications and energy sectors, and has since been expanded to address constant technological changes. The program offers strong analytical preparation to support informed decision-making on complex real-world problems.
-
-The program trains public policy analysts capable of dealing with complex, ill-defined, and unstructured large-scale real-world problems and developing information and knowledge for effective management.
-
+ 
+# Doctoral Programme in Engineering and Public Policy (DEAEPP)
+ 
+The Doctoral Programme in Engineering and Public Policy aims to train experts in public policy and technology management through research on subjects where technological, economic, and legal issues carry equal weight. The programme began with specialisations in the telecommunications and energy sectors and has since broadened to keep pace with continuous technological change. It provides strong analytical training to support informed decision-making on complex real-world problems.
+ 
+The programme trains public policy analysts able to handle complex, ill-defined, unstructured, large-scale real-world problems and to develop the information and knowledge needed for effective management.
+ 
 More information.
 
 # Alumni Spotlight — PhD in Engineering and Management / Engineering and Public Policy (IST)
