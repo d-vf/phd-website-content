@@ -1,4 +1,4 @@
-# Research Areas
+## Research Areas
  
 The Doctoral Programme in Engineering and Management encompasses advanced research in Management Science and in decision-making, analytical, organisational, and management problems in technological, corporate, public, and social contexts.
  
@@ -7,7 +7,7 @@ The research associated with the programme should be understood at three complem
 1. the scientific-disciplinary areas of the Department of Engineering and Management
 2. the research centres and branches that frame the scientific activity of the academic staff
 3. the specific topics of supervision, research, and advanced teaching associated with the programme's academic staff
-## Scientific-disciplinary Areas of the Department
+### Scientific-disciplinary Areas of the Department
  
 The Department of Engineering and Management is organised into two scientific-disciplinary areas:
  
@@ -15,11 +15,11 @@ The Department of Engineering and Management is organised into two scientific-di
 - **Organisation Engineering and Management**
 These areas cover problems of strategy, planning, decision-making, operations, logistics, economics, innovation, sustainability, organisation, and analysis of complex systems.
  
-## Associated Research Centres and Branches
+### Associated Research Centres and Branches
  
 Much of the research at DEG is carried out within **CEGIST — Centre for Management Studies of Instituto Superior Técnico** and **IN+ — Center for Innovation, Technology and Policy Research**.
  
-### CEGIST — Centre for Management Studies of Instituto Superior Técnico
+#### CEGIST — Centre for Management Studies of Instituto Superior Técnico
  
 CEGIST organises its activity into research branches covering decision methods, operations research, logistics, sustainability, strategy, entrepreneurship, and innovation.
  
@@ -34,8 +34,7 @@ CEGIST organises its activity into research branches covering decision methods, 
 Useful Links:
  
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
-
-### IN+ — Center for Innovation, Technology and Policy Research
+#### IN+ — Center for Innovation, Technology and Policy Research
  
 IN+ is an interdisciplinary research centre in innovation, technology, and policy development. In the context of DEG and DeGest, the connection to IN+ is particularly relevant in topics that cross technology management, innovation policy, sustainability, energy transition, urban systems, industry, knowledge, and economic development.
  
@@ -50,8 +49,7 @@ The centre organises its activity around laboratories and areas such as:
 Useful Links:
  
 - [IN+](https://in3.dem.ist.utl.pt/) [Team](https://in3.dem.ist.utl.pt/team/) [Activities](https://in3.dem.ist.utl.pt/activities/) [Events](https://in3.dem.ist.utl.pt/events/)
-
-## Academic Staff and Research Interests
+### Academic Staff and Research Interests
  
 | Staff Member | Unit / Centre | Research Area/Interests | CV Summary | Profiles |
 | :--- | :--- | :--- | :--- | :--- |
@@ -87,16 +85,15 @@ Useful Links:
 | António Miguel Areias Dias Amaral | IN+ | Entrepreneurship; innovation; management; economics; occupational choice; technological change; entrepreneurial dynamics; social innovation. | Assistant Professor in the Department of Engineering and Management and associate researcher at IN+. Develops research in entrepreneurship, innovation, industrial dynamics, technological change, and human capital. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist45356) · [IN+](https://in3.dem.ist.utl.pt/team/members/miguel-amaral/) · [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist45356) · [Supervisions](https://scholar.tecnico.ulisboa.pt/authors/ist45356/supervised-records) · [ORCID](https://orcid.org/0000-0003-4629-1723) |
 | Carla Maria do Rosário Costa | CEGIST | Technological entrepreneurship; embodied knowledge flows; industrial clusters; spin-offs; innovation; new venture creation; pre-acceleration programmes. | Assistant Professor in the Department of Engineering and Management. Holds a PhD in Strategy, Entrepreneurship, and Technological Change from Carnegie Mellon University, with research on entrepreneurship, innovative clusters, and new venture creation. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist90190) · [CEGIST](https://cegist.tecnico.ulisboa.pt/user/1012) · [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist90190) · [Supervisions](https://scholar.tecnico.ulisboa.pt/authors/ist90190/supervised-records) · [Google Scholar](https://scholar.google.com/citations?user=kcY6IdoAAAAJ&hl=en) · [Ciência Vitae](https://www.cienciavitae.pt/portal/3E11-C3C7-F9B5) |
  
+### Thesis Topics and Previous Theses
  
-## Thesis Topics and Previous Dissertations
- 
-The definition of new thesis topics should take account of the active research branches, staff research interests, and the dissertations already completed in the programme.
+The definition of new thesis topics should take account of the active research branches, staff research interests, and the theses already completed in the programme.
  
 Previous theses cover, among other topics, remote healthcare, blood supply chains, home social services, digital health, multi-objective optimisation, shared autonomous vehicles, supply chain resilience, emergency medical services, foresight, public policies, infrastructure, forests, energy, sustainability, entrepreneurship, municipal management, multicriteria evaluation, information systems, reverse logistics, hospital networks, and the performance of urban services.
  
-- [Dissertations](dissertacoes.md)
-- 
-## Connection to Academic Staff, Projects, and Scientific Activities
+- [Dissertations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-dissertacoes)
+-
+### Connection to Academic Staff, Projects, and Scientific Activities
  
 - Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
 - CEGIST — Centre for Management Studies of Instituto Superior Técnico: [Events](https://cegist.tecnico.ulisboa.pt/events) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars) | [News](https://cegist.tecnico.ulisboa.pt/news)
