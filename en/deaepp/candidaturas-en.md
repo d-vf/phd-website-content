@@ -18,7 +18,7 @@ The evaluation and ranking of the application consider:
 - the motivation letter
 - the scientific and personal quality of the candidate
 - the research plan, if any
-In the case of the **IST/CMU dual degree**, candidates must be admitted by both institutions, apply directly to the EPP programme at Carnegie Mellon University, and typically present recent results from the **GRE and TOEFL** exams. The final classification of these candidates is determined by a **Joint Selection Committee**.
+In the case of the **IST/CMU dual degree**, candidates must be admitted by both institutions, apply directly to the EPP programme at Carnegie Mellon University, and typically present recent results from the **GRE and TOEFL** exams. The final ranking of these candidates is determined by a **Joint Selection Committee**.
  
 ## Application Process
  
@@ -45,7 +45,7 @@ According to the public information of the programme and the Postgraduate Area, 
 - research plan, if it already exists
 - results of the GRE and TOEFL exams, in the case of application to the IST/CMU dual degree
 - proof of payment of the application fee
-Always consult the updated list of documents in the Postgraduate Area.
+Always check the current list of documents in the Postgraduate Area.
  
 - [Postgraduate Area Forms](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/formularios/)
 ## Application and Review Periods
@@ -55,6 +55,7 @@ The programme generally has application periods associated with entry in the 1st
 Applications to Doctoral Programmes (3rd cycle) are submitted entirely online through the **Connect** admissions platform, managed by the Postgraduate Area.
  
 The platform allows the **continuous submission of applications** throughout the year. However, it is important to note that applications **are only reviewed and evaluated during specific periods** defined for entry in each semester:
+ 
 * **Entry in the Spring semester:** December to early January
 * **Entry in the Autumn semester:** June to early July
 After submission, your application will be analysed by the Scientific Committee of the Doctoral Programme during the cut-off dates. The committee is responsible for evaluating your academic and scientific path to determine the suitability of your profile for acceptance into the programme. Applications submitted outside these evaluation windows will remain in the system until the next review phase.
@@ -67,7 +68,7 @@ To submit your application, access the platform, and confirm the exact dates of 
 * **Evaluation Process Flow:** [Manual Flow of the Doctoral Process (PDF)](https://posgraduacao.tecnico.ulisboa.pt/files/sites/29/manual_flow-do-processo-de-doutoramento-vf.pdf)
 ## Scholarships and Funding
  
-Candidates should consult available funding opportunities through competitive scholarships, research projects, research centre competitions, and national programmes. In particular, the [**CMU-Portugal**](https://cmuportugal.org/dual-degree-phd/) program provides funding that allows the completion of the dual degree doctorate.
+Candidates should consult available funding opportunities through competitive scholarships, research projects, research centre competitions, and national programmes. In particular, the [**CMU-Portugal Program**](https://cmuportugal.org/dual-degree-phd/) provides funding that allows the completion of the dual degree doctorate.
  
 Useful sources:
  
@@ -86,8 +87,8 @@ Useful sources:
 For administrative questions regarding applications, enrolment, and document validation, please contact the Postgraduate Area:
  
 - posgraduacao@tecnico.ulisboa.pt
-For scientific framing, supervision, and research topics, consult the programme coordination and the faculty of the Department of Engineering and Management.
+For scientific framing, supervision, and research topics, consult the programme coordination and the academic staff of the Department of Engineering and Management.
  
-- [Scientific Coordination](coordenacao.md)
-- [DEG Faculty](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+- [Scientific Coordination](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-coordenacao)
+- [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
  
