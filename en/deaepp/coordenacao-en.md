@@ -11,6 +11,7 @@ Sources:
  
 - [Course description and coordination on Fénix (2025/2026)](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao?locale=en_EN)
 - [Técnico — Course Coordinators for the 2025–2026 Biennium](https://tecnico.ulisboa.pt/en/news/campus-community/course-coordinators-take-office-for-the-2025-2026-biennium/)
+  
 ## Scientific Structure of the Programme
  
 The scientific structure of the programme brings together the coordination of the cycle of studies, the scientific supervisors, the Thesis Monitoring Committee, and the competent scientific bodies of Instituto Superior Técnico. In the case of the IST/CMU dual degree, it also connects with the supervision and the scientific bodies of Carnegie Mellon University, within the scope of CMU-Portugal.
@@ -22,6 +23,7 @@ The formal composition of the programme's scientific bodies (2025) includes:
 - Ana Paula Ferreira Dias Barbosa Póvoa — Full Professor, Department of Engineering and Management, IST
 - Rui Miguel Loureiro Nobre Baptista (coordinator) — Full Professor, Department of Engineering and Management, IST
 - Joana Serra da Luz Mendonça (deputy coordinator) — Full Professor, Department of Engineering and Management, IST
+  
 [Diário da República No. 96/2025, Series II of 2025-05-20, Order No. 5680/2025 "Delegation of competencies of the Scientific Council of Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
  
 ## Scientific Monitoring Functions
@@ -49,6 +51,7 @@ The composition and operation of the Thesis Monitoring Committee should be confi
  
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Regulations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-regulamentos)
+  
 Complementary sources:
  
 - [Teachers of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/people/teachers)
