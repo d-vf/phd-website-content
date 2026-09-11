@@ -97,7 +97,7 @@ These topics reflect the articulation between technology, economics, environment
 - [Dissertations](dissertacoes-en.md)
 ## Connection to Academic Staff, Projects, and Scientific Activities
  
-- Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
+- Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) | [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
 - CEGIST — Centre for Management Studies of Instituto Superior Técnico: [Events](https://cegist.tecnico.ulisboa.pt/events) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars) | [News](https://cegist.tecnico.ulisboa.pt/news)
 - IN+ — Center for Innovation, Technology and Policy Research: [Events](https://in3.dem.ist.utl.pt/events/previous-events/) | [News](https://in3.dem.ist.utl.pt/news/archive/)
 - [LARSyS](https://larsys.pt/)
