@@ -3,7 +3,6 @@
 Consulting previous dissertations and theses from the Doctoral Programme in Engineering and Public Policy should ideally be done through Scholar, the institutional repository of Instituto Superior Técnico.
  
 - [Scholar — Instituto Superior Técnico Repository | PhD in Engineering and Public Policy](https://scholar.tecnico.ulisboa.pt/search?q=degreeName:+%22Doutoramento+em+Engenharia+e+Pol%C3%ADticas+P%C3%BAblicas%22&domain=records&sort=_score:desc&useStringQuery=true&startYear=1911&endYear=2026)
-
 ## How to Search
  
 In Scholar, you can use expressions such as:
@@ -13,7 +12,6 @@ In Scholar, you can use expressions such as:
 - `Doutoramento em Engenharia e Políticas Públicas`
 - names of supervisors or scientific areas of the Department of Engineering and Management
 - keywords associated with the research topic
-
 ## Examples of Areas Represented in Previous Theses
  
 Previous theses of the programme reflect the articulation between engineering, technology, and public policy, including topics such as:
@@ -26,8 +24,7 @@ Previous theses of the programme reflect the articulation between engineering, t
 - technology management and innovation policy
 - digitalisation, automation, and the labour market
 - analysis and decision support in public policies
-
-## Supervised Theses (last 5 occurrences) by Faculty Member
+## Supervised Theses (last 5 occurrences) by Staff Member
  
 | Professor / Supervisor | PhD Student | Year | Thesis Title |
 |:---|:---|---:|:---|
@@ -117,7 +114,6 @@ Previous theses of the programme reflect the articulation between engineering, t
 | João Paulo Salgado Arriscado Costeira | Fábio Rúben Silva Mendonça | 2021 | [Signal processing approaches for sleep quality analysis in suspected sleep disorder patients](https://scholar.tecnico.ulisboa.pt/records/tCCCJY5YC85nUXJRDRI4zsKOHCmaU5jw2SDU) |
 | João Paulo Salgado Arriscado Costeira | Maria Beatriz Alves de Sousa Quintino Ferreira | 2021 | [Classification of visual data with unreliable annotations: a real case in the fashion domain](https://scholar.tecnico.ulisboa.pt/records/GaQNJCyzajsIR0gGiqG5phR_h9z9WJTE20tL) |
 | João Paulo Salgado Arriscado Costeira | Sheikh Shanawaz Mostafa | 2020 | [Obstructive sleep apnea detection using fourth level devices](https://scholar.tecnico.ulisboa.pt/records/0Uxu27nEqHMEfmufJPPCBMciKDD2xkD8a0F6) |
- 
 ## Link to Current Research
  
 Previous dissertations and theses should be used as an entry point to learn about:
@@ -126,14 +122,12 @@ Previous dissertations and theses should be used as an entry point to learn abou
 - supervisors and lines of research
 - methods used at the interface of engineering, technology, and public policy
 - the articulation between academic research, public administration, industry, and research centres, frequently in co-supervision with Carnegie Mellon University within the scope of CMU-Portugal
-
 Also consult:
  
-- [Research Areas](areas-de-investigacao.md)
+- [Research Areas](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-areas-de-investigacao)
 - [Scholar — Técnico Repository](https://scholar.tecnico.ulisboa.pt/)
-- [DEG Faculty](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+- [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/)
 - [LARSyS](https://larsys.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/)
 - [INESC INOV](https://www.inov.pt/)
- 
