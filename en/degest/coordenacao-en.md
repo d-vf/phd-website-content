@@ -22,6 +22,7 @@ The formal composition of the programme's scientific bodies (2025) includes:
 - Francisco Miguel Garcia Gonçalves de Lima - Associate Professor, Department of Engineering and Management, IST
 - Mónica Duarte Correia de Oliveira - Full Professor, Department of Engineering and Management, IST
 - José Rui de Matos Figueira - Full Professor, Department of Engineering and Management, IST
+  
 [Diário da República No. 96/2025, Series II of 2025-05-20, Order No. 5680/2025 "Delegation of competencies of the Scientific Council of Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
  
 ### Scientific Monitoring Functions
@@ -48,6 +49,7 @@ The composition and operation of the Thesis Monitoring Committee should be confi
  
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Regulations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
+  
 Complementary sources:
  
 - [Teachers of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/people/teachers)
