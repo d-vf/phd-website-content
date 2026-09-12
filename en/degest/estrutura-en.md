@@ -1,4 +1,4 @@
-# Curricular Structure
+## Curricular Structure
  
 The Doctoral Programme in Engineering and Management consists of a doctoral curricular component and the preparation of an original research thesis.
  
@@ -12,7 +12,7 @@ The overall structure corresponds to **240 ECTS**, organised as follows:
  
 Current official information on the curriculum should be checked on Fénix, DGES, and the official accreditation and publication records.
  
-# Organisation
+## Organisation
  
 The programme is organised into two main components:
  
@@ -22,7 +22,7 @@ The curricular component allows the student to consolidate advanced training in 
  
 The research component leads to the definition, development, writing, and public defence of an original thesis.
  
-# Curricular Component
+## Curricular Component
  
 The curricular component corresponds to the **Common Core**, with **30 ECTS**.
  
@@ -55,11 +55,11 @@ The **Free Path** is a route without a specialisation. In this case, the student
  
 The Specialisation Block allows the student to deepen advanced training in fundamental areas of Engineering and Management.
  
-## Specialisation Block
+### Specialisation Block
  
 Among the curricular units published in the curriculum are:
  
-- Optimization and Applications
+- Optimisation and Applications
 - Models and Applications in Operations, Logistics and Supply Chain Management
 - Sustainability in Engineering and Management
 - Models and Applications in Decision Analysis
@@ -72,12 +72,12 @@ Among the curricular units published in the curriculum are:
 - Business Analytics and Simulation
 - Advanced Seminar in Information Systems
 - Research in Health Systems and Services
-- Specialization Elective I
-- Specialization Elective II
-
+- Specialisation Elective I
+- Specialisation Elective II
+  
 Curricular units should be selected in agreement with the programme coordination and in line with the student's research direction.
  
-## Transversal Skills Block
+### Transversal Skills Block
  
 The Transversal Skills Block corresponds to **6 ECTS**.
  
@@ -86,8 +86,8 @@ These curricular units may include training in skills relevant to the developmen
 Check the current offer each year through the Técnico Doctoral School.
  
 - [Técnico Doctoral School — Transversal Skills](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/transversal-skills/)
-
-## Free Options Block
+  
+### Free Options Block
  
 The Free Options Block can correspond to **0 to 12 ECTS**, according to the approved path.
  
@@ -101,8 +101,8 @@ Among the options published in the curriculum are:
 - Research Internship Abroad
 - Teaching Support I
 - Teaching Support II
-
-# Técnico Doctoral School
+  
+## Técnico Doctoral School
  
 The [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/) brings together information and initiatives common to all of Técnico's doctoral programmes, including training in transversal skills, PhD Fast Track, teaching opportunities, internships, internationalisation, careers, and academic life.
  
@@ -110,13 +110,13 @@ The [Técnico Doctoral School](https://doctoralschool.tecnico.ulisboa.pt/~doctor
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
 - ["Fast Track" PhD](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
-# Thesis Monitoring Committee (CAT)
+## Thesis Monitoring Committee (CAT)
  
 The Thesis Monitoring Committee (CAT) monitors the scientific development of the doctorate, together with the student, the supervisory team, and the programme coordination.
  
 The role of the CAT is to support the regular monitoring of the research plan, assess the progress of the work, and identify any needs for scientific, methodological, or institutional adjustment.
  
-## Establishing the CAT and Deadline (Article 14)
+### Establishing the CAT and Deadline (Article 14)
  
 According to the General Doctoral Regulations, the following main rules apply:
  
@@ -128,11 +128,10 @@ According to the General Doctoral Regulations, the following main rules apply:
 The composition, operation, and formal monitoring milestones should be confirmed against the regulations applicable to Técnico's doctoral programmes and the specific rules of the programme.
  
 **Useful Links:**
-- [Regulations](regulamentos.md)
+- [Regulations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [IST General Doctoral Regulations (PDF)](https://posgraduacao.tecnico.ulisboa.pt/files/sites/29/regulamento-geral-dos-doutoramentos-do-instituto-superior-tecnico_19maio2025.pdf)
-
-# Progress in Research Activities
+## Progress in Research Activities
  
 Progress in research activities corresponds to the continuous development of the scientific work leading to the thesis.
  
@@ -149,7 +148,7 @@ This phase generally includes:
 - preparation of scientific publications, when applicable
 Progress should be monitored together with the supervisory team, the CAT, and the programme coordination.
  
-# Writing the Thesis
+## Writing the Thesis
  
 Writing the thesis brings together and sets out in writing the research carried out during the doctorate.
  
@@ -157,11 +156,11 @@ The thesis must present an original scientific contribution in the area of Engin
  
 The specific structure of the thesis should be agreed with the supervisory team and follow the applicable Técnico standards.
  
-# Thesis Defence
+## Thesis Defence
  
 The thesis defence is the public examination and discussion of the research carried out.
  
 Submission, assessment, appointment of the jury, scheduling of the public examination, and the remaining procedures follow the regulations applicable to Técnico doctorates and the rules of the Postgraduate Area.
  
-- [Regulations](regulamentos.md)
+- [Regulations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
