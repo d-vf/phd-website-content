@@ -7,12 +7,14 @@ The research associated with the programme should be understood at three complem
 1. the scientific-disciplinary areas of the Department of Engineering and Management
 2. the research centres and branches that frame the scientific activity of the academic staff
 3. the specific topics of supervision, research, and advanced teaching associated with the programme's academic staff
+   
 ### Scientific-disciplinary Areas of the Department
  
 The Department of Engineering and Management is organised into two scientific-disciplinary areas:
  
 - **Systems Engineering and Management**
 - **Organisation Engineering and Management**
+  
 These areas cover problems of strategy, planning, decision-making, operations, logistics, economics, innovation, sustainability, organisation, and analysis of complex systems.
  
 ### Associated Research Centres and Branches
@@ -92,7 +94,7 @@ The definition of new thesis topics should take account of the active research b
 Previous theses cover, among other topics, remote healthcare, blood supply chains, home social services, digital health, multi-objective optimisation, shared autonomous vehicles, supply chain resilience, emergency medical services, foresight, public policies, infrastructure, forests, energy, sustainability, entrepreneurship, municipal management, multicriteria evaluation, information systems, reverse logistics, hospital networks, and the performance of urban services.
  
 - [Dissertations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-dissertacoes)
--
+
 ### Connection to Academic Staff, Projects, and Scientific Activities
  
 - Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
