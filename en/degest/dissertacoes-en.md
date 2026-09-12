@@ -1,10 +1,9 @@
-# Dissertations and Theses
+## Dissertations and Theses
  
-Consulting previous dissertations and theses from the Doctoral Programme in Engineering and Management should ideally be done through Scholar, the institutional repository of Instituto Superior Técnico.
+Consulting previous theses from the Doctoral Programme in Engineering and Management should ideally be done through Scholar, the institutional repository of Instituto Superior Técnico.
  
 - [Scholar — Instituto Superior Técnico Repository | PhD in Engineering and Management](https://scholar.tecnico.ulisboa.pt/search?q=degreeName:+%22Doutoramento+em+Engenharia+e+Gest%C3%A3o%22&domain=records&sort=_score:desc&useStringQuery=true&startYear=1911&endYear=2026)
-
-## How to Search
+### How to Search
  
 In Scholar, you can use expressions such as:
  
@@ -13,8 +12,8 @@ In Scholar, you can use expressions such as:
 - `Doutoramento em Engenharia e Gestão`
 - names of supervisors or scientific areas of the Department of Engineering and Management
 - keywords associated with the research topic
-
-## Examples of Areas Represented in Previous Theses
+  
+### Examples of Areas Represented in Previous Theses
  
 Previous theses of the programme reflect the diversity of Engineering and Management, including topics such as:
  
@@ -26,8 +25,8 @@ Previous theses of the programme reflect the diversity of Engineering and Manage
 - logistics, operations, and supply chains
 - innovation, technology, and public policies
 - economic and organisational analysis
-
-## Supervised Theses (last 5 occurrences) by Staff Member
+  
+### Supervised Theses (last 5 occurrences) by Staff Member
  
 | Professor / Supervisor | PhD Student | Year | Thesis Title |
 |:---|:---|---:|:---|
@@ -89,18 +88,18 @@ Previous theses of the programme reflect the diversity of Engineering and Manage
 | António Miguel Areias Dias Amaral | Anabela Costa Reis | 2017 | [Industrialisation, geography and policy under increasing uncertainty: implications for aeronautics](https://scholar.tecnico.ulisboa.pt/records/NN0ySmp14N9Xl-4TCkqFePU0wgMM5VBLKYhd) |
 | António Miguel Areias Dias Amaral | Daniela Filipa Pontes Guerra dos Santos | 2016 | [Social entrepreneurship: A conceptual framework and empirical evidence](https://scholar.tecnico.ulisboa.pt/records/GufW6mf4e6wcHR0mzpHO-eqdafnpZvfCPufW) |
  
-## Link to Current Research
+### Link to Current Research
  
-Previous dissertations and theses should be used as an entry point to learn about:
+Previous theses should be used as an entry point to learn about:
  
 - topics developed in the programme
 - supervisors and lines of research
 - methods used in Engineering and Management
 - the articulation between academic research, companies, public administration, and research centres
-
+  
 Also consult:
  
-- [Research Areas](areas-de-investigacao.md)
+- [Research Areas](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-areas-de-investigacao)
 - [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/)
