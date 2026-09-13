@@ -4,7 +4,7 @@ The Doctoral Programme in Engineering and Management (DeGest) aims to train expe
  
 Graduates combine technological knowledge, scientific management methods, and organisational factors. They play a growing role in the development of organisations across industry, services, and government, and carry out independent scientific research with international impact.
  
-[More information about DeGest](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao)
+[More information](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-gestao)
  
 ## Doctoral Programme in Engineering and Public Policy (DEAEPP)
  
@@ -12,7 +12,7 @@ The Doctoral Programme in Engineering and Public Policy aims to train experts in
  
 The programme trains public policy analysts able to handle complex, ill-defined, unstructured, large-scale real-world problems and to develop the information and knowledge needed for effective management.
  
-[More information about the DEAEPP](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas)
+[More information](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas)
  
 
 # Alumni Spotlight — PhD in Engineering and Management / Engineering and Public Policy (IST)
