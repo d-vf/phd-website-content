@@ -7,11 +7,6 @@
 | Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Rui Miguel Loureiro Nobre Baptista | Professor Catedrático, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 | Coordenador do Programa Doutoral em Engenharia e Políticas Públicas | Joana Serra da Luz Mendonça | Professora Catedrática, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 
-Fontes:
-
-- [Descrição e coordenação do curso no Fénix (2025/2026)](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao)
-- [Técnico — Coordenadores de curso para o biénio 2025–2026](https://tecnico.ulisboa.pt/pt/noticias/campus-e-comunidade/coordenadores-de-curso-tomam-posse-para-o-bienio-2025-2026/)
-
 ## Estrutura científica do programa
 
 A estrutura científica do programa articula a coordenação do ciclo de estudos, os orientadores científicos, a Comissão de Acompanhamento de Tese e os órgãos científicos competentes do Instituto Superior Técnico. No caso do grau dual IST/CMU, articula-se ainda com a orientação e os órgãos científicos da Carnegie Mellon University, no âmbito do CMU-Portugal.
@@ -23,8 +18,6 @@ A composição formal dos órgãos científicos do programa (2025), incluem-se:
 - Ana Paula Ferreira Dias Barbosa Póvoa -  Professora Catedrática, Departamento de Engenharia e Gestão, IST
 - Rui Miguel Loureiro Nobre Baptista (coordenador) - Professoro Catedrátic, Departamento de Engenharia e Gestão, IST
 - Joana Serra da Luz Mendonça (coordenadora adjunta) Professora Catedrática, Departamento de Engenharia e Gestão, IST
-
-[Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
 
 ## Funções de acompanhamento científico
 
@@ -51,7 +44,7 @@ A sua função é apoiar o acompanhamento regular do plano de investigação, a 
 A composição e o funcionamento da Comissão de Acompanhamento de Tese devem ser confirmados nos regulamentos aplicáveis aos programas doutorais do Técnico e nas normas específicas do programa.
 
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-- [Regulamentos](regulamentos.md)
+- [Regulamentos](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 
 Fontes complementares:
 
