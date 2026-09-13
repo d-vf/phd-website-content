@@ -35,7 +35,7 @@ O CEGIST organiza a sua actividade em ramos de investigação que cobrem método
 
 Ligações úteis:
 
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/) | [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) | [Members](https://cegist.tecnico.ulisboa.pt/members) | [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 
 ### IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento
 
@@ -89,17 +89,18 @@ Ligações úteis:
 | João Manuel Jorge Estêvão | CEGIST | Energia; mercados de energia; empreendedorismo; turismo; contabilidade; análise de séries temporais; fsQCA. | Professor Auxiliar no Departamento de Engenharia e Gestão. A informação pública associa-o a temas de energia, empreendedorismo, turismo, contabilidade e métodos quantitativos. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist430772) · [CEGIST](https://cegist.tecnico.ulisboa.pt/members) · [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist430772) · [Orientações](https://scholar.tecnico.ulisboa.pt/authors/ist430772/supervised-records?lang=pt) · [Google Scholar](https://scholar.google.com/citations?user=3a2dbC8AAAAJ&hl=pt-PT) |
 | António Miguel Areias Dias Amaral | IN+ | Empreendedorismo; inovação; gestão; economia; escolha ocupacional; mudança tecnológica; dinâmica empreendedora; inovação social. | Professor Auxiliar no Departamento de Engenharia e Gestão e investigador associado ao IN+. Desenvolve investigação em empreendedorismo, inovação, dinâmica industrial, mudança tecnológica e capital humano. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist45356) · [IN+](https://in3.dem.ist.utl.pt/team/members/miguel-amaral/) · [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist45356) · [Orientações](https://scholar.tecnico.ulisboa.pt/authors/ist45356/supervised-records?lang=pt) · [ORCID](https://orcid.org/0000-0003-4629-1723) |
 | Carla Maria do Rosário Costa | CEGIST | Empreendedorismo tecnológico; fluxos de conhecimento incorporado; clusters industriais; spin-offs; inovação; criação de novas empresas; programas de pré-aceleração. | Professora Auxiliar no Departamento de Engenharia e Gestão. É doutorada em Strategy, Entrepreneurship, and Technological Change pela Carnegie Mellon University, com investigação sobre empreendedorismo, clusters inovadores e criação de novas empresas. | [Fénix](https://fenix.tecnico.ulisboa.pt/homepage/ist90190) · [CEGIST](https://cegist.tecnico.ulisboa.pt/user/1012) · [Técnico Scholar](https://scholar.tecnico.ulisboa.pt/authors/ist90190) · [Orientações](https://scholar.tecnico.ulisboa.pt/authors/ist90190/supervised-records?lang=pt) · [Google Scholar](https://scholar.google.com/citations?user=kcY6IdoAAAAJ&hl=en) · [Ciência Vitae](https://www.cienciavitae.pt/portal/3E11-C3C7-F9B5) |
+
 ## Tópicos de tese e dissertações anteriores
 
 A definição de novos tópicos de tese deve considerar os ramos de investigação activos, os interesses dos docentes e as dissertações já concluídas no programa. 
 
 As teses anteriores cobrem, entre outros temas, cuidados de saúde remotos, cadeias de abastecimento de sangue, serviços sociais domiciliários, saúde digital, optimização multi-objectivo, veículos autónomos partilhados, resiliência em cadeias de abastecimento, serviços médicos de emergência, foresight, políticas públicas, infraestruturas, florestas, energia, sustentabilidade, empreendedorismo, gestão municipal, avaliação multicritério, sistemas de informação, logística inversa, redes hospitalares e desempenho de serviços urbanos.
 
-- [Dissertações](dissertacoes.md)
+- [Dissertações](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-dissertacoes)
 
 ## Ligação a docentes, projectos e actividades científicas
 
-- Departamento de Engenharia e Gestão: [Docentes](https://deg.tecnico.ulisboa.pt/pessoas/docentes) [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
+- Departamento de Engenharia e Gestão: [Docentes](https://deg.tecnico.ulisboa.pt/pessoas/docentes) | [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
   
 - CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico: [Eventos](https://cegist.tecnico.ulisboa.pt/events) | [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) | [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
 
