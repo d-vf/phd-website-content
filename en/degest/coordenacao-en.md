@@ -5,12 +5,7 @@
 | Role | Name | Affiliation |
 |---|---|---|
 | Coordinator of the Doctoral Programme in Engineering and Management | Francisco Miguel Garcia Gonçalves de Lima | Associate Professor, Department of Engineering and Management, Instituto Superior Técnico |
- 
-Sources:
- 
-- [Técnico — Course Coordinators for the 2025–2026 Biennium](https://tecnico.ulisboa.pt/en/news/campus-community/course-coordinators-take-office-for-the-2025-2026-biennium/)
-- [Diário da República — Order No. 2995/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2995-2026-1068900261)
-  
+   
 ### Scientific Committee / Scientific Structure of the Programme
  
 The scientific structure of the programme brings together the coordination of the cycle of studies, the scientific supervisors, the Thesis Monitoring Committee, and the competent scientific bodies of Instituto Superior Técnico.
@@ -22,9 +17,7 @@ The formal composition of the programme's scientific bodies (2025) includes:
 - Francisco Miguel Garcia Gonçalves de Lima - Associate Professor, Department of Engineering and Management, IST
 - Mónica Duarte Correia de Oliveira - Full Professor, Department of Engineering and Management, IST
 - José Rui de Matos Figueira - Full Professor, Department of Engineering and Management, IST
-  
-[Diário da República No. 96/2025, Series II of 2025-05-20, Order No. 5680/2025 "Delegation of competencies of the Scientific Council of Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
- 
+   
 ### Scientific Monitoring Functions
  
 The scientific coordination encompasses:
