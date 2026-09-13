@@ -98,5 +98,5 @@ Para questões administrativas sobre candidatura, matrícula e validação docum
 
 Para enquadramento científico, orientação e temas de investigação, consultar a coordenação do programa e os docentes do Departamento de Engenharia e Gestão.
 
-- [Coordenação científica](coordenacao.md)
+- [Coordenação científica](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-coordenacao)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
