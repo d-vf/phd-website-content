@@ -100,11 +100,11 @@ As teses recentes do EPP cobrem, entre outros temas:
 
 Estes temas refletem a articulação entre tecnologia, economia, ambiente e decisão pública que caracteriza o programa, frequentemente em co-orientação com a Carnegie Mellon University no âmbito do CMU-Portugal.
 
-- [Dissertações](dissertacoes.md)
+- [Dissertações](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-dissertacoes)
 
 ## Ligação a docentes, projectos e actividades científicas
 
-- Departamento de Engenharia e Gestão: [Docentes](https://deg.tecnico.ulisboa.pt/pessoas/docentes) [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
+- Departamento de Engenharia e Gestão: [Docentes](https://deg.tecnico.ulisboa.pt/pessoas/docentes) | [Eventos](https://deg.tecnico.ulisboa.pt/eventos) | [Notícias](https://deg.tecnico.ulisboa.pt/noticias)
 - CEGIST — Centro de Estudos de Gestão do Instituto Superior Técnico: [Eventos](https://cegist.tecnico.ulisboa.pt/events) | [Seminários](https://cegist.tecnico.ulisboa.pt/seminars) | [Notícias](https://cegist.tecnico.ulisboa.pt/news) 
 - IN+ — Centro de Estudos em Inovação, Tecnologia e Políticas de Desenvolvimento: [Eventos](https://in3.dem.ist.utl.pt/events/previous-events/) | [Notícias](https://in3.dem.ist.utl.pt/news/archive/)
 - [LARSyS](https://larsys.pt/)
