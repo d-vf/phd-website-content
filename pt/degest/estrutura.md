@@ -131,7 +131,7 @@ De acordo com o Regulamento Geral dos Doutoramentos, a formação da CAT obedece
 A composição, funcionamento e momentos formais de acompanhamento devem ser confirmados nos regulamentos aplicáveis aos programas doutorais do Técnico e nas normas específicas do programa.
 
 **Links Úteis:**
-- [Regulamentos](regulamentos.md)
+- [Regulamentos](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
 - [Regulamento Geral dos Doutoramentos do IST (PDF)](https://posgraduacao.tecnico.ulisboa.pt/files/sites/29/regulamento-geral-dos-doutoramentos-do-instituto-superior-tecnico_19maio2025.pdf)
 
