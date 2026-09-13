@@ -35,7 +35,8 @@ CEGIST organises its activity into research branches covering decision methods, 
  
 Useful Links:
  
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) | [Members](https://cegist.tecnico.ulisboa.pt/members) | [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/theses) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+
 #### IN+ — Center for Innovation, Technology and Policy Research
  
 IN+ is an interdisciplinary research centre in innovation, technology, and policy development. In the context of DEG and DeGest, the connection to IN+ is particularly relevant in topics that cross technology management, innovation policy, sustainability, energy transition, urban systems, industry, knowledge, and economic development.
@@ -97,6 +98,6 @@ Previous theses cover, among other topics, remote healthcare, blood supply chain
 
 ### Connection to Academic Staff, Projects, and Scientific Activities
  
-- Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
+- Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) | [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
 - CEGIST — Centre for Management Studies of Instituto Superior Técnico: [Events](https://cegist.tecnico.ulisboa.pt/events) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars) | [News](https://cegist.tecnico.ulisboa.pt/news)
 - IN+ — Center for Innovation, Technology and Policy Research: [Events](https://in3.dem.ist.utl.pt/events/previous-events/) | [News](https://in3.dem.ist.utl.pt/news/archive/)
