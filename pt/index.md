@@ -6,7 +6,7 @@ O Programa de Doutoral em Engenharia e Gestão (DeGest) visa formar especialista
 
 Os graduados combinam conhecimento tecnológico, métodos científicos de gestão e fatores organizacionais e desempenham um papel cada vez mais importante no desenvolvimento de negócios, tanto na indústria e serviços, governo, e produzem investigação científica independente com impacto internacional.
 
-Mais informação.
+[Mais informação](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao)
 
 # Programa Doutoral em Engenharia e Políticas Públicas (DEAEPP)
 
@@ -15,7 +15,7 @@ O Programa Doutoral em Engenharia e Políticas Públicas visa formar especialist
 
 O programa treina analistas de políticas públicas capazes de lidar com problemas complexos, mal definidos e não estruturados do mundo real em grande escala  e de desenvolver informações e conhecimento para uma gestão eficaz.
 
-Mais informação.
+[Mais informação](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas)
 
 # Alumni Spotlight — PhD in Engineering and Management / Engineering and Public Policy (IST)
 
