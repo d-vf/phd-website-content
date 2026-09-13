@@ -7,6 +7,7 @@ The programme operates in two formats: the **IST/CMU dual degree**, in partnersh
 - [Applications to doctoral programmes at Técnico](https://tecnico.ulisboa.pt/en/education/study-at-tecnico/applications/doctoral-programmes/)
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
+
 ## Admission Requirements
  
 The programme is preferably intended for holders of training in **engineering**, and relevant professional experience is valued. Candidates from other areas may be accepted, provided they demonstrate a solid foundation in science and technology. Candidates considered must have **excellent knowledge of quantitative methods**.
@@ -48,6 +49,7 @@ According to the public information of the programme and the Postgraduate Area, 
 Always check the current list of documents in the Postgraduate Area.
  
 - [Postgraduate Area Forms](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/formularios/)
+
 ## Application and Review Periods
  
 The programme generally has application periods associated with entry in the 1st and 2nd semesters.
@@ -77,6 +79,7 @@ Useful sources:
 - [Foundation for Science and Technology — Scholarships](https://www.fct.pt/en/financiamento/programas-de-financiamento/bolsas)
 - [IST-ID — Scholarship Competitions](https://ist-id.pt/recursos-humanos/bolseiros/)
 - [Técnico DRH — Recruitment of Scholarship Holders](https://drh.tecnico.ulisboa.pt/en/bolseiros/recrutamento/)
+
 ## Awards
  
 - [Best Doctoral Thesis Award](https://posgraduacao.tecnico.ulisboa.pt/en/english-ist-best-doctoral-thesis-award-regulations/)
