@@ -40,8 +40,8 @@ CEGIST organises its activity into research branches covering decision methods, 
  
 Useful Links:
  
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/)
-- [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) | [Members](https://cegist.tecnico.ulisboa.pt/members) | [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/theses) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+  
 ### LARSyS — Laboratory of Robotics and Engineering Systems
  
 LARSyS is an Associate Laboratory dedicated to research in complex and socio-technical engineering systems, bringing together four units (ISR-Lisboa, **IN+**, ITI, and MARETEC). In the context of the EPP, the most relevant connection is through **IN+ — Center for Innovation, Technology and Policy Research**, in topics that cross technology management, innovation policy, energy systems, sustainability, mobility, and decarbonisation.
@@ -56,6 +56,7 @@ Useful Links:
  
 - [LARSyS](https://larsys.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/) [Team](https://in3.dem.ist.utl.pt/team/) [Activities](https://in3.dem.ist.utl.pt/activities/) [Events](https://in3.dem.ist.utl.pt/events/)
+  
 ### INESC INOV — Instituto de Engenharia de Sistemas e Computadores Inovação
  
 INOV is a Technology and Innovation Centre dedicated to applied research and technology transfer in the field of ICTE, with areas such as artificial intelligence, data science, cybersecurity, sensing and IoT, cyber-physical systems, and digital transformation. In the context of the EPP, the connection is relevant in topics of information systems, IT governance, and digital transformation applied to organisational and public policy contexts.
@@ -64,6 +65,7 @@ Useful Links:
  
 - [INOV](https://www.inov.pt/)
 - [INESC](https://inesc.pt/)
+  
 ## Academic Staff and Research Interests
  
 Indicative list of academic staff associated with the Doctoral Programme in Engineering and Public Policy, with areas of interest, CV summary, and public profiles.
@@ -94,7 +96,8 @@ Recent EPP theses cover, among other topics:
 - sustainable energy-based rural electrification in developing countries
 These topics reflect the articulation between technology, economics, environment, and public decision-making that characterises the programme, frequently co-supervised with Carnegie Mellon University within the scope of CMU-Portugal.
  
-- [Dissertations](dissertacoes-en.md)
+- [Dissertations](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-dissertacoes)
+  
 ## Connection to Academic Staff, Projects, and Scientific Activities
  
 - Department of Engineering and Management: [Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers) | [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
