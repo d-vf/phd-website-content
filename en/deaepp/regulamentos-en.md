@@ -10,6 +10,7 @@ Current administrative information should always be confirmed with the Postgradu
 - [Postgraduate Area — Doctoral Programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Postgraduate Area Forms](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/formularios/)
 - [Academic Examinations](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/provas-academicas/)
+  
 ## Official Publications and Accreditation
  
 Institutional information is spread across several sources:
@@ -44,6 +45,7 @@ The Técnico Doctoral School brings together information common to all doctoral 
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Support](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
 - ["Fast Track" PhD](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+  
 ## Tuition and Fees
  
 Tuition, fees, and student insurance are set and published by Técnico; check the official page of the Postgraduate Area. On the dual degree, students enrolled full-time at both IST and CMU pay tuition fees at both institutions; students who take the whole programme at IST pay fees only at IST.
