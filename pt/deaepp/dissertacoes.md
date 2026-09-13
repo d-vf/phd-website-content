@@ -129,7 +129,7 @@ As dissertações e teses anteriores devem ser usadas como ponto de entrada para
 
 Consultar também:
 
-- [Áreas de investigação](areas-de-investigacao.md)
+- [Áreas de investigação](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-areas-de-investigacao)
 - [Scholar — Repositório do Técnico](https://scholar.tecnico.ulisboa.pt/)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/pt)
