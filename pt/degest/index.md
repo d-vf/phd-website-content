@@ -43,10 +43,10 @@ Os estudantes de doutoramento podem ainda consultar a oferta transversal da Esco
 
 ## Ligações úteis
 
-- [Áreas de investigação](areas-de-investigacao.md)
-- [Candidaturas](candidaturas.md)
-- [Estrutura do programa](estrutura.md)
-- [Dissertações](dissertacoes.md)
-- [Regulamentos e publicações oficiais](regulamentos.md)
-- [Coordenação](coordenacao.md)
-- [Contactos](contactos.md)
+- [Áreas de investigação](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-areas-de-investigacao)
+- [Candidaturas](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-candidaturas)
+- [Estrutura do programa](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-estrutura)
+- [Dissertações](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-dissertacoes)
+- [Regulamentos e publicações oficiais](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
+- [Coordenação](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-coordenacao)
+- [Contactos](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-contactos)
