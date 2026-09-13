@@ -55,6 +55,7 @@ The coordination of the cycle of studies is carried out by the programme's coord
 - [Course description on Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao?locale=en_EN)
 - [Access regime on Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso?locale=en_EN)
 - [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
+  
 ## Curricular Component
  
 The curricular component corresponds to the **Doctoral Course**, with **30 ECTS**.
@@ -109,6 +110,7 @@ These initiatives are available to students of the Doctoral Programme in Enginee
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Support](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
 - ["Fast Track" PhD](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+  
 ## Thesis Monitoring Committee (CAT)
  
 The Thesis Monitoring Committee (CAT) monitors the scientific development of the doctorate, together with the student, the supervisory team, and the programme coordination.
