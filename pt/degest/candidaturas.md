@@ -92,5 +92,5 @@ Para questões administrativas sobre candidatura, matrícula e validação docum
 
 Para enquadramento científico, orientação e temas de investigação, consultar a Comissão Científica do programa e os docentes do Departamento de Engenharia e Gestão.
 
-- [Comissão Científica](coordenacao.md)
+- [Comissão Científica](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-coordenacao)
 - [Docentes do DEG](https://deg.tecnico.ulisboa.pt/pessoas/docentes)
