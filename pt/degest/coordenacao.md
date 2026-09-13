@@ -6,11 +6,6 @@
 |---|---|---|
 | Coordenador do Programa Doutoral em Engenharia e Gestão | Francisco Miguel Garcia Gonçalves de Lima | Professor Associado, Departamento de Engenharia e Gestão, Instituto Superior Técnico |
 
-Fontes:
-
-- [Técnico — Coordenadores de curso para o biénio 2025–2026](https://tecnico.ulisboa.pt/pt/noticias/campus-e-comunidade/coordenadores-de-curso-tomam-posse-para-o-bienio-2025-2026/)
-- [Diário da República — Despacho n.º 2995/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2995-2026-1068900261)
-
 
 ## Comissão Científica / estrutura científica do programa
 
@@ -23,8 +18,6 @@ A composição formal dos órgãos científicos do programa (2025), incluem-se:
 - Francisco Miguel Garcia Gonçalves de Lima -  Professor Associado, Departamento de Engenharia e Gestão, IST
 - Mónica Duarte Correia de Oliveira - Professora Catedrática, Departamento de Engenharia e Gestão, IST
 - José Rui de Matos Figueira - Professor Catedrático, Departamento de Engenharia e Gestão, IST
-
-[Diário da República n.º 96/2025, Série II de 2025-05-20,Despacho n.º 5680/2025 "Delegação de competências do Conselho Científico do Instituto Superior Técnico"](https://diariodarepublica.pt/dr/detalhe/despacho/5680-2025-918555146)
 
 ## Funções de acompanhamento científico
 
@@ -50,7 +43,7 @@ A sua função é apoiar o acompanhamento regular do plano de investigação, a 
 A composição e o funcionamento da Comissão de Acompanhamento de Tese devem ser confirmados nos regulamentos aplicáveis aos programas doutorais do Técnico e nas normas específicas do programa.
 
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
-- [Regulamentos](regulamentos.md)
+- [Regulamentos](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 
 Fontes complementares:
 
