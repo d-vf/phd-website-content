@@ -167,6 +167,6 @@ A defesa da tese corresponde ao ato público de apreciação e discussão do tra
 
 A entrega, apreciação, constituição do júri, marcação da prova pública e demais procedimentos devem seguir os regulamentos aplicáveis aos doutoramentos do Técnico e as normas da Área de Pós-Graduação.
 
-- [Regulamentos](regulamentos.md)
+- [Regulamentos](https://deg.tecnico.ulisboa.pt/ensino/deaegest/programa-doutoral-em-engenharia-e-gestao/degest-regulamentos)
 - [Área de Pós-Graduação — Programas Doutorais](https://posgraduacao.tecnico.ulisboa.pt/programas-doutorais/)
  
