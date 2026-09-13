@@ -42,8 +42,7 @@ O CEGIST organiza a sua actividade em ramos de investigação que cobrem método
 
 Ligações úteis:
 
-- [CEGIST](https://cegist.tecnico.ulisboa.pt/)
-- [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) [Members](https://cegist.tecnico.ulisboa.pt/members) [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
+- [CEGIST](https://cegist.tecnico.ulisboa.pt/) [Research Areas](https://cegist.tecnico.ulisboa.pt/research-areas) | [Members](https://cegist.tecnico.ulisboa.pt/members) | [PhD & MSc Theses](https://cegist.tecnico.ulisboa.pt/phd-msc-theses) |  [Seminars](https://cegist.tecnico.ulisboa.pt/seminars)
 
 ### LARSyS — Laboratory of Robotics and Engineering Systems
 
