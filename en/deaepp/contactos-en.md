@@ -16,11 +16,13 @@ Técnico Postgraduate Area:
 - [Doctoral Programmes — Postgraduate Area](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/)
 - [Forms](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/formularios/)
 - [Regulations](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/regulamentos/)
+  
 In the case of the **IST/CMU dual degree** (CMU-Portugal Program), candidates must also apply directly to the Engineering and Public Policy (EPP) programme at Carnegie Mellon University and typically present recent results from the GRE and TOEFL exams. Admission depends on both institutions.
  
 - [Carnegie Mellon University — Engineering and Public Policy (EPP)](https://epp.engineering.cmu.edu/)
 - [Applications](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-candidaturas)
 - [Access regime on Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/regime-de-acesso?locale=en_EN)
+  
 ## Department of Engineering and Management
  
 Department of Engineering and Management  
@@ -32,6 +34,7 @@ Av. Rovisco Pais, 1
 - Phone: (+351) 218 417 981 / 203
 - [DEG Contacts](https://deg.tecnico.ulisboa.pt/en/contacts)
 - [Contacts on Fénix](https://fenix.tecnico.ulisboa.pt/departamentos/deg/contactos-8df?locale=en_EN)
+  
 ## Scientific Coordination
  
 For scientific information on research areas, supervision, and academic framework:
@@ -40,6 +43,7 @@ For scientific information on research areas, supervision, and academic framewor
 - [Research Areas](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-areas-de-investigacao)
 - [Course description and coordination on Fénix](https://fenix.tecnico.ulisboa.pt/cursos/deaepp/descricao?locale=en_EN)
 - [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+  
 ## Research Centres
  
 - [CEGIST — Centre for Management Studies of Instituto Superior Técnico](https://cegist.tecnico.ulisboa.pt/)
