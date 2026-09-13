@@ -31,6 +31,7 @@ Students enrolled full-time at both IST and CMU pay tuition fees at both institu
 The IST Management Board sets the tuition fees for its educational programmes each year. This information is published in the IST Doctoral Tuition Fees Regulation.
  
 - [Regulations and tuition fees for doctoral programmes](https://posgraduacao.tecnico.ulisboa.pt/en/programas-doutorais/regulamentos/)
+
 ## Events, Seminars, and Dissemination
  
 Consult:
@@ -38,6 +39,7 @@ Consult:
 - Department of Engineering and Management: [Events](https://deg.tecnico.ulisboa.pt/en/events) | [News](https://deg.tecnico.ulisboa.pt/en/news)
 - CEGIST — Centre for Management Studies of Instituto Superior Técnico: [Events](https://cegist.tecnico.ulisboa.pt/events) | [Seminars](https://cegist.tecnico.ulisboa.pt/seminars) | [News](https://cegist.tecnico.ulisboa.pt/news)
 - IN+ — Center for Innovation, Technology and Policy Research: [Events](https://in3.dem.ist.utl.pt/events/previous-events/) | [News](https://in3.dem.ist.utl.pt/news/archive/)
+
 ## Complementary Doctoral Training
  
 Doctoral students can also draw on the provision the Técnico Doctoral School offers across all doctoral programmes, including training in transversal skills, teaching opportunities, internships, and other activities linked to the doctorate.
@@ -46,6 +48,7 @@ Doctoral students can also draw on the provision the Técnico Doctoral School of
 - [Técnico Doctoral School — Internships](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/internships/)
 - [Técnico Doctoral School — Teaching Opportunities](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/professional-training/teaching-opportunities/)
 - ["Fast Track" PhD](https://doctoralschool.tecnico.ulisboa.pt/~doctoralschool.daemon/doctoral-programmes/phd-fast-track/)
+
 ## Useful Links
  
 - [Research Areas](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-areas-de-investigacao)
