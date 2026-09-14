@@ -48,5 +48,5 @@ The composition and operation of the Thesis Monitoring Committee should be confi
   
 Complementary sources:
  
-- [Teachers of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+- [Faculty of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/people/teachers)
 - [Organisation of the Department of Engineering and Management](https://deg.tecnico.ulisboa.pt/en/about/organisation)
