@@ -129,7 +129,7 @@ Also consult:
  
 - [Research Areas](https://deg.tecnico.ulisboa.pt/en/education/deaegest/programa-doutoral-em-engenharia-e-politicas-publicas/deaepp-areas-de-investigacao)
 - [Scholar — Técnico Repository](https://scholar.tecnico.ulisboa.pt/)
-- [DEG Teachers](https://deg.tecnico.ulisboa.pt/en/people/teachers)
+- [DEG Faculty](https://deg.tecnico.ulisboa.pt/en/people/teachers)
 - [CEGIST](https://cegist.tecnico.ulisboa.pt/)
 - [LARSyS](https://larsys.pt/)
 - [IN+](https://in3.dem.ist.utl.pt/)
